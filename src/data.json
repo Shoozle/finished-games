@@ -15,6 +15,22 @@
         "likes" : ["Excellent visual animations in some levels", "Forgiving power ups after dying"], 
         "dislikes" : ["How movement worked on the stairs", "Bats"],
         "url" : "img/Super Castlevania.jpg"  
+    },
+    {
+        "title" : "Super Castlevania", 
+        "score" : 5, 
+        "beaten" : 1,
+        "likes" : ["Excellent visual animations in some levels", "Forgiving power ups after dying"], 
+        "dislikes" : ["How movement worked on the stairs", "Bats"],
+        "url" : "img/Super Castlevania.jpg"  
+    },
+    {
+        "title" : "Super Castlevania", 
+        "score" : 5, 
+        "beaten" : 1,
+        "likes" : ["Excellent visual animations in some levels", "Forgiving power ups after dying"], 
+        "dislikes" : ["How movement worked on the stairs", "Bats"],
+        "url" : "img/Super Castlevania.jpg"  
     }
     ],
     "2019" : [
@@ -24,7 +40,15 @@
            "beaten" : 3,
            "likes" : ["Swords clashing sound fx", "Excellent bosses"], 
            "dislikes" : ["English dub is bad", "Soundtrack doesn't have a wide range"],
-           "url" : "img/3.jpg"  
-       }
-       ]
+           "url" : "img/Sekiro.jpg"  
+       },
+       {
+        "title" : "Pokemon White", 
+        "score" : 9, 
+        "beaten" : 3,
+        "likes" : ["Village Bridge music", "151 new Pokemon"], 
+        "dislikes" : ["Bad touch screen UI", "Online features now worthless"],
+        "url" : "img/Pokemon White.jpg"  
+    }
+    ]
 }
