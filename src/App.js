@@ -1,6 +1,7 @@
 import './App.css';
 import { useState } from 'react';
 import Game from './components/Game';
+import GameList from './components/GameList';
 
 function App() {
   const gameData = require('./data.json');
@@ -34,7 +35,7 @@ function App() {
   //   likes : gameData[gameKeys[1]][1].likes,
   //   dislikes : gameData[gameKeys[1]][1].dislikes
   // }
-  let gameList = gameData[2020].map((game, i) =>
+  let gaameList = gameData[2020].map((game, i) =>
     <Game
       key={i}
       title={game.title}
@@ -47,8 +48,8 @@ function App() {
   )
 
   let yearlen = gameData[2020].length;
-  console.log(yearlen);
-  console.log(gameKeys.length);
+  // console.log(yearlen);
+  // console.log(gameKeys.length);
 
   //gameList = [];
   let newList = [];
@@ -69,16 +70,29 @@ function App() {
   //   )
   // }
 
+  let lists = [];
+  let gameList = [];
+
   for (let i = 0; i < gameKeys.length; i++) {
     for (let j = 0; j < gameData[gameKeys[i]].length; j++) {
-      console.log(gameData[gameKeys[i]][j])
-      newList.push(gameData[gameKeys[i]][j])
+      //console.log(gameData[gameKeys[i]][j]);
+      newList.push(gameData[gameKeys[i]][j]);
     }
+      gameList.push(newList.map((game, index) => 
+        <GameList 
+          year={gameKeys[i]}
+          games={game}
+        />))
+      // <GameList
+      // year={gameData[gameKeys[i]]}
+      // games={newList}
+      // />
+    newList = [];
   }
 
-  console.log(newList)
+  // console.log(newList)
 
-  gameList = newList.map((game, i) =>
+  gaameList = newList.map((game, i) =>
     <Game
       key={i}
       title={game.title}
@@ -96,6 +110,7 @@ function App() {
 
   return (
     <div className="App">
+      {/* {gaameList} */}
       {gameList}
     </div>
   );
