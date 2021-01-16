@@ -1,54 +1,90 @@
 {
-    "2020" : [
-     {
-        "title" : "Nioh 2", 
-        "score" : 7, 
-        "beaten" : 3,
-        "likes" : ["Kodama collecting", "Whacking with a huge ass sword"], 
-        "dislikes" : ["Heavy loot grind", "Levels repetitive by design"],
-        "url" : "img/Nioh 2.jpg"
-    },
-    {
-        "title" : "Super Castlevania", 
-        "score" : 5, 
-        "beaten" : 1,
-        "likes" : ["Excellent visual animations in some levels", "Forgiving power ups after dying"], 
-        "dislikes" : ["How movement worked on the stairs", "Bats"],
-        "url" : "img/Super Castlevania.jpg"  
-    },
-    {
-        "title" : "Super Castlevania", 
-        "score" : 5, 
-        "beaten" : 1,
-        "likes" : ["Excellent visual animations in some levels", "Forgiving power ups after dying"], 
-        "dislikes" : ["How movement worked on the stairs", "Bats"],
-        "url" : "img/Super Castlevania.jpg"  
-    },
-    {
-        "title" : "Super Castlevania", 
-        "score" : 5, 
-        "beaten" : 1,
-        "likes" : ["Excellent visual animations in some levels", "Forgiving power ups after dying"], 
-        "dislikes" : ["How movement worked on the stairs", "Bats"],
-        "url" : "img/Super Castlevania.jpg"  
-    }
-    ],
-    "2019" : [
+    "2020": [
         {
-           "title" : "Sekiro", 
-           "score" : 8, 
-           "beaten" : 3,
-           "likes" : ["Swords clashing sound fx", "Excellent bosses"], 
-           "dislikes" : ["English dub is bad", "Soundtrack doesn't have a wide range"],
-           "url" : "img/Sekiro.jpg"  
-       },
-       {
-        "title" : "Pokemon White", 
-        "score" : 9, 
-        "beaten" : 3,
-        "likes" : ["Village Bridge music", "151 new Pokemon"], 
-        "dislikes" : ["Bad touch screen UI", "Online features now worthless"],
-        "url" : "img/Pokemon White.jpg"  
-    }
+            "title": "Nioh",
+            "score": 7,
+            "beaten": 3,
+            "likes": [
+                "Kodama collecting",
+                "Whacking demons with a huge sword"
+            ],
+            "dislikes": [
+                "Heavy loot grind",
+                "Sometimes unfair damage dealt in end-game"
+            ],
+            "url": "img/Nioh 2.jpg"
+        },
+        {
+            "title": "Super Castlevania",
+            "score": 5,
+            "beaten": 1,
+            "likes": [
+                "Excellent visual animations in some levels",
+                "Forgiving power ups after dying"
+            ],
+            "dislikes": [
+                "How movement worked on the stairs",
+                "Bats"
+            ],
+            "url": "img/Super Castlevania.jpg"
+        },
+        {
+            "title": "Super Castlevania",
+            "score": 5,
+            "beaten": 1,
+            "likes": [
+                "Excellent visual animations in some levels",
+                "Forgiving power ups after dying"
+            ],
+            "dislikes": [
+                "How movement worked on the stairs",
+                "Bats"
+            ],
+            "url": "img/Super Castlevania.jpg"
+        },
+        {
+            "title": "Super Castlevania",
+            "score": 5,
+            "beaten": 1,
+            "likes": [
+                "Excellent visual animations in some levels",
+                "Forgiving power ups after dying"
+            ],
+            "dislikes": [
+                "How movement worked on the stairs",
+                "Bats"
+            ],
+            "url": "img/Super Castlevania.jpg"
+        }
+    ],
+    "2019": [
+        {
+            "title": "Sekiro",
+            "score": 8,
+            "beaten": 3,
+            "likes": [
+                "Swords clashing sound fx",
+                "Excellent bosses"
+            ],
+            "dislikes": [
+                "English dub is bad",
+                "Soundtrack doesn't have a wide range"
+            ],
+            "url": "img/Sekiro.jpg"
+        },
+        {
+            "title": "Pokemon White",
+            "score": 9,
+            "beaten": 3,
+            "likes": [
+                "Village Bridge music",
+                "151 new Pokemon"
+            ],
+            "dislikes": [
+                "Bad touch screen UI",
+                "Online features now worthless"
+            ],
+            "url": "img/Pokemon White.jpg"
+        }
     ]
 }
