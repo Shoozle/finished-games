@@ -1,60 +1,74 @@
 {
     "2020": [
         {
-            "title": "Nioh",
-            "score": 7,
-            "beaten": 3,
+            "title": "Dark Souls Remastered",
+            "score": 9,
+            "beaten": "Lost count",
             "likes": [
-                "Kodama collecting",
-                "Whacking demons with a huge sword"
+                "The best world building",
+                "Solaire is a top-tier lad"
             ],
             "dislikes": [
-                "Heavy loot grind",
-                "Sometimes unfair damage dealt in end-game"
+                "Lighting often looks worse to the original",
+                "Colour palette has been dulled"
             ],
-            "url": "img/Nioh 2.jpg"
+            "url": "img/Dark Souls Remastered.jpg"
         },
         {
-            "title": "Super Castlevania",
-            "score": 5,
-            "beaten": 1,
+            "title": "Demon's Souls (2009)",
+            "score": 10,
+            "beaten": "Lost count",
             "likes": [
-                "Excellent visual animations in some levels",
-                "Forgiving power ups after dying"
+                "Incredible atmosphere",
+                "Heavily influenced future game design from other developers"
             ],
             "dislikes": [
-                "How movement worked on the stairs",
-                "Bats"
+                "Somethings are unecessarily obtuse",
+                "No more online servers but can use custom ones"
             ],
-            "url": "img/Super Castlevania.jpg"
+            "url": "img/Demon's Souls.jpg"
         },
         {
-            "title": "Super Castlevania",
-            "score": 5,
-            "beaten": 1,
+            "title": "Wonderful 101 Remastered",
+            "score": 9,
+            "beaten": "4",
             "likes": [
-                "Excellent visual animations in some levels",
-                "Forgiving power ups after dying"
+                "Kamiya is one of my favourite directors and this is a mash-up of his best work",
+                "Wonder-Red is an excellent protagonist and deserves to be in Smash"
             ],
             "dislikes": [
-                "How movement worked on the stairs",
-                "Bats"
+                "Tutorial systems not the best",
+                "Remastered version seemed buggier than the original"
             ],
-            "url": "img/Super Castlevania.jpg"
+            "url": "img/The Wonderful 101.jpg"
         },
         {
-            "title": "Super Castlevania",
-            "score": 5,
+            "title": "Dead Space",
+            "score": 8,
             "beaten": 1,
             "likes": [
-                "Excellent visual animations in some levels",
-                "Forgiving power ups after dying"
+                "Great blend of the action and horror genres",
+                "Excellent sound and UI design"
             ],
             "dislikes": [
-                "How movement worked on the stairs",
-                "Bats"
+                "Turret sections",
+                "A lot of similar looking corridors"
             ],
-            "url": "img/Super Castlevania.jpg"
+            "url": "img/Dead Space.jpg"
+        },
+        {
+            "title": "Divinity Original Sin 2",
+            "score": 8,
+            "beaten": 4,
+            "likes": [
+                "The elemental effects make for an exciting flashy combat system",
+                "Rivellon is an incredible theme for the massive joyful sandbox that is Act 2"
+            ],
+            "dislikes": [
+                "Armor split between physical/magical meant it's objectively worse to have a split damage type team",
+                "Managing loot between all party members is time consuming"
+            ],
+            "url": "img/Divinity Original Sin 2.jpg"
         }
     ],
     "2019": [

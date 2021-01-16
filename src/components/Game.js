@@ -5,7 +5,7 @@ const Game = (props) => {
         <div>
             <h3>{props.title}</h3>
             <p>Times beaten: {props.beaten}</p>
-            <p>Score: {props.beaten}/10</p>
+            <p>{props.score}/10</p>
             <h4>Likes</h4>
             <ul>
                 <li>{props.likes[0]}</li>
