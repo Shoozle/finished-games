@@ -755,23 +755,135 @@
                 "It just sucks"
             ],
             "url": "img/Earth Defense Force Insect Armageddon.jpg"
-        },
-        {
-            "title": "Tav",
-            "score": 7,
-            "beaten": 1,
-            "likes": [
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "url": "img/Tav.jpg"
         }
     ],
     "2019": [
+        {
+            "title": "Super Mario RPG",
+            "score": 10,
+            "beaten": 1,
+            "likes": [
+                "Geno is so good that he deserves to be in Smash Bros damn it",
+                "Music by Yoko Shimomura is fantastic"
+            ],
+            "dislikes": [
+                "Needs more time with Bowser",
+                "Other RPGs on the SNES cant compete and playing this before them was a mistake"
+            ],
+            "url": "img/Super Mario RPG.jpg"
+        },
+        {
+            "title": "Resident Evil 4",
+            "score": 9,
+            "beaten": 1,
+            "likes": [
+                "The merchant",
+                "The opening village section is one of the best parts of video game history"
+            ],
+            "dislikes": [
+                "The ending areas, like a lot of RE games, is significantly worse than the start",
+                "QTEs were a bit too modern, which makes no sense"
+            ],
+            "url": "img/Resident Evil 4.jpg"
+        },
+        {
+            "title": "Resident Evil 1 Remake",
+            "score": 9,
+            "beaten": 1,
+            "likes": [
+                "Jill Sandwich",
+                "Mansion rooms are varied and full of surprises"
+            ],
+            "dislikes": [
+                "Getting headshots was finicky",
+                "Jill Sandwich"
+            ],
+            "url": "img/Resident Evil 1 Remake.jpg"
+        },
+        {
+            "title": "Chrono Trigger",
+            "score": 9,
+            "beaten": 1,
+            "likes": [
+                "Prison break out sequence is only 30 minutes, not 5 hours like modern games",
+                "Frog and Robo are great characters "
+            ],
+            "dislikes": [
+                "Opening chests is worthless for a lot of the game as if you leave them for the future timeline, they get upgraded",
+                "Character side quests come very late into the game"
+            ],
+            "url": "img/Chrono Trigger.jpg"
+        },
+        {
+            "title": "Castlevania Symphony of the Night",
+            "score": 9,
+            "beaten": 1,
+            "likes": [
+                "It's not as hard as Super Castlevania",
+                "Movement was so smooth it made simply grinding for rare drops fun"
+            ],
+            "dislikes": [
+                "First part of the game is too easy",
+                "Some of the hidden items are so obtuse that I kinda did use a guide for some"
+            ],
+            "url": "img/Castlevania Symphony of the Night.jpg"
+        },
+        {
+            "title": "Bloodborne",
+            "score": 10,
+            "beaten": "Lost count",
+            "likes": [
+                "Whacking things with the Kirkhammer",
+                "Brought back the vampire goth werewolf archtypes into the mainstream that we need in games"
+            ],
+            "dislikes": [
+                "Framepacing when running along bridges craps itself",
+                "Chalice Dungeon co-op connectivity is awful"
+            ],
+            "url": "img/Bloodborne.jpg"
+        },
+        {
+            "title": "The Legend of Zelda: Breath of the Wild",
+            "score": 8,
+            "beaten": 2,
+            "likes": [
+                "Amount of quick side content in the open world keeps you discovering things",
+                "No awful mandatory dungeons"
+            ],
+            "dislikes": [
+                "The beasts or whatever they are called are basically dungeons but at least they are optional",
+                "Durability system while being not bad, can be improved"
+            ],
+            "url": "img/The Legend of Zelda: Breath of the Wild.jpg"
+        },
+        {
+            "title": "Yakuza Kiwami 2",
+            "score": 8,
+            "beaten": 1,
+            "likes": [
+                "Beating up the diaper wearing gangsters",
+                "Ryuji as a villain was great and isn't spoken about enough"
+            ],
+            "dislikes": [
+                "Can easily be burnt out if you play Yakuza games so often",
+                "No Anri Okita in this one"
+            ],
+            "url": "img/Yakuza Kiwami 2.jpg"
+        },
+        {
+            "title": "The Witcher 3",
+            "score": 9,
+            "beaten": 2,
+            "likes": [
+                "So many areas of the game are beautiful and worthy of a painting, especially in Skellige",
+                "I like a game that lets me spec in alchemy"
+            ],
+            "dislikes": [
+                "Nilfgaard quests consist of running all over the massive town",
+                "Triss is clearly better than Yennefer and yet people online still debate this"
+            ],
+            "url": "img/The Witcher 3.jpg"
+        },
         {
             "title": "Sekiro",
             "score": 8,
@@ -787,18 +899,32 @@
             "url": "img/Sekiro.jpg"
         },
         {
-            "title": "Pokemon White",
-            "score": 9,
-            "beaten": 3,
+            "title": "Resident Evil 2 Remake",
+            "score": 7,
+            "beaten": 1,
             "likes": [
-                "Village Bridge music",
-                "151 new Pokemon"
+                "Ada Wong",
+                ""
             ],
             "dislikes": [
-                "Bad touch screen UI",
-                "Online features now worthless"
+                "",
+                ""
             ],
-            "url": "img/Pokemon White.jpg"
+            "url": "img/Resident Evil 2 Remake.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 7,
+            "beaten": 1,
+            "likes": [
+                "",
+                ""
+            ],
+            "dislikes": [
+                "",
+                ""
+            ],
+            "url": "img/Tav.jpg"
         }
     ]
 }
