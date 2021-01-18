@@ -900,17 +900,325 @@
         },
         {
             "title": "Resident Evil 2 Remake",
+            "score": 8,
+            "beaten": 1,
+            "likes": [
+                "Ada",
+                "Short and sweet and the big bad Mr. X"
+            ],
+            "dislikes": [
+                "Best part once again in an RE game, is at the start",
+                "Random crits is outdated design"
+            ],
+            "url": "img/Resident Evil 2 Remake.jpg"
+        },
+        {
+            "title": "Pokemon Black 2",
+            "score": 8,
+            "beaten": 2,
+            "likes": [
+                "Incredible amount of Pokemon to use in a playthrough",
+                "The music goes full ham on the drum and bass"
+            ],
+            "dislikes": [
+                "Like the first game, many of its features can't be used due to no online servers",
+                "Almost drags on a bit too long aorund the mid-game"
+            ],
+            "url": "img/Pokemon Black 2.jpg"
+        },
+        {
+            "title": "Monster Hunter World Iceborne",
+            "score": 8,
+            "beaten": 2,
+            "likes": [
+                "Helping out new hunters with the 'hunter helper' feature",
+                "Raging Brachydios returned to ruin my day"
+            ],
+            "dislikes": [
+                "Some hitboxes still seem a bit naff",
+                "Didn't get a permanent switch up of the Handler to the sassy lady"
+            ],
+            "url": "img/Monster Hunter World Iceborne.jpg"
+        },
+        {
+            "title": "Luigi's Mansion 3",
+            "score": 8,
+            "beaten": 1,
+            "likes": [
+                "The lighting, graphics and physics for a Switch game were incredible",
+                "Every single room was incredibly creative in design and structure"
+            ],
+            "dislikes": [
+                "Made me feel a dumb dumb during some puzzle parts",
+                "Some segments were backtracking previous levels to chase a cat and I can't remember why"
+            ],
+            "url": "img/Luigi's Mansion 3.jpg"
+        },
+        {
+            "title": "The Legend of Zelda: Links Awakening DX",
+            "score": 8,
+            "beaten": 1,
+            "likes": [
+                "I remember liking most of the dungeons, which is rare for a Zelda game",
+                "God darn is this game whimsical and charming, with really delightful music"
+            ],
+            "dislikes": [
+                "One staircase was stupidly hard to find to progress",
+                "The dungeon revolving around throwing balls at columns was annoying"
+            ],
+            "url": "img/The Legend of Zelda: Links Awakening DX.jpg"
+        },
+        {
+            "title": "Grim Dawn",
+            "score": 8,
+            "beaten": "Lost count",
+            "likes": [
+                "The series of lore notes called Trip South is one of the best I've read in a game",
+                "I made it to level on hardcore this year, I think. Or maybe it was 2020"
+            ],
+            "dislikes": [
+                "Crafting at the blacksmith can cost too much money",
+                "Some routes are wide linear corridors meaning finding all the good stuff can take so long"
+            ],
+            "url": "img/Grim Dawn.jpg"
+        },
+        {
+            "title": "Final Fantasy VII",
+            "score": 8,
+            "beaten": 1,
+            "likes": [
+                "Cosmo Canyon is an area that I will remember until I die, hopefully",
+                "Best implementation of the Cid character"
+            ],
+            "dislikes": [
+                "The story gets a bit too weird as it goes on",
+                "I think the Limit Break system is complete garbage"
+            ],
+            "url": "img/Final Fantasy VII.jpg"
+        },
+        {
+            "title": "Final Fantasy IX",
+            "score": 8,
+            "beaten": 2,
+            "likes": [
+                "My friend Mike looks a bit like Zidane, even if he disagreed",
+                "I watched someone play this game and they provided funny voices for the characters, which made it better"
+            ],
+            "dislikes": [
+                "Amarant",
+                "Amarant deserved to be listed twice"
+            ],
+            "url": "img/Final Fantasy IX.jpg"
+        },
+        {
+            "title": "Dark Souls 3 (cinders mod)",
+            "score": 8,
+            "beaten": 1,
+            "likes": [
+                "Fixes a lot of the annoying crap about the base game such as the doll to pass through a dumb fog wall",
+                "Adds Bloodborne weapons and Bloodborne is cool"
+            ],
+            "dislikes": [
+                "Poise still doesn't work. I thinK. I can't remember",
+                "It still doesn't fix the story of Dark Souls 3, but it tries"
+            ],
+            "url": "img/Dark Souls 3.jpg"
+        },
+        {
+            "title": "Bully",
+            "score": 8,
+            "beaten": 1,
+            "likes": [
+                "The class mini-game were really fun",
+                "Got to live out a fantasy where I was respected by my fellow pupils"
+            ],
+            "dislikes": [
+                "Ending was quite bad",
+                "Time system while neat did feel a bit restrictive when I wanted to explore the town"
+            ],
+            "url": "img/Bully.jpg"
+        },
+        {
+            "title": "Yakuza Kiwami",
             "score": 7,
             "beaten": 1,
             "likes": [
-                "Ada Wong",
-                ""
+                "Plot is made much better from playing 0 first",
+                "Wacky side quest shenanigans"
             ],
             "dislikes": [
-                "",
-                ""
+                "While enjoyable, it did seem like a massive drop in quality from 0",
+                "Some boss fights were brutally hard that I cheesed with items"
             ],
-            "url": "img/Resident Evil 2 Remake.jpg"
+            "url": "img/Yakuza Kiwami.jpg"
+        },
+        {
+            "title": "Xenogears",
+            "score": 7,
+            "beaten": 1,
+            "likes": [
+                "Really deep mature story that was a bit 2deep4me",
+                "Fei is a neat main character who doesn't use a sword but instead punches things"
+            ],
+            "dislikes": [
+                "Playing this on the PS Classic sucked due to crashes",
+                "Any serious story segment is ruined by this dumb looking cute Furby character"
+            ],
+            "url": "img/Xenogears.jpg"
+        },
+        {
+            "title": "Xenoblade Chronicles 2",
+            "score": 7,
+            "beaten": 3,
+            "likes": [
+                "I love the combat and the accompanying hard rock music ",
+                "Rex is a good boy and deserves the best"
+            ],
+            "dislikes": [
+                "Blade field skills means unecessary inventory fiddling",
+                "Tutorial system isn't great but I am a pro so it didn't affect me"
+            ],
+            "url": "img/Xenoblade Chronicles 2.jpg"
+        },
+        {
+            "title": "Super Mario Maker 2",
+            "score": 7,
+            "beaten": 1,
+            "likes": [
+                "New music from legendary Koji Kondo is a delight",
+                "I attempted to recreate Bloodborne here and it worked well but no one bloody played it"
+            ],
+            "dislikes": [
+                "For such a online creation heavy game, it sucks it requires Nintendo Switch online, unlike say Dreams",
+                "Level creation interface is a slog without the Wii U tablet but they tried"
+            ],
+            "url": "img/Super Mario Maker 2.jpg"
+        },
+        {
+            "title": "Red Dead Redemption 1",
+            "score": 7,
+            "beaten": 1,
+            "likes": [
+                "I feel bad for John. That wolf deserved better",
+                "Dead-eye mechanic made the game too easy"
+            ],
+            "dislikes": [
+                "Felt like endless desert with nothing of note in the environment",
+                "Every mission was pretty much the same"
+            ],
+            "url": "img/Red Dead Redemption 1.jpg"
+        },
+        {
+            "title": "Pokemon Heart Gold",
+            "score": 7,
+            "beaten": 3,
+            "likes": [
+                "Krabby, the best Pokemon, is available early on, and even makes a good HMSlave",
+                "I spent about 50 hours plating Voltorb Flip on the toilet (not all at once)"
+            ],
+            "dislikes": [
+                "New music is a bit of a bummer, especially for Goldenrod City",
+                "Pokemon availability in the first region is disappointingly small despite being a remake"
+            ],
+            "url": "img/Pokemon Heart Gold.jpg"
+        },
+        {
+            "title": "Marvel Ultimate Alliance 3",
+            "score": 7,
+            "beaten": 1,
+            "likes": [
+                "An excellent roster of Marvel characters with more post-release",
+                "Not too easy or too hard for an isometic beat em up"
+            ],
+            "dislikes": [
+                "Character designs I thought were real cool had a poor moveset",
+                "Aside from the ninja temple level set at night, none of the levels stood out"
+            ],
+            "url": "img/Marvel Ultimate Alliance 3.jpg"
+        },
+        {
+            "title": "Katana Zero",
+            "score": 7,
+            "beaten": 1,
+            "likes": [
+                "Really cool vibes with good electronic techno music",
+                "Multiple endings is neat but I felt no desire to get more"
+            ],
+            "dislikes": [
+                "The plentiful of VHS style effects got tiring and became a bit of an eye sore",
+                "I wasn't very good at it"
+            ],
+            "url": "img/Katana Zero.jpg"
+        },
+        {
+            "title": "Fire Emblem Three Houses",
+            "score": 7,
+            "beaten": 1,
+            "likes": [
+                "Bernadette, Hilda, Marianne, Catherine, Shamir",
+                "The music went full ham during boss fights"
+            ],
+            "dislikes": [
+                "The school aspect never got switched up so running through that ugly environment was very boring",
+                "The first half of each of the storylines is sadly the same which sucks when replaying so soon"
+            ],
+            "url": "img/Fire Emblem Three Houses.jpg"
+        },
+        {
+            "title": "Devil May Cry 5",
+            "score": 7,
+            "beaten": 2,
+            "likes": [
+                "Nero deserves to replace Dante which I dont think I would ever say about another protege in a game",
+                "Putting cowboy hats on every enemy with Dante and then taking a picture"
+            ],
+            "dislikes": [
+                "Stop it with the Virgil please! Give it a rest!",
+                "Navigating the linear elevator heavy tree was disappointing with the possibilities they could do with a deomonic tree"
+            ],
+            "url": "img/Devil May Cry 5.jpg"
+        },
+        {
+            "title": "Life is Strange 1",
+            "score": 7,
+            "beaten": 1,
+            "likes": [
+                "I got to let the blue haired girl die as I didn't like her",
+                "The writers were not afraid to go too dark with the storyline, which I really appreciate"
+            ],
+            "dislikes": [
+                "Words like 'hella' appeared very often",
+                "A lot of the actions of pupils and teachers were not believable"
+            ],
+            "url": "img/Life is Strange 1.jpg"
+        },
+        {
+            "title": "The Legend of Zelda: Link to the Past",
+            "score": 6,
+            "beaten": 1,
+            "likes": [
+                "Many of the dungeons utilised the outside world environment which is neat and unseen in recent entries",
+                "I enjoyed collecting the heart containers even if I missed only one, still bums me out"
+            ],
+            "dislikes": [
+                "The overworld theme is grating to my ears and I don't care what anyone else things",
+                "I don't think I liked a single boss, I can't even remember any"
+            ],
+            "url": "img/The Legend of Zelda: Link to the Past.jpg"
+        },
+        {
+            "title": "Xenoblade 2 Torna",
+            "score": 7,
+            "beaten": 1,
+            "likes": [
+                "A new combat system for an expansion is appreciated even if it wasn't needed",
+                "Fleshed out the side villains of the base game"
+            ],
+            "dislikes": [
+                "Had to grind out side quests to unlock main quest progression",
+                "Environments for a Xenoblade game was quite generic"
+            ],
+            "url": "img/Xenoblade 2 Torna.jpg"
         },
         {
             "title": "Tav",
@@ -925,6 +1233,6 @@
                 ""
             ],
             "url": "img/Tav.jpg"
-        }
+        },
     ]
 }
