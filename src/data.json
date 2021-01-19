@@ -1460,7 +1460,7 @@
         },
         {
             "title": "Dark Souls 3",
-            "score": 7,
+            "score": 5,
             "beaten": 1,
             "likes": [
                 "Parrying bosses was satisfying",
@@ -1473,19 +1473,77 @@
             "url": "img/Dark Souls 3.jpg"
         },
         {
-            "title": "Tav",
-            "score": 7,
-            "beaten": 1,
+            "title": "Pokemon Sword",
+            "score": 4,
+            "beaten": 2,
             "likes": [
-                "",
-                ""
+                "This game has Bea as a gym leader",
+                "Seeing fully evolved Pokemon in the wild is pretty cool"
             ],
             "dislikes": [
-                "",
-                ""
+                "This one doesn't have Mr Rime so it gets docked a point",
+                "Obviously Sword is cooler than Shield which means again, it's a worse game"
             ],
-            "url": "img/Tav.jpg"
+            "url": "img/Pokemon Sword.jpg"
         },
+        {
+            "title": "Pokemon Let's Go Pikachu",
+            "score": 4,
+            "beaten": 2,
+            "likes": [
+                "Really nice art style which has been completely neglected since",
+                "Can challenge the gyms in a crazy bizarre order which is rare for Pokemon now"
+            ],
+            "dislikes": [
+                "More Pokemon Gen I pandering",
+                "Not sure why they felt the need to stick with just Gen I Pokemon, when Fire Red exists"
+            ],
+            "url": "img/Pokemon Let's Go Pikachu.jpg"
+        },
+        {
+            "title": "Final Fantasy XV",
+            "score": 4,
+            "beaten": 2,
+            "likes": [
+                "The MP3 Player on the go is really good because I can listen to Nier music while walking the empty world",
+                "This year I used mods to replace the 4 character models with my custom overweight dude, Dante, Bayonetta and I've forgotten the last"
+            ],
+            "dislikes": [
+                "Game constantly spawns enemies on you due to the miserable dead empty world that is massive in size",
+                "Such a heavy focus on the car, something I hated as it restricts exploration"
+            ],
+            "url": "img/Final Fantasy XV.jpg"
+        },
+        {
+            "title": "Fallout 4",
+            "score": 3,
+            "beaten": 1,
+            "likes": [
+                "The Power Armour mechanic is the best it's beeen in a Fallout game",
+                "The shooting is such an improvement but it's at the cost of everything else"
+            ],
+            "dislikes": [
+                "They learned absolutely nothing from New Vegas as evidenced by the awful dialogue interface",
+                "Came across some characters I could not say no to, despite the game presenting that option"
+            ],
+            "url": "img/Fallout 4.jpg"
+        },
+        {
+            "title": "The Order 1886",
+            "score": 2,
+            "beaten": 1,
+            "likes": [
+                "The setting is a good idea, mixing Knights of the Order with werewolves and Tesla",
+                "Some unique guns I guess"
+            ],
+            "dislikes": [
+                "The blimp location was a good idea but it's a linear mess with no freedom at all",
+                "So many quick time events and padded tightrope walking sections and yet it's still so short, awful bosses, hate it"
+            ],
+            "url": "img/The Order 1886.jpg"
+        }
+    ],
+    "2018": [
         {
             "title": "Tav",
             "score": 7,
