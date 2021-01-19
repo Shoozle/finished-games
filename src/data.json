@@ -1208,7 +1208,7 @@
         },
         {
             "title": "Xenoblade 2 Torna",
-            "score": 7,
+            "score": 6,
             "beaten": 1,
             "likes": [
                 "A new combat system for an expansion is appreciated even if it wasn't needed",
@@ -1219,6 +1219,258 @@
                 "Environments for a Xenoblade game was quite generic"
             ],
             "url": "img/Xenoblade 2 Torna.jpg"
+        },
+        {
+            "title": "The Outer Worlds",
+            "score": 6,
+            "beaten": 1,
+            "likes": [
+                "The commercial elements had excellent design",
+                "Nice to see this kind of game made by Obsidian"
+            ],
+            "dislikes": [
+                "It followed too closely the formula of something like New Vegas despite a year 10 technological gap",
+                "I remember something about the types of ammo being 1 of 3 kind being dumb"
+            ],
+            "url": "img/The Outer Worlds.jpg"
+        },
+        {
+            "title": "Rage",
+            "score": 6,
+            "beaten": 1,
+            "likes": [
+                "The hospital sections still to this day look incredible",
+                "Giant monsters"
+            ],
+            "dislikes": [
+                "Spent a lot of time shooting huamn-like enemies in a setting full of potential",
+                "I don't remember anything about it"
+            ],
+            "url": "img/Rage.jpg"
+        },
+        {
+            "title": "Pokemon Sigma Emerald",
+            "score": 6,
+            "beaten": 1,
+            "likes": [
+                "Gen IV improvements added in a way that isn't frustrating to play through like a lot of roms",
+                "Even included some Gen VI features such as the fairy type"
+            ],
+            "dislikes": [
+                "I guess I played this. I honestly don't remember!",
+                "It still doesn't fix the awful music of Gen III"
+            ],
+            "url": "img/Pokemon Sigma Emerald.jpg"
+        },
+        {
+            "title": "Gears 5",
+            "score": 6,
+            "beaten": 1,
+            "likes": [
+                "It brought back the spooky atmosphere of the first game at the start then immediately dropped it",
+                "The drone buddy was a nice feature"
+            ],
+            "dislikes": [
+                "Ended up feeing very padded out",
+                "The ending doesn't offer anything satisfying, meaning we will probably get yet another"
+            ],
+            "url": "img/Gears 5.jpg"
+        },
+        {
+            "title": "Fable 1",
+            "score": 6,
+            "beaten": 1,
+            "likes": [
+                "The child-like humour and whimsical element is something not seen often in games",
+                "Really was quite ambitious for an original Xbox game"
+            ],
+            "dislikes": [
+                "I remember being disappointed by the towns",
+                "I could never be bothered to do the talking head door areas"
+            ],
+            "url": "img/Fable 1.jpg"
+        },
+        {
+            "title": "Dragon Quest Builders 2",
+            "score": 6,
+            "beaten": 1,
+            "likes": [
+                "I built a single toilet, suddenly everyone queued up to poop, I collected said poop to further build my empire",
+                "I was quite proud of my creations"
+            ],
+            "dislikes": [
+                "It had a prison breakout sequence that took away all your stuff and lasted 5 hours at least",
+                "Far too long"
+            ],
+            "url": "img/Dragon Quest Builders 2.jpg"
+        },
+        {
+            "title": "Crackdown 3",
+            "score": 6,
+            "beaten": 1,
+            "likes": [
+                "It's not as bad as everyone said",
+                "Terry Crews"
+            ],
+            "dislikes": [
+                "My friend had issues on his AMD card so we didn't co-op it",
+                "A lot of the minor graphical effects that was in the first game suddenly wasn't here"
+            ],
+            "url": "img/Crackdown 3.jpg"
+        },
+        {
+            "title": "Astral Chain",
+            "score": 6,
+            "beaten": 1,
+            "likes": [
+                "Lappy the Dog",
+                "It's the closest we have gotten to a good JoJo's Bizarre Adventure game"
+            ],
+            "dislikes": [
+                "A lot of the game took place in the same disgusting looking areas",
+                "That 'carry 10 scoops of ice cream to the child without getting knocked over' quest was insanely hard"
+            ],
+            "url": "img/Astral Chain.jpg"
+        },
+        {
+            "title": "Shadow Warrior 2",
+            "score": 6,
+            "beaten": 1,
+            "likes": [
+                "I got to play Hotline Miami music in the hub area thanks to an arcade machine",
+                "Levels were small enough to not have a lot of downtime"
+            ],
+            "dislikes": [
+                "The enemy designs were repetitive and lakced originality, much like this comment",
+                "The Diablo loot system was an unecessary addition"
+            ],
+            "url": "img/Shadow Warrior 2.jpg"
+        },
+        {
+            "title": "Undertale",
+            "score": 5,
+            "beaten": 1,
+            "likes": [
+                "A really unique combat system",
+                "The endings are based on things you do very early on in the game, not just right at the end"
+            ],
+            "dislikes": [
+                "Bad humour",
+                "The worst fanbase"
+            ],
+            "url": "img/Undertale.jpg"
+        },
+        {
+            "title": "Sunset Overdrive",
+            "score": 5,
+            "beaten": 2,
+            "likes": [
+                "Ratchet and Clank mixed with superheroes was a good continuation for Insomniac Games",
+                "The game is based on an energy dirnk which I drink plenty of, but I have not become a monster yet"
+            ],
+            "dislikes": [
+                "Outdated references such as referencing the website Neogaf",
+                "It needed more of a focus on boss fights, not wave based missions"
+            ],
+            "url": "img/Sunset Overdrive.jpg"
+        },
+        {
+            "title": "Spyro Reignited 1",
+            "score": 5,
+            "beaten": 1,
+            "likes": [
+                "The levels were small enough to make finding the collectibles exciting",
+                "Spyro's design was really great"
+            ],
+            "dislikes": [
+                "Extremely basic for a modern platformer",
+                "I'd rather see a new Spyro than Activision rehash old material, even if going by Crash 4 sales, it won't sell well"
+            ],
+            "url": "img/Spyro Reignited 1.jpg"
+        },
+        {
+            "title": "Sayonara Wild Hearts",
+            "score": 5,
+            "beaten": 1,
+            "likes": [
+                "The music is pretty great, especially the cover of Clair De Lune",
+                "That one level involving 2 people clicking the fingers which changes the environment was really well executed"
+            ],
+            "dislikes": [
+                "I played this in one sitting while exercising and it was very hard to see stuff on the Switch screen",
+                "It reused the same level format multiple times despite being such a short game"
+            ],
+            "url": "img/Sayonara Wild Hearts.jpg"
+        },
+        {
+            "title": "Puzzle Quest: The Legend Returns",
+            "score": 5,
+            "beaten": 1,
+            "likes": [
+                "Really comfy game to play in bed",
+                "Some battles seemed very unfair"
+            ],
+            "dislikes": [
+                "Despite being a Bejewled like game, my framerate dropped constantly",
+                "I remember having to grind a lot but not sure if that was because it was addictive"
+            ],
+            "url": "img/Puzzle Quest: The Legend Returns.jpg"
+        },
+        {
+            "title": "Portal 2",
+            "score": 5,
+            "beaten": 3,
+            "likes": [
+                "The two robots you play as in co-op have adorable designs",
+                "Valve has great art and technical direction as the game still holds up today"
+            ],
+            "dislikes": [
+                "Everytime I replay this game, I like it a little bit less",
+                "I was never a fan of the comedy style of this game"
+            ],
+            "url": "img/Portal 2.jpg"
+        },
+        {
+            "title": "Pokemon Shield",
+            "score": 5,
+            "beaten": 3,
+            "likes": [
+                "Failinks is a really good design and the best of the game",
+                "Wasn't plagued by 10+ legendaries like many of the recent generations"
+            ],
+            "dislikes": [
+                "Hau sucks, or is it Hop in this game? Both are awful and very much alike",
+                "No victory road is an insult"
+            ],
+            "url": "img/Pokemon Shield.jpg"
+        },
+        {
+            "title": "Luigi's Mansion",
+            "score": 7,
+            "beaten": 1,
+            "likes": [
+                "The facial expressions of Luigi is really charming",
+                "The names based on Boo puns such as Little Boo Peep, Boohoo, Booris, Bootique"
+            ],
+            "dislikes": [
+                "A lot of backtracking despite being a small mansion",
+                "I played this after LM3 and it couldn't compete, sorry"
+            ],
+            "url": "img/Luigi's Mansion.jpg"
+        },
+        {
+            "title": "Dark Souls 3",
+            "score": 7,
+            "beaten": 1,
+            "likes": [
+                "Parrying bosses was satisfying",
+                "So many great gestures"
+            ],
+            "dislikes": [
+                "I got the platinum trophy here and it required so much grinding",
+                "Every armour set is brown, with a low quality mesh and texture so nothing stands out"
+            ],
+            "url": "img/Dark Souls 3.jpg"
         },
         {
             "title": "Tav",
@@ -1234,5 +1486,19 @@
             ],
             "url": "img/Tav.jpg"
         },
+        {
+            "title": "Tav",
+            "score": 7,
+            "beaten": 1,
+            "likes": [
+                "",
+                ""
+            ],
+            "dislikes": [
+                "",
+                ""
+            ],
+            "url": "img/Tav.jpg"
+        }
     ]
 }
