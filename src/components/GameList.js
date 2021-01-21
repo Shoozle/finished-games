@@ -10,8 +10,7 @@ const GameList = ({ year, games }) => {
             title={game.title}
             score={game.score}
             beaten={game.beaten}
-            likes={game.likes}
-            dislikes={game.dislikes}
+            comment={game.comment}
             url={game.url}
         />
         )

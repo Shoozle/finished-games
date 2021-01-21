@@ -4,756 +4,378 @@
             "title": "Dark Souls Remastered",
             "score": 9,
             "beaten": "Lost count",
-            "likes": [
-                "The best world building",
-                "Solaire is a top-tier lad"
-            ],
-            "dislikes": [
-                "Lighting often looks worse to the original",
-                "Colour palette has been dulled"
-            ],
+            "comment" : "Got my Steam 100% achievement completed here. It was enjoyable but grinding was somewhat ridiculous. Still had a blast though",
             "url": "img/Dark Souls Remastered.jpg"
         },
         {
             "title": "Demon's Souls (2009)",
             "score": 10,
             "beaten": "Lost count",
-            "likes": [
-                "Incredible atmosphere",
-                "Heavily influenced future game design from other developers"
-            ],
-            "dislikes": [
-                "Somethings are unecessarily obtuse",
-                "No more online servers but can use custom ones"
-            ],
+            "comment" : "Played this to spite the remake I don't like the look of. Also used the custom DNS server that's set up since they are offline now. It truly is one of the greats",
             "url": "img/Demon's Souls.jpg"
         },
         {
             "title": "Wonderful 101 Remastered",
             "score": 9,
             "beaten": "4",
-            "likes": [
-                "Kamiya is one of my favourite directors and this is a mash-up of his best work",
-                "Wonder-Red is an excellent protagonist and deserves to be in Smash"
-            ],
-            "dislikes": [
-                "Tutorial systems not the best",
-                "Remastered version seemed buggier than the original"
-            ],
+            "comment" : "",
             "url": "img/The Wonderful 101.jpg"
         },
         {
             "title": "Dead Space",
             "score": 8,
             "beaten": 1,
-            "likes": [
-                "Great blend of the action and horror genres",
-                "Excellent sound and UI design"
-            ],
-            "dislikes": [
-                "Turret sections",
-                "A lot of similar looking corridors"
-            ],
+            "comment" : "",
             "url": "img/Dead Space.jpg"
         },
         {
             "title": "Divinity Original Sin 2",
             "score": 8,
             "beaten": 4,
-            "likes": [
-                "The elemental effects make for an exciting flashy combat system",
-                "Rivellon is an incredible theme for the massive jolly sandbox that is Act 2"
-            ],
-            "dislikes": [
-                "Armor split between physical/magical meant it's objectively worse to have a split damage type team",
-                "Managing loot between all party members is time consuming"
-            ],
+            "comment" : "",
             "url": "img/Divinity Original Sin 2.jpg"
         },
         {
             "title": "Final Fantasy IX",
             "score": 8,
             "beaten": 2,
-            "likes": [
-                "Really good character designs",
-                "Some of the best towns in RPGs"
-            ],
-            "dislikes": [
-                "Combat can be incredibly slow",
-                "Character party members are split up constantly"
-            ],
+            "comment" : "",
             "url": "img/Final Fantasy IX.jpg"
         },
         {
             "title": "Grim Dawn",
             "score": 8,
             "beaten": "Lost count",
-            "likes": [
-                "Dual Class system makes for a ridiculous level of build variety",
-                "Deep modding scene lets you play through new adventures"
-            ],
-            "dislikes": [
-                "Animations aren't the best due to ",
-                "So much gear it can be hard to make yourself a decent build"
-            ],
+            "comment" : "",
             "url": "img/Grim Dawn.jpg"
         },
         {
             "title": "Hades",
             "score": 8,
             "beaten": 1,
-            "likes": [
-                "An actual roguelike with a story that evolves on multiple runs",
-                "Great attention to detail on Greek Mythology"
-            ],
-            "dislikes": [
-                "Some runs can be a bit boring",
-                "Takes an unecessary amount of successful runs to max out the difficulty"
-            ],
+            "comment" : "",
             "url": "img/Hades.jpg"
         },
         {
             "title": "Half-Life 1",
             "score": 8,
             "beaten": 1,
-            "likes": [
-                "Source Engine still being maintained today means it runs very well",
-                "Great NPC chatter"
-            ],
-            "dislikes": [
-                "The final levels are a bit boring structurally",
-                "Sometimes AI can feel unfair"
-            ],
+            "comment" : "",
             "url": "img/Half-life 1.jpg"
         },
         {
             "title": "Monster Hunter World: Iceborne",
             "score": 8,
             "beaten": 2,
-            "likes": [
-                "New environment is gorgeous",
-                "Charge Blade got even better"
-            ],
-            "dislikes": [
-                "The claw sucks",
-                "Master Rank monsters have a bit too much health"
-            ],
+            "comment" : "",
             "url": "img/Monster Hunter World: Iceborne.jpg"
         },
         {
             "title": "Nioh 2",
             "score": 8,
             "beaten": 1,
-            "likes": [
-                "Bosses are a delightful fight compared to Nioh 1",
-                "Switchglaive is swag and belongs in Bloodborne"
-            ],
-            "dislikes": [
-                "Lacks the ambition you would want to see in a sequel",
-                "Levels still have many caves"
-            ],
+            "comment" : "",
             "url": "img/Nioh 2.jpg"
         },
         {
             "title": "Red Dead Redemption 2",
             "score": 8,
             "beaten": 1,
-            "likes": [
-                "Every area is as beautiful as a painting",
-                "I adore Arthur Morgan and think he's Rockstars best protagonist"
-            ],
-            "dislikes": [
-                "Mission format is repetive and some feel uneccessary",
-                "Epilogue can stretch and relies on you to have played RDR1 to feel meaningful"
-            ],
+            "comment" : "",
             "url": "img/Red Dead Redemption 2.jpg"
         },
         {
             "title": "Sekiro",
             "score": 8,
             "beaten": 4,
-            "likes": [
-                "MY NAME IS GYOUBU MASATAKA ONIWA",
-                "Some environments and fights are a spectacle"
-            ],
-            "dislikes": [
-                "The danger symbol can often just get in the way of seeing animations",
-                "Underwater combat"
-            ],
+            "comment" : "",
             "url": "img/Sekiro.jpg"
         },
         {
             "title": "Wasteland 3",
             "score": 8,
             "beaten": 1,
-            "likes": [
-                "Character stats play an important part right from the beginning",
-                "Wonderful covers of old songs that suit the games tone"
-            ],
-            "dislikes": [
-                "Multiplayer was buggy with many disconnects resulting in lost progress",
-                "Not a lot of party member interactions"
-            ],
+            "comment" : "",
             "url": "img/Wasteland 3.jpg"
         },
         {
             "title": "Xenoblade X",
             "score": 8,
             "beaten": 2,
-            "likes": [
-                "The best open world in a video game in terms of diversity and scale",
-                "Adam 'I'm really feeling it' Howden returns as a voice actor"
-            ],
-            "dislikes": [
-                "The new LA night theme really sucks",
-                "Switching party members is cumbersome as it's based on realism rather than a simple menu"
-            ],
+            "comment" : "",
             "url": "img/Xenoblade X.jpg"
         },
         {
             "title": "A Short Hike",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "A really sweet main character, that is also a bird",
-                "Overall a really positive feeling game"
-            ],
-            "dislikes": [
-                "World size feels massive even before getting meaningful upgrades",
-                "The ability to climb seems odd for a bird protagonist"
-            ],
+            "comment" : "",
             "url": "img/A Short Hike.jpg"
         },
         {
             "title": "Ace Combat 7",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "Incredible sound design and soundtrack",
-                "Mihaly Dumitru Margareta Corneliu Leopold Blanca Karol Aeon Ignatius Raphael Maria Niketas A. Shilage"
-            ],
-            "dislikes": [
-                "Cutscenes are primarily still images, including the infamous dog.jpg",
-                "Never really get a look at your fellow comrades, seemed low budget"
-            ],
+            "comment" : "",
             "url": "img/Ace Combat 7.jpg"
         },
         {
             "title": "Dreams",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "Media Molecule did a good job on making game development accessible",
-                "The main campaign was a short delight with whimsical charm"
-            ],
-            "dislikes": [
-                "Games can take too long to make resulting in burn out and lack of levels",
-                "Alex Evans has left the studio now. Which sucks. I hope MM survive"
-            ],
+            "comment" : "",
             "url": "img/Dreams.jpg"
         },
         {
             "title": "Final Fantasy VI",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "Cyan is one of the best FF protagonist",
-                "2 world maps was ambitious"
-            ],
-            "dislikes": [
-                "13+ playable characters makes experimenting team composition tiresome",
-                "That mage tower of cultists was one infuriating dungeon"
-            ],
+            "comment" : "",
             "url": "img/Final Fantasy VI.jpg"
         },
         {
             "title": "Halo 1",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "Clever control scheme that changes FPS on consoles",
-                "Skybox of the Halo lets the imagination run wild"
-            ],
-            "dislikes": [
-                "Many levels have repeated environments and feels dragged on",
-                "The flood"
-            ],
+            "comment" : "",
             "url": "img/Halo 1.jpg"
         },
         {
             "title": "Hellblade",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "A haunting headphone experience",
-                "Wonderful idea to base a game so rooted into mental health"
-            ],
-            "dislikes": [
-                "Combat being too easy makes the ending lack impact",
-                "The facial capture often looked comical"
-            ],
+            "comment" : "",
             "url": "img/Hellblade.jpg"
         },
         {
             "title": "Persona 5 (Royal)",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "New antagonist's motives are a worthy cause and make him admirable",
-                "New combat theme doesn't disappoint"
-            ],
-            "dislikes": [
-                "Doesn't fix the absurd story events around Futaba",
-                "Combat has gotten even easier due to new social options"
-            ],
+            "comment" : "",
             "url": "img/Persona 5 Royal.jpg"
         },
         {
             "title": "Super Mario 3D Land",
             "score": 7,
             "beaten": 2,
-            "likes": [
-                "Short sweet levels mean the gimmick doesn't start to bore",
-                "8 new worlds in the post-game with just as many good levels"
-            ],
-            "dislikes": [
-                "Mario moves at a slow speed but that might be me being accustomed to Mario Odyssey movement",
-                "Not very challenging"
-            ],
+            "comment" : "",
             "url": "img/Super Mario 3D Land.jpg"
         },
         {
             "title": "The Legend of Zelda: The Wind Waker HD",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "Really nice art style that holds up",
-                "The mini-game where the guy yellos SPLOOSH and KABOOM"
-            ],
-            "dislikes": [
-                "Dungeon designs once again, quite forgettable",
-                "Riding in the ocean still kinda blows despite the speed boost"
-            ],
+            "comment" : "",
             "url": "img/The Legend of Zelda: The Wind Waker HD.jpg"
         },
         {
             "title": "Animal Crossing New Horizons",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "The sassy lookin animal people hyrbrids",
-                "Seeing creative people's houses and islands"
-            ],
-            "dislikes": [
-                "Almost everything, why did I give this a 6, I hate it",
-                "Villagers contribute nothing to the island and feels just like a formula check up"
-            ],
+            "comment" : "",
             "url": "img/Animal Crossing New Horizons.jpg"
         },
         {
             "title": "Dark Souls 2",
             "score": 6,
             "beaten": "Lost count",
-            "likes": [
-                "A lot of build variety and content in general",
-                "DLC shows an improvement in level layout"
-            ],
-            "dislikes": [
-                "Clearly rushed with scrapped ideas not fleshed out",
-                "Deadzone on movement and adaptability stat make just walking feel muddy"
-            ],
+            "comment" : "",
             "url": "img/Dark Souls 2.jpg"
         },
         {
             "title": "Divinity Original Sin",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "Rock/Paper/Scissors mechanic for co-op makes a playthrough very interesting",
-                "Towns were full of life and fun quests with branching solutions"
-            ],
-            "dislikes": [
-                "Combat was very RNG based on debuffs",
-                "Environmental hazards were plentiful and boring"
-            ],
+            "comment" : "",
             "url": "img/Divinity Original Sin.jpg"
         },
         {
             "title": "Fifa 20",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "Liverpool won the league so that's nice, nothing to do with the game",
-                "I got Timo Werner or something, and now he plays for Chelsea and sucks"
-            ],
-            "dislikes": [
-                "That gambling for kids feature",
-                "30fps locked unless you change some crap in a file"
-            ],
+            "comment" : "",
             "url": "img/Fifa 20.jpg"
         },
         {
             "title": "Hyrule Warriors",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "So much content for a Musou game",
-                "Good difficulty curve on hard difficulty"
-            ],
-            "dislikes": [
-                "Boss fights are repetitive and lack variety",
-                "Loot system is unecessary"
-            ],
+            "comment" : "",
             "url": "img/Hyrule Warriors.jpg"
         },
         {
             "title": "Kirby Star Allies",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "It's Kirby and he is shaped like a friend",
-                "Crazy ending that is absurd even for a Kirby game"
-            ],
-            "dislikes": [
-                "The gimmick of this game is extremely dull compared to the Robobot",
-                "Very plain levels that didn't stand out"
-            ],
+            "comment" : "",
             "url": "img/Kirby Star Allies.jpg"
         },
         {
             "title": "Metal Wolf Chaos XD",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "The voice acting is incredibly bad but also charming",
-                "Particle effects are crazy"
-            ],
-            "dislikes": [
-                "Mission objectives until the end are generic military stuff",
-                "UI not been updated to accomodate HD remster"
-            ],
+            "comment" : "",
             "url": "img/Metal Wolf Chaos XD.jpg"
         },
         {
             "title": "Pokemon Alpha Sapphire",
             "score": 6,
             "beaten": 2,
-            "likes": [
-                "Being able to freely fly is a neat addition, that once again, is removed in the next one",
-                "Gen 3 still has some of the best routes in a Pokemon game"
-            ],
-            "dislikes": [
-                "Not including features of Emerald from 15 years ago is the dumbest decision",
-                "Art style of characters is hideous"
-            ],
+            "comment" : "",
             "url": "img/Pokemon Alpha Sapphire.jpg"
         },
         {
             "title": "Resident Evil 7",
             "score": 6,
             "beaten": 2,
-            "likes": [
-                "Sections with the Baker family and their history are fantastic",
-                "Really enjoyed the VHS tape implementations"
-            ],
-            "dislikes": [
-                "First person horror relies too much on camera gimmicks and taking the player out of control",
-                "Ship and mine section are so awful"
-            ],
+            "comment" : "",
             "url": "img/Resident Evil 7.jpg"
         },
         {
             "title": "Slay the Spire",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "Quite addictive",
-                "Combat can be very fast which is great for a roguelike"
-            ],
-            "dislikes": [
-                "Art is so inconsistent that it's hard to believe it's from the same world",
-                "RPG elements are unecessary"
-            ],
+            "comment" : "",
             "url": "img/Slay the Spire.jpg"
         },
         {
             "title": "Supraland",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "Really creative puzzle solutions",
-                "Music was really peaceful"
-            ],
-            "dislikes": [
-                "Too many meme references",
-                "Some puzzles overstayed their welcome"
-            ],
+            "comment" : "",
             "url": "img/Supraland.jpg"
         },
         {
             "title": "World of Final Fantasy",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "Some beautiful environments even if the level paths are linear",
-                "All the FF games are portrayed with wonderful care"
-            ],
-            "dislikes": [
-                "Too much menu managaement for a Pokemon clone",
-                "Getting the true ending dragged"
-            ],
+            "comment" : "",
             "url": "img/World of Final Fantasy.jpg"
         },
         {
             "title": "The Legend of Zelda: Ocarina of Time",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "Fantastic camera for a N64 game",
-                "Gerudo Valley theme is incredible"
-            ],
-            "dislikes": [
-                "Dungeon designs, like every Zelda game are still boring",
-                "I can't stress how much I hate dungeons in Zelda games"
-            ],
+            "comment" : "",
             "url": "img/The Legend of Zelda: Ocarina of Time.jpg"
         },
         {
             "title": "Dying Light",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "Parkour and the grappling hook was a fun way to traverse a zombie infested town",
-                "Drop-kicking zombies off buildings was a blast"
-            ],
-            "dislikes": [
-                "Despite the co-op influence, making the ending a single player only level is quite dumb",
-                "Durability on weapons"
-            ],
+            "comment" : "",
             "url": "img/Dying Light.jpg"
         },
         {
             "title": "Dark Souls 3",
             "score": 5,
             "beaten": "Lost count",
-            "likes": [
-                "Undead Settlement is an excellent starting area but then the game drops hard",
-                "Some of the vistas are incredible"
-            ],
-            "dislikes": [
-                "Not a single original idea to be found throughout the entire game",
-                "Poise clearly doesn't work"
-            ],
+            "comment" : "",
             "url": "img/Dark Souls 3.jpg"
         },
         {
             "title": "Final Fantasy X",
             "score": 5,
             "beaten": 1,
-            "likes": [
-                "Worldbuilding is unique for a Final Fantasy game and deserves more love",
-                "Lulu is a gothic babe"
-            ],
-            "dislikes": [
-                "The dungeons are so awful I docked 5 points",
-                "Blitzball is the worst sport mini-game in a game"
-            ],
+            "comment" : "",
             "url": "img/Final Fantasy X.jpg"
         },
         {
             "title": "Metro 2033",
             "score": 5,
             "beaten": 1,
-            "likes": [
-                "Playing with Russian language is a pretty sureal experience as not everything is subtitled",
-                "Great AI on some monsters"
-            ],
-            "dislikes": [
-                "Linear design makes a scary setting seem less scary",
-                "Enemy accuracy is ridiculous, even on the easiest difficulty"
-            ],
+            "comment" : "",
             "url": "img/Metro 2033.jpg"
         },
         {
             "title": "Finding Paradise",
             "score": 5,
             "beaten": 1,
-            "likes": [
-                "Heartwarming story",
-                "It didn't cost my wallet too much"
-            ],
-            "dislikes": [
-                "Ugly art, bad humour",
-                "References to anime completely ruins the tone of the game"
-            ],
+            "comment" : "",
             "url": "img/Finding Paradise.jpg"
         },
         {
             "title": "Minecraft Dungeons",
             "score": 5,
             "beaten": 1,
-            "likes": [
-                "It was part of Game Pass",
-                "ARPGs is a fun genre to include as a spin-off"
-            ],
-            "dislikes": [
-                "I honestly can't remember much about this game",
-                "Loot was probably underwhelming but I can't remember!"
-            ],
+            "comment" : "",
             "url": "img/Minecraft Dungeons.jpg"
         },
         {
             "title": "Monster Sanctuary",
             "score": 5,
             "beaten": 1,
-            "likes": [
-                "Some monster designs were incredible",
-                "Combining metroidvania levels and Pokemon was a neat idea and worked pretty well"
-            ],
-            "dislikes": [
-                "Monsters were so similar I saw no need to ever change up from a typical set up",
-                "A lot of menu management"
-            ],
+            "comment" : "",
             "url": "img/Monster Sanctuary.jpg"
         },
         {
             "title": "Pokemon X",
             "score": 5,
             "beaten": 2,
-            "likes": [
-                "Pancham, Gogoar and Clawitzer are really good designs",
-                "Pokemon is neat"
-            ],
-            "dislikes": [
-                "Only about 80 new Pokemon but some of the designs were good",
-                "Game is over so fast after taking forever to just get 2 badges"
-            ],
+            "comment" : "",
             "url": "img/Pokemon X.jpg"
         },
         {
             "title": "Titan Quest Anniversary Edition",
             "score": 5,
             "beaten": 3,
-            "likes": [
-                "Unique setting for an ARPG with plenty of unique assets",
-                "Classes for an ARPG are also pretty unique"
-            ],
-            "dislikes": [
-                "Mage classes are awful",
-                "Loot is disappointing but mods can fix this"
-            ],
+            "comment" : "",
             "url": "img/Titan Quest Anniversary Edition.jpg"
         },
         {
             "title": "Troll and I",
             "score": 5,
             "beaten": 1,
-            "likes": [
-                "Played it as I lost a bet and it's not as bad as everyone says",
-                "Ending made me laugh in a way I haven't laughed in years"
-            ],
-            "dislikes": [
-                "A bug that forced me to redo 75% of the game",
-                "Only one save slot is a dumb choice for such a modern (and buggy) game"
-            ],
+            "comment" : "",
             "url": "img/Troll and I.jpg"
         },
         {
             "title": "Pokemon Shield",
             "score": 4,
             "beaten": 4,
-            "likes": [
-                "Pokemon designs are a significant step up from Sun/Moon",
-                "Wild area was a good concept but poorly executed"
-            ],
-            "dislikes": [
-                "No dungeons makes the wild area feel so empty and just a wide route",
-                "Online raids are clearly implemented to appeal to the Pokemon Go crowd"
-            ],
+            "comment" : "",
             "url": "img/Pokemon Shield.jpg"
         },
         {
             "title": "Remnant from the Ashes",
             "score": 4,
             "beaten": 1,
-            "likes": [
-                "Some boss designs were great",
-                "It's like Dark Souls but with guns"
-            ],
-            "dislikes": [
-                "Every area looked the exact same",
-                "Healing was slow and everything was a hold button prompt"
-            ],
+            "comment" : "",
             "url": "img/Remnant from the Ashes.jpg"
         },
         {
             "title": "Tokyo Mirage Sessions",
             "score": 4,
             "beaten": 1,
-            "likes": [
-                "Cute fashion for the idols",
-                "SMT combat system was implemented well but the Fire Emblem element is nothing"
-            ],
-            "dislikes": [
-                "Far too long",
-                "Towns were disappointing"
-            ],
+            "comment" : "",
             "url": "img/Tokyo Mirage Sessions.jpg"
         },
         {
             "title": "Torchlight 2",
             "score": 4,
             "beaten": 3,
-            "likes": [
-                "Pretty short for an ARPG",
-                "Pet system is wonderful and reduces downtime significantly"
-            ],
-            "dislikes": [
-                "Cooldowns on some skills were 2+ minutes and were lame",
-                "Levelling up skills took too long"
-            ],
+            "comment" : "",
             "url": "img/Torchlight 2.jpg"
         },
         {
             "title": "Monster Prom",
             "score": 3,
             "beaten": 3,
-            "likes": [
-                "Received as a joke gift",
-                "It's short"
-            ],
-            "dislikes": [
-                "Egoraptor voices someone",
-                "Art is pretty awful"
-            ],
+            "comment" : "",
             "url": "img/Monster Prom.jpg"
         },
         {
             "title": "Fairy Tail RPG",
             "score": 2,
             "beaten": 1,
-            "likes": [
-                "Character models were good",
-                "Nice turn based combat system for an adaptation of a manga"
-            ],
-            "dislikes": [
-                "Crashes on loading screens",
-                "Many things were handled offscreen just to move the plot forward a story arc"
-            ],
+            "comment" : "",
             "url": "img/Fairy Tail RPG.jpg"
         },
         {
             "title": "Earth Defense Force Insect Armageddon",
             "score": 2,
             "beaten": 1,
-            "likes": [
-                "Multiple classes and weapons was fun to switch up",
-                "Blowing up buildings was great"
-            ],
-            "dislikes": [
-                "Not enough variety of insects",
-                "It just sucks"
-            ],
+            "comment" : "",
             "url": "img/Earth Defense Force Insect Armageddon.jpg"
         }
     ],
@@ -761,785 +383,393 @@
         {
             "title": "Super Mario RPG",
             "score": 10,
-            "beaten": 1,
-            "likes": [
-                "Geno is so good that he deserves to be in Smash Bros damn it",
-                "Music by Yoko Shimomura is fantastic"
-            ],
-            "dislikes": [
-                "Needs more time with Bowser",
-                "Other RPGs on the SNES cant compete and playing this before them was a mistake"
-            ],
+            "beaten": 1,            "comment" : "",
+            "comment" : "",
             "url": "img/Super Mario RPG.jpg"
         },
         {
             "title": "Resident Evil 4",
             "score": 9,
             "beaten": 1,
-            "likes": [
-                "The merchant",
-                "The opening village section is one of the best parts of video game history"
-            ],
-            "dislikes": [
-                "The ending areas, like a lot of RE games, is significantly worse than the start",
-                "QTEs were a bit too modern, which makes no sense"
-            ],
+            "comment" : "",
             "url": "img/Resident Evil 4.jpg"
         },
         {
             "title": "Resident Evil 1 Remake",
             "score": 9,
             "beaten": 1,
-            "likes": [
-                "Jill Sandwich",
-                "Mansion rooms are varied and full of surprises"
-            ],
-            "dislikes": [
-                "Getting headshots was finicky",
-                "Jill Sandwich"
-            ],
+            "comment" : "",
             "url": "img/Resident Evil 1 Remake.jpg"
         },
         {
             "title": "Chrono Trigger",
             "score": 9,
             "beaten": 1,
-            "likes": [
-                "Prison break out sequence is only 30 minutes, not 5 hours like modern games",
-                "Frog and Robo are great characters "
-            ],
-            "dislikes": [
-                "Opening chests is worthless for a lot of the game as if you leave them for the future timeline, they get upgraded",
-                "Character side quests come very late into the game"
-            ],
+            "comment" : "",
             "url": "img/Chrono Trigger.jpg"
         },
         {
             "title": "Castlevania Symphony of the Night",
             "score": 9,
             "beaten": 1,
-            "likes": [
-                "It's not as hard as Super Castlevania",
-                "Movement was so smooth it made simply grinding for rare drops fun"
-            ],
-            "dislikes": [
-                "First part of the game is too easy",
-                "Some of the hidden items are so obtuse that I kinda did use a guide for some"
-            ],
+            "comment" : "",
             "url": "img/Castlevania Symphony of the Night.jpg"
         },
         {
             "title": "Bloodborne",
             "score": 10,
             "beaten": "Lost count",
-            "likes": [
-                "Whacking things with the Kirkhammer",
-                "Brought back the vampire goth werewolf archtypes into the mainstream that we need in games"
-            ],
-            "dislikes": [
-                "Framepacing when running along bridges craps itself",
-                "Chalice Dungeon co-op connectivity is awful"
-            ],
+            "comment" : "",
             "url": "img/Bloodborne.jpg"
         },
         {
             "title": "The Legend of Zelda: Breath of the Wild",
             "score": 8,
             "beaten": 2,
-            "likes": [
-                "Amount of quick side content in the open world keeps you discovering things",
-                "No awful mandatory dungeons"
-            ],
-            "dislikes": [
-                "The beasts or whatever they are called are basically dungeons but at least they are optional",
-                "Durability system while being not bad, can be improved"
-            ],
+            "comment" : "",
             "url": "img/The Legend of Zelda: Breath of the Wild.jpg"
         },
         {
             "title": "Yakuza Kiwami 2",
             "score": 8,
             "beaten": 1,
-            "likes": [
-                "Beating up the diaper wearing gangsters",
-                "Ryuji as a villain was great and isn't spoken about enough"
-            ],
-            "dislikes": [
-                "Can easily be burnt out if you play Yakuza games so often",
-                "No Anri Okita in this one"
-            ],
+            "comment" : "",
             "url": "img/Yakuza Kiwami 2.jpg"
         },
         {
             "title": "The Witcher 3",
             "score": 9,
             "beaten": 2,
-            "likes": [
-                "So many areas of the game are beautiful and worthy of a painting, especially in Skellige",
-                "I like a game that lets me spec in alchemy"
-            ],
-            "dislikes": [
-                "Nilfgaard quests consist of running all over the massive town",
-                "Triss is clearly better than Yennefer and yet people online still debate this"
-            ],
+            "comment" : "",
             "url": "img/The Witcher 3.jpg"
         },
         {
             "title": "Sekiro",
             "score": 8,
             "beaten": 4,
-            "likes": [
-                "Swords clashing sound fx",
-                "Excellent bosses"
-            ],
-            "dislikes": [
-                "English dub is bad",
-                "Soundtrack doesn't have a wide range"
-            ],
+            "comment" : "",
             "url": "img/Sekiro.jpg"
         },
         {
             "title": "Resident Evil 2 Remake",
             "score": 8,
             "beaten": 1,
-            "likes": [
-                "Ada",
-                "Short and sweet and the big bad Mr. X"
-            ],
-            "dislikes": [
-                "Best part once again in an RE game, is at the start",
-                "Random crits is outdated design"
-            ],
+            "comment" : "",
             "url": "img/Resident Evil 2 Remake.jpg"
         },
         {
             "title": "Pokemon Black 2",
             "score": 8,
             "beaten": 2,
-            "likes": [
-                "Incredible amount of Pokemon to use in a playthrough",
-                "The music goes full ham on the drum and bass"
-            ],
-            "dislikes": [
-                "Like the first game, many of its features can't be used due to no online servers",
-                "Almost drags on a bit too long aorund the mid-game"
-            ],
+            "comment" : "",
             "url": "img/Pokemon Black 2.jpg"
         },
         {
             "title": "Monster Hunter World Iceborne",
             "score": 8,
             "beaten": 2,
-            "likes": [
-                "Helping out new hunters with the 'hunter helper' feature",
-                "Raging Brachydios returned to ruin my day"
-            ],
-            "dislikes": [
-                "Some hitboxes still seem a bit naff",
-                "Didn't get a permanent switch up of the Handler to the sassy lady"
-            ],
+            "comment" : "",
             "url": "img/Monster Hunter World Iceborne.jpg"
         },
         {
             "title": "Luigi's Mansion 3",
             "score": 8,
             "beaten": 1,
-            "likes": [
-                "The lighting, graphics and physics for a Switch game were incredible",
-                "Every single room was incredibly creative in design and structure"
-            ],
-            "dislikes": [
-                "Made me feel a dumb dumb during some puzzle parts",
-                "Some segments were backtracking previous levels to chase a cat and I can't remember why"
-            ],
+            "comment" : "",
             "url": "img/Luigi's Mansion 3.jpg"
         },
         {
             "title": "The Legend of Zelda: Links Awakening DX",
             "score": 8,
             "beaten": 1,
-            "likes": [
-                "I remember liking most of the dungeons, which is rare for a Zelda game",
-                "God darn is this game whimsical and charming, with really delightful music"
-            ],
-            "dislikes": [
-                "One staircase was stupidly hard to find to progress",
-                "The dungeon revolving around throwing balls at columns was annoying"
-            ],
+            "comment" : "",
             "url": "img/The Legend of Zelda: Links Awakening DX.jpg"
         },
         {
             "title": "Grim Dawn",
             "score": 8,
             "beaten": "Lost count",
-            "likes": [
-                "The series of lore notes called Trip South is one of the best I've read in a game",
-                "I made it to level on hardcore this year, I think. Or maybe it was 2020"
-            ],
-            "dislikes": [
-                "Crafting at the blacksmith can cost too much money",
-                "Some routes are wide linear corridors meaning finding all the good stuff can take so long"
-            ],
+            "comment" : "",
             "url": "img/Grim Dawn.jpg"
         },
         {
             "title": "Final Fantasy VII",
             "score": 8,
             "beaten": 1,
-            "likes": [
-                "Cosmo Canyon is an area that I will remember until I die, hopefully",
-                "Best implementation of the Cid character"
-            ],
-            "dislikes": [
-                "The story gets a bit too weird as it goes on",
-                "I think the Limit Break system is complete garbage"
-            ],
+            "comment" : "",
             "url": "img/Final Fantasy VII.jpg"
         },
         {
             "title": "Final Fantasy IX",
             "score": 8,
             "beaten": 2,
-            "likes": [
-                "My friend Mike looks a bit like Zidane, even if he disagreed",
-                "I watched someone play this game and they provided funny voices for the characters, which made it better"
-            ],
-            "dislikes": [
-                "Amarant",
-                "Amarant deserved to be listed twice"
-            ],
+            "comment" : "",
             "url": "img/Final Fantasy IX.jpg"
         },
         {
             "title": "Dark Souls 3 (cinders mod)",
             "score": 8,
             "beaten": 1,
-            "likes": [
-                "Fixes a lot of the annoying crap about the base game such as the doll to pass through a dumb fog wall",
-                "Adds Bloodborne weapons and Bloodborne is cool"
-            ],
-            "dislikes": [
-                "Poise still doesn't work. I thinK. I can't remember",
-                "It still doesn't fix the story of Dark Souls 3, but it tries"
-            ],
+            "comment" : "",
             "url": "img/Dark Souls 3.jpg"
         },
         {
             "title": "Bully",
             "score": 8,
             "beaten": 1,
-            "likes": [
-                "The class mini-game were really fun",
-                "Got to live out a fantasy where I was respected by my fellow pupils"
-            ],
-            "dislikes": [
-                "Ending was quite bad",
-                "Time system while neat did feel a bit restrictive when I wanted to explore the town"
-            ],
+            "comment" : "",
             "url": "img/Bully.jpg"
         },
         {
             "title": "Yakuza Kiwami",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "Plot is made much better from playing 0 first",
-                "Wacky side quest shenanigans"
-            ],
-            "dislikes": [
-                "While enjoyable, it did seem like a massive drop in quality from 0",
-                "Some boss fights were brutally hard that I cheesed with items"
-            ],
+            "comment" : "",
             "url": "img/Yakuza Kiwami.jpg"
         },
         {
             "title": "Xenogears",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "Really deep mature story that was a bit 2deep4me",
-                "Fei is a neat main character who doesn't use a sword but instead punches things"
-            ],
-            "dislikes": [
-                "Playing this on the PS Classic sucked due to crashes",
-                "Any serious story segment is ruined by this dumb looking cute Furby character"
-            ],
+            "comment" : "",
             "url": "img/Xenogears.jpg"
         },
         {
             "title": "Xenoblade Chronicles 2",
             "score": 7,
             "beaten": 3,
-            "likes": [
-                "I love the combat and the accompanying hard rock music ",
-                "Rex is a good boy and deserves the best"
-            ],
-            "dislikes": [
-                "Blade field skills means unecessary inventory fiddling",
-                "Tutorial system isn't great but I am a pro so it didn't affect me"
-            ],
+            "comment" : "",
             "url": "img/Xenoblade Chronicles 2.jpg"
         },
         {
             "title": "Super Mario Maker 2",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "New music from legendary Koji Kondo is a delight",
-                "I attempted to recreate Bloodborne here and it worked well but no one bloody played it"
-            ],
-            "dislikes": [
-                "For such a online creation heavy game, it sucks it requires Nintendo Switch online, unlike say Dreams",
-                "Level creation interface is a slog without the Wii U tablet but they tried"
-            ],
+            "comment" : "",
             "url": "img/Super Mario Maker 2.jpg"
         },
         {
             "title": "Red Dead Redemption 1",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "I feel bad for John. That wolf deserved better",
-                "Dead-eye mechanic made the game too easy"
-            ],
-            "dislikes": [
-                "Felt like endless desert with nothing of note in the environment",
-                "Every mission was pretty much the same"
-            ],
+            "comment" : "",
             "url": "img/Red Dead Redemption 1.jpg"
         },
         {
             "title": "Pokemon Heart Gold",
             "score": 7,
             "beaten": 3,
-            "likes": [
-                "Krabby, the best Pokemon, is available early on, and even makes a good HMSlave",
-                "I spent about 50 hours plating Voltorb Flip on the toilet (not all at once)"
-            ],
-            "dislikes": [
-                "New music is a bit of a bummer, especially for Goldenrod City",
-                "Pokemon availability in the first region is disappointingly small despite being a remake"
-            ],
+            "comment" : "",
             "url": "img/Pokemon Heart Gold.jpg"
         },
         {
             "title": "Marvel Ultimate Alliance 3",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "An excellent roster of Marvel characters with more post-release",
-                "Not too easy or too hard for an isometic beat em up"
-            ],
-            "dislikes": [
-                "Character designs I thought were real cool had a poor moveset",
-                "Aside from the ninja temple level set at night, none of the levels stood out"
-            ],
+            "comment" : "",
             "url": "img/Marvel Ultimate Alliance 3.jpg"
         },
         {
             "title": "Katana Zero",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "Really cool vibes with good electronic techno music",
-                "Multiple endings is neat but I felt no desire to get more"
-            ],
-            "dislikes": [
-                "The plentiful of VHS style effects got tiring and became a bit of an eye sore",
-                "I wasn't very good at it"
-            ],
+            "comment" : "",
             "url": "img/Katana Zero.jpg"
         },
         {
             "title": "Fire Emblem Three Houses",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "Bernadette, Hilda, Marianne, Catherine, Shamir",
-                "The music went full ham during boss fights"
-            ],
-            "dislikes": [
-                "The school aspect never got switched up so running through that ugly environment was very boring",
-                "The first half of each of the storylines is sadly the same which sucks when replaying so soon"
-            ],
+            "comment" : "",
             "url": "img/Fire Emblem Three Houses.jpg"
         },
         {
             "title": "Devil May Cry 5",
             "score": 7,
             "beaten": 2,
-            "likes": [
-                "Nero deserves to replace Dante which I dont think I would ever say about another protege in a game",
-                "Putting cowboy hats on every enemy with Dante and then taking a picture"
-            ],
-            "dislikes": [
-                "Stop it with the Virgil please! Give it a rest!",
-                "Navigating the linear elevator heavy tree was disappointing with the possibilities they could do with a deomonic tree"
-            ],
+            "comment" : "",
             "url": "img/Devil May Cry 5.jpg"
         },
         {
             "title": "Life is Strange 1",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "I got to let the blue haired girl die as I didn't like her",
-                "The writers were not afraid to go too dark with the storyline, which I really appreciate"
-            ],
-            "dislikes": [
-                "Words like 'hella' appeared very often",
-                "A lot of the actions of pupils and teachers were not believable"
-            ],
+            "comment" : "",
             "url": "img/Life is Strange 1.jpg"
         },
         {
             "title": "The Legend of Zelda: Link to the Past",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "Many of the dungeons utilised the outside world environment which is neat and unseen in recent entries",
-                "I enjoyed collecting the heart containers even if I missed only one, still bums me out"
-            ],
-            "dislikes": [
-                "The overworld theme is grating to my ears and I don't care what anyone else things",
-                "I don't think I liked a single boss, I can't even remember any"
-            ],
+            "comment" : "",
             "url": "img/The Legend of Zelda: Link to the Past.jpg"
         },
         {
             "title": "Xenoblade 2 Torna",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "A new combat system for an expansion is appreciated even if it wasn't needed",
-                "Fleshed out the side villains of the base game"
-            ],
-            "dislikes": [
-                "Had to grind out side quests to unlock main quest progression",
-                "Environments for a Xenoblade game was quite generic"
-            ],
+            "comment" : "",
             "url": "img/Xenoblade 2 Torna.jpg"
         },
         {
             "title": "The Outer Worlds",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "The commercial elements had excellent design",
-                "Nice to see this kind of game made by Obsidian"
-            ],
-            "dislikes": [
-                "It followed too closely the formula of something like New Vegas despite a year 10 technological gap",
-                "I remember something about the types of ammo being 1 of 3 kind being dumb"
-            ],
+            "comment" : "",
             "url": "img/The Outer Worlds.jpg"
         },
         {
             "title": "Rage",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "The hospital sections still to this day look incredible",
-                "Giant monsters"
-            ],
-            "dislikes": [
-                "Spent a lot of time shooting huamn-like enemies in a setting full of potential",
-                "I don't remember anything about it"
-            ],
+            "comment" : "",
             "url": "img/Rage.jpg"
         },
         {
             "title": "Pokemon Sigma Emerald",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "Gen IV improvements added in a way that isn't frustrating to play through like a lot of roms",
-                "Even included some Gen VI features such as the fairy type"
-            ],
-            "dislikes": [
-                "I guess I played this. I honestly don't remember!",
-                "It still doesn't fix the awful music of Gen III"
-            ],
+                        "comment" : "",
             "url": "img/Pokemon Sigma Emerald.jpg"
         },
         {
             "title": "Gears 5",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "It brought back the spooky atmosphere of the first game at the start then immediately dropped it",
-                "The drone buddy was a nice feature"
-            ],
-            "dislikes": [
-                "Ended up feeing very padded out",
-                "The ending doesn't offer anything satisfying, meaning we will probably get yet another"
-            ],
+                        "comment" : "",
             "url": "img/Gears 5.jpg"
         },
         {
             "title": "Fable 1",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "The child-like humour and whimsical element is something not seen often in games",
-                "Really was quite ambitious for an original Xbox game"
-            ],
-            "dislikes": [
-                "I remember being disappointed by the towns",
-                "I could never be bothered to do the talking head door areas"
-            ],
+                        "comment" : "",
             "url": "img/Fable 1.jpg"
         },
         {
             "title": "Dragon Quest Builders 2",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "I built a single toilet, suddenly everyone queued up to poop, I collected said poop to further build my empire",
-                "I was quite proud of my creations"
-            ],
-            "dislikes": [
-                "It had a prison breakout sequence that took away all your stuff and lasted 5 hours at least",
-                "Far too long"
-            ],
+                        "comment" : "",
             "url": "img/Dragon Quest Builders 2.jpg"
         },
         {
             "title": "Crackdown 3",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "It's not as bad as everyone said",
-                "Terry Crews"
-            ],
-            "dislikes": [
-                "My friend had issues on his AMD card so we didn't co-op it",
-                "A lot of the minor graphical effects that was in the first game suddenly wasn't here"
-            ],
+                        "comment" : "",
             "url": "img/Crackdown 3.jpg"
         },
         {
             "title": "Astral Chain",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "Lappy the Dog",
-                "It's the closest we have gotten to a good JoJo's Bizarre Adventure game"
-            ],
-            "dislikes": [
-                "A lot of the game took place in the same disgusting looking areas",
-                "That 'carry 10 scoops of ice cream to the child without getting knocked over' quest was insanely hard"
-            ],
+            "comment" : "",
             "url": "img/Astral Chain.jpg"
         },
         {
             "title": "Shadow Warrior 2",
             "score": 6,
             "beaten": 1,
-            "likes": [
-                "I got to play Hotline Miami music in the hub area thanks to an arcade machine",
-                "Levels were small enough to not have a lot of downtime"
-            ],
-            "dislikes": [
-                "The enemy designs were repetitive and lakced originality, much like this comment",
-                "The Diablo loot system was an unecessary addition"
-            ],
+            "comment" : "",
             "url": "img/Shadow Warrior 2.jpg"
         },
         {
             "title": "Undertale",
             "score": 5,
             "beaten": 1,
-            "likes": [
-                "A really unique combat system",
-                "The endings are based on things you do very early on in the game, not just right at the end"
-            ],
-            "dislikes": [
-                "Bad humour",
-                "The worst fanbase"
-            ],
+            "comment" : "",
             "url": "img/Undertale.jpg"
         },
         {
             "title": "Sunset Overdrive",
             "score": 5,
             "beaten": 2,
-            "likes": [
-                "Ratchet and Clank mixed with superheroes was a good continuation for Insomniac Games",
-                "The game is based on an energy dirnk which I drink plenty of, but I have not become a monster yet"
-            ],
-            "dislikes": [
-                "Outdated references such as referencing the website Neogaf",
-                "It needed more of a focus on boss fights, not wave based missions"
-            ],
+            "comment" : "",
             "url": "img/Sunset Overdrive.jpg"
         },
         {
             "title": "Spyro Reignited 1",
             "score": 5,
             "beaten": 1,
-            "likes": [
-                "The levels were small enough to make finding the collectibles exciting",
-                "Spyro's design was really great"
-            ],
-            "dislikes": [
-                "Extremely basic for a modern platformer",
-                "I'd rather see a new Spyro than Activision rehash old material, even if going by Crash 4 sales, it won't sell well"
-            ],
+            "comment" : "",
             "url": "img/Spyro Reignited 1.jpg"
         },
         {
             "title": "Sayonara Wild Hearts",
             "score": 5,
             "beaten": 1,
-            "likes": [
-                "The music is pretty great, especially the cover of Clair De Lune",
-                "That one level involving 2 people clicking the fingers which changes the environment was really well executed"
-            ],
-            "dislikes": [
-                "I played this in one sitting while exercising and it was very hard to see stuff on the Switch screen",
-                "It reused the same level format multiple times despite being such a short game"
-            ],
+            "comment" : "",
             "url": "img/Sayonara Wild Hearts.jpg"
         },
         {
             "title": "Puzzle Quest: The Legend Returns",
             "score": 5,
             "beaten": 1,
-            "likes": [
-                "Really comfy game to play in bed",
-                "Some battles seemed very unfair"
-            ],
-            "dislikes": [
-                "Despite being a Bejewled like game, my framerate dropped constantly",
-                "I remember having to grind a lot but not sure if that was because it was addictive"
-            ],
+            "comment" : "",
             "url": "img/Puzzle Quest: The Legend Returns.jpg"
         },
         {
             "title": "Portal 2",
             "score": 5,
             "beaten": 3,
-            "likes": [
-                "The two robots you play as in co-op have adorable designs",
-                "Valve has great art and technical direction as the game still holds up today"
-            ],
-            "dislikes": [
-                "Everytime I replay this game, I like it a little bit less",
-                "I was never a fan of the comedy style of this game"
-            ],
+            "comment" : "",
             "url": "img/Portal 2.jpg"
         },
         {
             "title": "Pokemon Shield",
             "score": 5,
             "beaten": 3,
-            "likes": [
-                "Failinks is a really good design and the best of the game",
-                "Wasn't plagued by 10+ legendaries like many of the recent generations"
-            ],
-            "dislikes": [
-                "Hau sucks, or is it Hop in this game? Both are awful and very much alike",
-                "No victory road is an insult"
-            ],
+            "comment" : "",
             "url": "img/Pokemon Shield.jpg"
         },
         {
             "title": "Luigi's Mansion",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "The facial expressions of Luigi is really charming",
-                "The names based on Boo puns such as Little Boo Peep, Boohoo, Booris, Bootique"
-            ],
-            "dislikes": [
-                "A lot of backtracking despite being a small mansion",
-                "I played this after LM3 and it couldn't compete, sorry"
-            ],
+            "comment" : "",
             "url": "img/Luigi's Mansion.jpg"
         },
         {
             "title": "Dark Souls 3",
             "score": 5,
             "beaten": 1,
-            "likes": [
-                "Parrying bosses was satisfying",
-                "So many great gestures"
-            ],
-            "dislikes": [
-                "I got the platinum trophy here and it required so much grinding",
-                "Every armour set is brown, with a low quality mesh and texture so nothing stands out"
-            ],
+            "comment" : "",
             "url": "img/Dark Souls 3.jpg"
         },
         {
             "title": "Pokemon Sword",
             "score": 4,
             "beaten": 2,
-            "likes": [
-                "This game has Bea as a gym leader",
-                "Seeing fully evolved Pokemon in the wild is pretty cool"
-            ],
-            "dislikes": [
-                "This one doesn't have Mr Rime so it gets docked a point",
-                "Obviously Sword is cooler than Shield which means again, it's a worse game"
-            ],
+            "comment" : "",
             "url": "img/Pokemon Sword.jpg"
         },
         {
             "title": "Pokemon Let's Go Pikachu",
             "score": 4,
             "beaten": 2,
-            "likes": [
-                "Really nice art style which has been completely neglected since",
-                "Can challenge the gyms in a crazy bizarre order which is rare for Pokemon now"
-            ],
-            "dislikes": [
-                "More Pokemon Gen I pandering",
-                "Not sure why they felt the need to stick with just Gen I Pokemon, when Fire Red exists"
-            ],
+            "comment" : "",
             "url": "img/Pokemon Let's Go Pikachu.jpg"
         },
         {
             "title": "Final Fantasy XV",
             "score": 4,
             "beaten": 2,
-            "likes": [
-                "The MP3 Player on the go is really good because I can listen to Nier music while walking the empty world",
-                "This year I used mods to replace the 4 character models with my custom overweight dude, Dante, Bayonetta and I've forgotten the last"
-            ],
-            "dislikes": [
-                "Game constantly spawns enemies on you due to the miserable dead empty world that is massive in size",
-                "Such a heavy focus on the car, something I hated as it restricts exploration"
-            ],
+            "comment" : "",
             "url": "img/Final Fantasy XV.jpg"
         },
         {
             "title": "Fallout 4",
             "score": 3,
             "beaten": 1,
-            "likes": [
-                "The Power Armour mechanic is the best it's beeen in a Fallout game",
-                "The shooting is such an improvement but it's at the cost of everything else"
-            ],
-            "dislikes": [
-                "They learned absolutely nothing from New Vegas as evidenced by the awful dialogue interface",
-                "Came across some characters I could not say no to, despite the game presenting that option"
-            ],
+            "comment" : "",
             "url": "img/Fallout 4.jpg"
         },
         {
             "title": "The Order 1886",
             "score": 2,
             "beaten": 1,
-            "likes": [
-                "The setting is a good idea, mixing Knights of the Order with werewolves and Tesla",
-                "Some unique guns I guess"
-            ],
-            "dislikes": [
-                "The blimp location was a good idea but it's a linear mess with no freedom at all",
-                "So many quick time events and padded tightrope walking sections and yet it's still so short, awful bosses, hate it"
-            ],
+            "comment" : "",
             "url": "img/The Order 1886.jpg"
         }
     ],
@@ -1548,14 +778,7 @@
             "title": "Tav",
             "score": 7,
             "beaten": 1,
-            "likes": [
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
+            "comment" : "",
             "url": "img/Tav.jpg"
         }
     ]
