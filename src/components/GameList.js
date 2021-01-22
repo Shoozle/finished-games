@@ -1,5 +1,6 @@
 import React from 'react';
 import Game from './Game';
+import classes from './GameList.module.css';
 
 const GameList = ({ year, games }) => {
     
@@ -18,8 +19,8 @@ const GameList = ({ year, games }) => {
 
     //let list = games.map
     return (
-        <div>
-            <h1>{year}</h1>
+        <div className={classes.GameList}>
+            <h1 className={classes.year}>{year}</h1>
             {gameList}
         </div>
     );

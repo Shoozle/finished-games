@@ -1,0 +1,28 @@
+.Game {
+    perspective: 150rem;
+    -moz-perspective: 150rem;  
+    background-color: paleturquoise;
+    display: flex;
+    flex-direction: column;
+    border-radius: .4rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: 400;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.image {
+    width: 100%;
+    height: auto;
+}
+
+.comment {
+    font-size: 1.1rem;
+    line-height: 1.6rem;
+}
+

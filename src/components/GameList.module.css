@@ -1,0 +1,12 @@
+.GameList {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: min-content;
+    gap: 1.4rem;
+    position: relative;
+}
+
+.year {
+    grid-column: 1 / -1;
+    justify-self: center;
+}

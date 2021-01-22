@@ -1,27 +1,20 @@
 import React from 'react';
+import classes from './Game.module.css';
 
 const Game = (props) => {
 
-    let likesList = [];
-    let dislikesList = [];
-
-    // likesList = props.likes.map = like => {
-    //     return (
-    //         <li>{like}</li>
-    //     )
-    // }
-
     return (
-        <div>
-            <h3>{props.title}</h3>
-            <img src={props.url} alt={props.title}/>
-            <p>Times beaten: {props.beaten}</p>
-            <p>{props.score}/10</p>
-            <h4>Likes</h4>
-            <div>
-                <p>{props.comment}</p>
+        <div className={classes.Game}>
+            <div className={classes.front}>
+                <h3 className={classes.title}>{props.title}</h3>
+                <img className={classes.image} src={props.url} alt={props.title} />
+                <p>Times beaten: {props.beaten}</p>
+                <p>{props.score}/10</p>
             </div>
-            
+            <div className={classes.backside}>
+                <p className={classes.comment}>{props.comment}</p>
+            </div>
+
         </div>
     )
 }
