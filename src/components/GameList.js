@@ -19,9 +19,11 @@ const GameList = ({ year, games }) => {
 
     //let list = games.map
     return (
-        <div className={classes.GameList}>
+        <div>
             <h1 className={classes.year}>{year}</h1>
-            {gameList}
+            <div className={classes.GameList}>
+                {gameList}
+            </div>
         </div>
     );
 }
