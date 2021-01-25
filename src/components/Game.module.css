@@ -50,6 +50,7 @@
 .game__image {
     width: 100%;
     height: auto;
+    object-fit: contain;
 }
 
 .game__comment {
