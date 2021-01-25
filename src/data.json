@@ -782,6 +782,209 @@
     ],
     "2018": [
         {
+            "title": "Okami HD",
+            "score": 9,
+            "beaten": 2,
+            "comment": "One of my absolute favourite games from one of my favourite game directors. A beautiful stylized Japanese game which started my love for Yokai. A unique combat system with a great story, funny side characters and a deeply interactive world",
+            "url": "img/Okami HD.jpg"
+        },
+        {
+            "title": "Kirby Planet Robobot",
+            "score": 9,
+            "beaten": 2,
+            "comment": "An underrated Kirby game with one of the best gimmicks to a Kirby game. The underwater world is great which is rare for a platformer and it's use of 3D was really fun in casino styled levels",
+            "url": "img/Kirby Planet Robobot.jpg"
+        },
+        {
+            "title": "Devil May Cry 3",
+            "score": 9,
+            "beaten": 3,
+            "comment": "Hideaki Itsuno knocks it out of the park after a disappointing DMC2. Incredible combat for a PS2 game made better with the Style Switcher mod. Ruthlessly hard at times but what is the price to pay for power",
+            "url": "img/Devil May Cry 3.jpg"
+        },
+        {
+            "title": "Demon's Souls",
+            "score": 10,
+            "beaten": "Lost count",
+            "comment": "The year the servers got taken down but it was an incredible day of helping people get their Platinum trophy by dropping them hard to farm materials",
+            "url": "img/Demon's Souls.jpg"
+        },
+        {
+            "title": "Bloodborne",
+            "score": 10,
+            "beaten": "Lost count",
+            "comment": "Loved going around this beautiful gothic town whacking beastmen with a Kirkhammer, also did this with a bud and called ourselves the hammer bros",
+            "url": "img/Bloodborne.jpg"
+        },
+        {
+            "title": "Astrobot Rescue Mission",
+            "score": 9,
+            "beaten": 2,
+            "comment": "An incredible platformer made even better by being in VR. It had great boss fights and serves as an excellent starting point for VR due to the fixed camera, fluid movement, and fun environmental screen gimmicks",
+            "url": "img/Astrobot Rescue Mission.jpg"
+        },
+        {
+            "title": "Tetris Attack",
+            "score": 8,
+            "beaten": 1,
+            "comment": "I love Puzzle league and this is pretty much the first inception of it, something about the simple aesthetic compared to the cylindrical nature future games have keep it simple",
+            "url": "img/Tetris Attack.jpg"
+        },
+        {
+            "title": "Monster Hunter World",
+            "score": 8,
+            "beaten": 2,
+            "comment": "It was nice to finally play Monster Hunter on something other than a small screen for the first time since 3U onn the Wii U but the monster roster was too small to keep me playing for a long time but Monster Hunter finally acheived mainstream success",
+            "url": "img/Monster Hunter World.jpg"
+        },
+        {
+            "title": "Hollow Knight",
+            "score": 8,
+            "beaten": 2,
+            "comment": "A bug filled adventure with an excellent world and great bosses with so much hidden content. Free DLC was also added which is always great to see though now the game might be too big",
+            "url": "img/Hollow Knight.jpg"
+        },
+        {
+            "title": "Grim Dawn",
+            "score": 8,
+            "beaten": "Lost count",
+            "comment": "The first DLC added the Necromancer and Inquisitor which laughs in the face of Diablo 3 as they sold just 1 class for more money, another reason to praise Crate Entertainment",
+            "url": "img/Grim Dawn.jpg"
+        },
+        {
+            "title": "God of War",
+            "score": 8,
+            "beaten": 1,
+            "comment": "One of the best reboots but the stupid camera being stuck to the back of Kratos really took away the impace of Scale the PS2 games provided, that and the bosses sucked",
+            "url": "img/God of War.jpg"
+        },
+        {
+            "title": "Divinity Original Sin 2",
+            "score": 8,
+            "beaten": 4,
+            "comment": "Getting to Act 2 and listening to Rivellon is something that will stick with me for a long time, what an absolute adventure even if I was disappointed with Act 3 and 4",
+            "url": "img/Divinity Original Sin 2.jpg"
+        },
+        {
+            "title": "Dark Souls Remastered",
+            "score": 8,
+            "beaten": "Lost count",
+            "comment": "Some nice changes such as the password co-op connection and the UI scaler setting but aside from that it still disappoints and was overpriced",
+            "url": "img/Dark Souls Remastered.jpg"
+        },
+        {
+            "title": "Yoku's Island Express",
+            "score": 7,
+            "beaten": 1,
+            "comment": "An interesting blend of of Metoridvania and Pinball that was pulled off pretty well. It also had some incredible character designs but I did not enjoy getting around sometimes",
+            "url": "img/Yoku's Island Express.jpg"
+        },
+        {
+            "title": "Warioware Gold",
+            "score": 7,
+            "beaten": 1,
+            "comment": "My first and only Warioware game. It was quite funny and the side characters were all great but it's not the type of game I love with it's mini-game design",
+            "url": "img/Warioware Gold.jpg"
+        },
+        {
+            "title": "Titanfall 2",
+            "score": 7,
+            "beaten": 1,
+            "comment": "A creatively designed first person shooter is something I haven't experienced in a long time. Many of the levels were fun and BT was a great robot buddy. Short and sweet",
+            "url": "img/Titanfall 2.jpg"
+        },
+        {
+            "title": "Statik",
+            "score": 7,
+            "beaten": 1,
+            "comment": "A simple VR game with a low price point. It's puzzles were designed and the creepy atmosphere made for a unique experience. The design of the character models was something that sticks in my mind more than the puzzles",
+            "url": "img/Statik.jpg"
+        },
+        {
+            "title": "Spider-Man",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Once again, Insomniac create an excellent movement system and finally given the budget and an IP for success. It was pleasently short and had an emotional story that honestly left me feeling quite sad at the end, something those crap Marvel films can learn",
+            "url": "img/Spider-Man.jpg"
+        },
+        {
+            "title": "Smash Bros Ultimate",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Never a big Smash fan but the World of Light was enjoyable as a single player mode and getting every single character back was an astonishing feat and deserves a reward for something",
+            "url": "img/Smash Bros Ultimate.jpg"
+        },
+        {
+            "title": "Shadow of the Colossus",
+            "score": 7,
+            "beaten": 1,
+            "comment": "A game I look back on fondly but didn't like playing. A truly unique open world game that was more ambitious on the PS2 than it is now but the soundtrack is still one of the best as is the ending",
+            "url": "img/Shadow of the Colossus.jpg"
+        },
+        {
+            "title": "Rez Infinite",
+            "score": 7,
+            "beaten": 1,
+            "comment": "A trippy VR experience even if short. I think I am quite biased towards VR in general but the scale of the final area was ridiculous",
+            "url": "img/Rez Infinite.jpg"
+        },
+        {
+            "title": "Persona 5",
+            "score": 7,
+            "beaten": 2,
+            "comment": "I replayed it to get the platinum trophy and thought less of it, primarily because I had to redo many hours as I missed a text message to trigger a side mission in Mementos",
+            "url": "img/Persona 5.jpg"
+        },
+        {
+            "title": "Octopath Traveller",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Underrated soundtrack of 2018 and while it went for a certain visual element, the amount of bloom, depth of field and vignette shaders ruined the overall look but it had Alfyn who did 9999 damage despite being a doctor",
+            "url": "img/Octopath Traveller.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 7,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 7,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 7,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 7,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 7,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 7,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
             "title": "Tav",
             "score": 7,
             "beaten": 1,
