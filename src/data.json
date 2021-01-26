@@ -8,7 +8,7 @@
             "url": "img/Dark Souls Remastered.jpg"
         },
         {
-            "title": "Demon's Souls (2009)",
+            "title": "Demon's Souls",
             "score": 10,
             "beaten": "Lost count",
             "comment": "Played this to spite the remake I don't like the look of. Also used the custom DNS server that's set up since they are offline now. It truly is one of the greats",
@@ -17,7 +17,7 @@
         {
             "title": "Wonderful 101 Remastered",
             "score": 9,
-            "beaten": "4",
+            "beaten": 2,
             "comment": "It was blissful to be able to play this without using my dusty Wii U. An incredibly charming game with a unique combat system and an insane ending. Shame about the Kickstarter import fees",
             "url": "img/The Wonderful 101.jpg"
         },
@@ -425,7 +425,7 @@
         {
             "title": "Pokemon White",
             "score": 9,
-            "beaten": "2",
+            "beaten": 2,
             "comment": "I've come to appreciate Gen V a lot more as it feels like the last time Pokemon took risk with 151 brand new Pokemon, high budget ending with great DS visuals and incredible music. Shame about the now dead online features",
             "url": "img/Pokemon White.jpg"
         },
@@ -943,50 +943,248 @@
             "url": "img/Octopath Traveller.jpg"
         },
         {
-            "title": "Tav",
+            "title": "Hitman",
             "score": 7,
             "beaten": 1,
-            "comment": "",
-            "url": "img/Tav.jpg"
+            "comment": "The episodic element really suits the style of Hitman but the online only requirement is so unnecessary. While these games are meant to be replayed heavily, I felt little desire to but still was enjoyable to flush peoples heads in the toilet",
+            "url": "img/Hitman.jpg"
         },
         {
-            "title": "Tav",
+            "title": "Furi",
             "score": 7,
             "beaten": 1,
-            "comment": "",
-            "url": "img/Tav.jpg"
+            "comment": "A friend bought this for me and while the inbetween combat bits are boring, each boss being so unique set to music by Danger and Carpenter Brut made the fights exciting",
+            "url": "img/Furi.jpg"
         },
         {
-            "title": "Tav",
+            "title": "Dragon Quest XI",
             "score": 7,
             "beaten": 1,
-            "comment": "",
-            "url": "img/Tav.jpg"
+            "comment": "I walked 5 miles to Bromborough to get this game from ASDA but I don't know why, I will admit that Sylvando is one of the best party members in DQ history but it is a slow burn to get your first 4 party members",
+            "url": "img/Dragon Quest XI.jpg"
         },
         {
-            "title": "Tav",
+            "title": "Donkey Kong Country",
+            "score": 7,
+            "beaten": 2,
+            "comment": "Played alongside this with a bud and talked about our experience. Wasn't as difficult as I remember and Elevator Antics sticks out as a favourite level but the underwater levels aren't so great",
+            "url": "img/Donkey Kong Country.jpg"
+        },
+        {
+            "title": "Devil May Cry 4",
+            "score": 7,
+            "beaten": "Lost count",
+            "comment": "A good game in some ways and bad in others, especially when backtracking as Dante, you fight each boss 3 times in one playthrough but some fights are incredible and the demo is one of my earliest Xbox 360 memories",
+            "url": "img/Devil May Cry 4.jpg"
+        },
+        {
+            "title": "Demon's Crest",
             "score": 7,
             "beaten": 1,
-            "comment": "",
-            "url": "img/Tav.jpg"
+            "comment": "A good sidescroller I played on the SNES classic that thankfully isn't as punishing as the previous Ghosts n Godblins entries, I did not get the true ending as I missed some collectibles",
+            "url": "img/Demon's Crest.jpg"
         },
         {
-            "title": "Tav",
-            "score": 7,
+            "title": "Warriors Orochi 4",
+            "score": 6,
             "beaten": 1,
-            "comment": "",
-            "url": "img/Tav.jpg"
+            "comment": "Once again my Musou addiction brings me to another, and this one is pretty good. I spent far too much time playing as Magoichi Saika",
+            "url": "img/Warriors Orochi 4.jpg"
         },
         {
-            "title": "Tav",
-            "score": 7,
+            "title": "Tetris Effect",
+            "score": 6,
             "beaten": 1,
-            "comment": "",
-            "url": "img/Tav.jpg"
+            "comment": "Played in VR and it was too expensive! But none the less it was a fun VR and Tetris experience on some levels but some levels also had awful music and distracting visual effects",
+            "url": "img/Tetris Effect.jpg"
         },
         {
+            "title": "Splatoon 2",
+            "score": 6,
+            "beaten": 1,
+            "comment": "I played one online game, won, topped my teams leaderboard and then never touched it again. The single player campaign was fun enough but it did feel like more of the same",
+            "url": "img/Splatoon 2.jpg"
+        },
+        {
+            "title": "Resident Evil 7",
+            "score": 6,
+            "beaten": 2,
+            "comment": "My first mainstream experience of VR and it made me feel sick but there's nothing else quite like it and it's a shame it's exclusive to PSVR. Incredible 3D audio made it genuinely terrifying in the house",
+            "url": "img/Resident Evil 7.jpg"
+        },
+        {
+            "title": "Marlow Briggs",
+            "score": 6,
+            "beaten": 1,
+            "comment": "A low budget action game that I played as a meme. It's surprisingly great and I remember thinking the weapons were quite unique but the puzzles all felt like filler",
+            "url": "img/Marlow Briggs.jpg"
+        },
+        {
+            "title": "Gears of War Judgement",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Played with a buddy and I was surprised at how much I liked it after the misery of the other two. For a 360 game, the particle effects were quite fantastic. People Can Fly deserve a chance to make a great new IP",
+            "url": "img/Gears of War Judgement.jpg"
+        },
+        {
+            "title": "Donkey Kong Country Tropical Freeze",
+            "score": 6,
+            "beaten": 3,
+            "comment": "David Wise returns to deliver on the soundtrack but everything else felt too expected and the levels too organic compared to the crazy settings some DKC games have like factory or prehistoric",
+            "url": "img/Donkey Kong Country Tropical Freeze.jpg"
+        },
+        {
+            "title": "Devil May Cry 1",
+            "score": 6,
+            "beaten": 2,
+            "comment": "As part of the HD collection that finally came to PC, and for sure is fun but very basic compared to the modern games that diverted from the serious tone. The underwater sections also suck",
+            "url": "img/Devil May Cry 1.jpg"
+        },
+        {
+            "title": "Dead Island",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Played with a buddy and it was quite awful but not as bad as I expected, it got buggy in the final moments which kind of ruined the impact but I don't remember much other than 'Who do you Voodoo'",
+            "url": "img/Dead Island.jpg"
+        },
+        {
+            "title": "A Way Out",
+            "score": 6,
+            "beaten": 1,
+            "comment": "A serious co-op game with an ending that was funnier than it should be but there's nothing else quite like it and I'm glad EA supported Josef Farez's ideas as Brothers was also real good",
+            "url": "img/A Way Out.jpg"
+        },
+        {
+            "title": "Valkyria Chronicles 4",
+            "score": 5,
+            "beaten": 1,
+            "comment": "One of my major disappointments after waiting so long for a proper VC sequel and I think that's because the main cast were incredibly tropey, dumb and the main character had no qualities other than some magic weather prediction",
+            "url": "img/Valkyria Chronicles 4.jpg"
+        },
+        {
+            "title": "Theme Hospital",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Having no nostalgia for sim hospitals I was surprised by this games charm but it didn't evolve over the main course of the game to be interesting and I played it as a background game. Turtlehead jokes are always funny",
+            "url": "img/Theme Hospital.jpg"
+        },
+        {
+            "title": "Rime",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Sony showed this off so long ago but dropped it, and now I don't remember anything about it other than that, but hey I gave it a 5 so I must have liked and disliked parts of it",
+            "url": "img/Rime.jpg"
+        },
+        {
+            "title": "Moss",
+            "score": 5,
+            "beaten": 1,
+            "comment": "A game I heard such good things about but couldn't feel the same once I finished it. It's storybook presentation was cute as were the visuals and characters but it was far too basic compared to other VR games",
+            "url": "img/Moss.jpg"
+        },
+        {
+            "title": "Halo Reach",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Played in co-op with a bud who insisted on the hardest difficulty and I resent him for it. I remember it having a great ending but nothing else",
+            "url": "img/Halo Reach.jpg"
+        },
+        {
+            "title": "Digimon Cyber Sleuth 2",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Almost a carbon copy of the first game but the CGI scenes looked incredible. I am happy to support Digimon but it did feel like an overpriced expansion and the new combat mode really wasn't good",
+            "url": "img/Digimon Cyber Sleuth 2.jpg"
+        },
+        {
+            "title": "Dark Souls 3",
+            "score": 5,
+            "beaten": "Lost count",
+            "comment": "Roll to win. I do wonder why people think this is the best Souls game when it lacks any original ideas but Pontiff Sulyvahn having a stand was a pretty great fight",
+            "url": "img/Dark Souls 3.jpg"
+        },
+        {
+            "title": "Dark Souls 2",
+            "score": 5,
+            "beaten": "Lost count",
+            "comment": "A love/hate relationship. Clearly the Miyazaki direction is lost and it's lighting engine is a massive disappointment but I like the build variety and open world design even if the interconnectivity is lost",
+            "url": "img/Dark Souls 2.jpg"
+        },
+        {
+            "title": "The Last Guardian",
+            "score": 4,
+            "beaten": 1,
+            "comment": "A miserable experience that ran like garbage but the tech behind Trico is incredible even if it's frustrating to simply get anywhere in the game. The ending is also quite fantastic",
+            "url": "img/The Last Guardian.jpg"
+        },
+        {
+            "title": "Pokemon Let's Go Eevee",
+            "score": 4,
+            "beaten": 1,
+            "comment": "What is the point of an Eevee if you can't evolve it, why does Gamefreak think Eevee is such a marketable Pokemon but other than that, I got to use Kingler in Gen I with the physical/special split so thanks Gamefreak",
+            "url": "img/Pokemon Let's Go Eevee.jpg"
+        },
+        {
+            "title": "Ni No Kuni 2",
+            "score": 4,
+            "beaten": 1,
+            "comment": "Why they turned a Pokemon game into a Tales of I do not know, and the lack of Studio Ghibli scenes was upsetting. Overall it just felt low budget and the seige combat mode was a bore",
+            "url": "img/Ni No Kuni 2.jpg"
+        },
+        {
+            "title": "Far Cry Blood Dragon",
+            "score": 4,
+            "beaten": 1,
+            "comment": "To this day the only Far Cry game I have finished because it's short, the writing peaks at the start then becomes annoying so I am glad it was short",
+            "url": "img/Far Cry Blood Dragon.jpg"
+        },
+        {
+            "title": "Deracine",
+            "score": 4,
+            "beaten": 1,
+            "comment": "I love From Soft but this game made me feel nothing, but the hints at possible future From Software games in the 3D models was fun to engage with in the community",
+            "url": "img/Deracine.jpg"
+        },
+        {
+            "title": "Vikings Wolves of Midgard",
+            "score": 4,
+            "beaten": 1,
+            "comment": "Played with my ARPG buddy and we both hated it, it's online issues were plentiful and got too hard at times, I believe we had to finish it solo due to issues but I can't remember",
+            "url": "img/Vikings Wolves of Midgard.jpg"
+        },
+        {
+            "title": "Gravity Rush 2",
+            "score": 3,
+            "beaten": 1,
+            "comment": "A game I really enjoyed exploring in but then when I decided to carry on with the story, I hated how cliche the mission types were and how unfun they made gravity powers in your missions",
+            "url": "img/Gravity Rush 2.jpg"
+        },
+        {
+            "title": "Destiny 2",
+            "score": 3,
+            "beaten": 1,
+            "comment": "Played with a buddy, and it's ridiculous the reward for finishing the game is a vehicle, something you get so early on in the first game. An absolute awful game and somehow gotten worse when it went free2play",
+            "url": "img/Destiny 2.jpg"
+        },
+        {
+            "title": "Dead Cells",
+            "score": 3,
+            "beaten": 1,
+            "comment": "A roguelike where exploring the actual levels was the least fun thing to do about it. Why they went for such a tower oriented level structure early on confused me as it's just irritating",
+            "url": "img/Dead Cells.jpg"
+        },
+        {
+            "title": "Devil May Cry 2",
+            "score": 2,
+            "beaten": 1,
+            "comment": "It's a miracle Itsuno kept his job after this but it wasn't his fault! Some levels were so ugly it was an eyesore, the Stinger move animation is so bad, guns are overpowered and there's a boss fight that is just a helicopter you shoot at",
+            "url": "img/Devil May Cry 2.jpg"
+        }
+    ],
+    "2017" : [
+        {
             "title": "Tav",
-            "score": 7,
+            "score": 5,
             "beaten": 1,
             "comment": "",
             "url": "img/Tav.jpg"
