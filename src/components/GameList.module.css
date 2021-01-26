@@ -6,6 +6,11 @@
 }
 
 .year {
-    align-self: center;
-    grid-row: 1 / 1;
+    text-align: center;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    margin: 1rem;
+    padding: .7rem;
+    font-size: 1.6rem;
+    font-weight: 500;
 }
