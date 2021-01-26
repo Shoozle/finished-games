@@ -1183,11 +1183,683 @@
     ],
     "2017" : [
         {
+            "title": "Dragon Quest VIII",
+            "score": 9,
+            "beaten": 1,
+            "comment": "Finally finished a DQ game and this was charming, I especially loved the character relationships and the overworld exploration. It also had 2 hidden playable characters I never found, how foolish of me",
+            "url": "img/Dragon Quest VIII.jpg"
+        },
+        {
+            "title": "Nier Automata",
+            "score": 9,
+            "beaten": 2,
+            "comment": "From the games announcement of Platinum making it I knew this was gonna be a 10 and it delivered. Incredible music, philosophical gibberish, cute and sometimes sexy androids. The amusement park area really sticks in my memory as something you would see in Kingdom Hearts, except it's in a good game",
+            "url": "img/Nier Automata.jpg"
+        },
+        {
+            "title": "Bloodborne",
+            "score": 10,
+            "beaten": "Lost count",
+            "comment": "Back when I first played this game I beat it in a single 24 hour sitting but it had a memory leak bug that forced boss fights to have reduced movesets and sometimes glitched out. It kind of ruined the moment and yet I still loved it. One of the greats",
+            "url": "img/Bloodborne.jpg"
+        },
+        {
+            "title": "Dark Souls",
+            "score": 10,
+            "beaten": "Lost count",
+            "comment": "Yes, Bed of Chaos does suck but it isn't THAT bad. I also don't like the recent rhetoric that the second half of the game is bad which changed from launch where it was just Lost Izalith was bad. The DLC is considered one of the best parts and that's in the second half!",
+            "url": "img/Dark Souls.jpg"
+        },
+        {
+            "title": "Persona 5",
+            "score": 9,
+            "beaten": 2,
+            "comment": "Looking back, I rate this too high but the acid jazz soundtrack, gorgeous and snappy UI combined with fantastic demon designs, I couldn't resist scoring it high. The dungeons are mostly bad but still an upgrade and I was happy to see the return of Demon Negotiation",
+            "url": "img/Persona 5.jpg"
+        },
+        {
+            "title": "Paper Mario The Thousand-Year Door",
+            "score": 9,
+            "beaten": 2,
+            "comment": "Alas, this twilt world is too full of pain and contradiction, too full of broken dreams. A genuinely funny game but the levels do make for some slight backtracking. An excellent support cast. 'Guess again nerd!'",
+            "url": "img/Paper Mario The Thousand Year Door.jpg"
+        },
+        {
+            "title": "A Hat in Time",
+            "score": 8,
+            "beaten": 1,
+            "comment": "A game full of naughty words like PECK. A really great controlling 3D platformer with such varied worlds, fun levels and great music. More importantly though it had humour and even had a terrifying level",
+            "url": "img/A Hat in Time.jpg"
+        },
+        {
+            "title": "Nioh",
+            "score": 8,
+            "beaten": 4,
+            "comment": "A game I enjoyed more in the beta but people complained it was too hard and made the AI less aggressive. Definitely the best 'Souls-like' out there even if the developers action heavy history doesn't sometimes fit the slower pace here",
+            "url": "img/Nioh.jpg"
+        },
+        {
+            "title": "Grim Dawn",
+            "score": 8,
+            "beaten": "Lost count",
+            "comment": "The first expansion came out this year which resulted in more endless clicking. The developers knew people liked The Trip South notes a lot so they included the characters involved as enemies in the base-game which was a wonderful little addition",
+            "url": "img/Grim Dawn.jpg"
+        },
+        {
+            "title": "What Remains of Edith Finch",
+            "score": 8,
+            "beaten": 1,
+            "comment": "An excellent 'walking sim' with a level that I think is up there with the best in the biz. A really unique game that I try and urge everyone to play",
+            "url": "img/What Remains of Edith Finch.jpg"
+        },
+        {
+            "title": "Shin Megami Tensei IV: Apocalypse",
+            "score": 8,
+            "beaten": 1,
+            "comment": "A better balanced sequel to SMT IV but includes too much Persona influence in regards to the character friendships. I still loved smirking and siding with my demon buddy Dagda and his lovely Scottish accent",
+            "url": "img/Shin Megami Tensei IV: Apocalypse.jpg"
+        },
+        {
             "title": "Tav",
             "score": 5,
             "beaten": 1,
             "comment": "",
             "url": "img/Tav.jpg"
-        }
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        },
+        {
+            "title": "Tav",
+            "score": 5,
+            "beaten": 1,
+            "comment": "",
+            "url": "img/Tav.jpg"
+        }        
     ]
 }
