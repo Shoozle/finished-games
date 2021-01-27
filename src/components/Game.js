@@ -4,7 +4,7 @@ import classes from './Game.module.css';
 const Game = (props) => {
 
     const imagebg = {
-        backgroundImage: `url("..${process.env.PUBLIC_URL + props.url}")`,
+        backgroundImage: `url("${process.env.PUBLIC_URL + props.url}/")`,
         backgroundPosition: "center",
         backgroundSize: "cover"
     }
