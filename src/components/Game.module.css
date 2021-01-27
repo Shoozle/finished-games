@@ -32,13 +32,16 @@
     color: black;
 }
 
+.game__front p {
+    background-color: red;
+}
+
 .game__back {
     display: flex;
     background-color: #bbb;
     color: black;
     transform: rotateY(180deg);
-    align-items: center;
-    padding: 0 1rem;
+    padding: 1.4rem;
 }
 
 .game__title {
@@ -46,7 +49,7 @@
     text-align: center;
     font-size: 1.2rem;
     font-weight: 400;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color:white;
     overflow: hidden;
     text-overflow: ellipsis;
     padding: 0.4rem 0.6rem;

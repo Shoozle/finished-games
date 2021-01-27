@@ -17,6 +17,8 @@ function App() {
     )
   }
 
+  gameList.reverse();
+
   return (
     <div className="App">
       {gameList}
