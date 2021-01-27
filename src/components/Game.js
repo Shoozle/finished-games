@@ -15,8 +15,8 @@ const Game = (props) => {
                 <div style={imagebg} className={classes.game__front}>
                     <h3 className={classes.game__title}>{props.title}</h3>
                     {/* <img className={classes.game__image} src={props.url} alt={props.title} /> */}
-                    <p>Times beaten: {props.beaten}</p>
-                    <p>{props.score}/10</p>
+                    <p className={classes.game__beaten}>Times beaten: {props.beaten}</p>
+                    <p className={classes.game__score}><span>{props.score}</span>/10</p>
                 </div>
                 <div className={classes.game__back}>
                     <p className={classes.game__comment}>{props.comment}</p>
