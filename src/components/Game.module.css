@@ -7,7 +7,7 @@
     min-height: 18rem;
     cursor: pointer;
     animation-name: fadeIn;
-    animation-duration: 1s;
+    animation-duration: 1.5s;
 }
 
 @keyframes fadeIn {
