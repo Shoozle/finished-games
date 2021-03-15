@@ -1,11 +1,13 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Game from './Game';
 import classes from './GameList.module.css';
 
 const GameList = ({ year, games }) => {
     
-    const gameList = games.map((game, i) => {
-        return (
+    const [displayGames, setDisplayGames] = useState(false);
+    const [downArrow, setDownArrow] = useState(true);
+    
+    const gameList = games.map((game, i) => (
         <Game
             key={i} 
             title={game.title}
@@ -15,14 +17,25 @@ const GameList = ({ year, games }) => {
             url={game.url}
         />
         )
-    })
+    )
+
+    const displayGamesHandler = (dir) => {
+        setDisplayGames(!displayGames);
+        setDownArrow(!downArrow);
+    }
+
+    const displayArrow = () => {
+        let arrow;
+        downArrow ? arrow = <span> &darr; </span> : arrow = <span> &uarr; </span>;
+        return arrow;
+    }
 
     //let list = games.map
     return (
         <div>
-            <h1 className={classes.year}>{year}</h1>
+            <h1 onClick={displayGamesHandler} className={classes.year}>{year}{displayArrow()}</h1>
             <div className={classes.GameList}>
-                {gameList}
+                {displayGames ? gameList : null}
             </div>
         </div>
     );
