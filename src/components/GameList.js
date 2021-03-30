@@ -5,7 +5,7 @@ import classes from './GameList.module.css';
 const GameList = ({ year, games }) => {
     
     const [displayGames, setDisplayGames] = useState(false);
-    const [downArrow, setDownArrow] = useState(true);
+    const [downArrow, setDownArrow] = useState(true);    
     
     const gameList = games.map((game, i) => (
         <Game

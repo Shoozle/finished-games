@@ -16,7 +16,23 @@
     cursor: pointer;
 }
 
-
 .year:hover{
     background-color: var(--primary-color-light);
 }
+
+/* .grow {
+    width: 400px;
+    animation: grow 1s ease-in;
+    animation-fill-mode: forwards;  
+}
+
+.shrink {
+    width: 200px;
+    animation: grow 1s ease-in;
+    animation-fill-mode: backwards;   
+}
+
+@keyframes grow {
+    from {width: 0;}
+    to {width: 100%;}
+} */
