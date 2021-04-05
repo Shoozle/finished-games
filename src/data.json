@@ -49,8 +49,6 @@
             "comment": "A game so similar to Shadow Tactics, I wish I took a longer break. That said, the more local setting made levels much more free and enjoyable, but I did not enjoy the characters as much. Both excellent games I wish I was better at",
             "url": "/img/Desperados 3.jpg"
         },
-
-
         {
             "title": "Super Mario 3D World Bowsers Fury",
             "score": 7,
@@ -85,7 +83,14 @@
             "beaten": 1,
             "comment": "While it was nice to be back in Kamurocho, many of the plot elements felt too absurd and one chapter was 30 minutes of dialogue. The orphanage elements were great",
             "url": "/img/Yakuza 3.jpg"
-        },      
+        },   
+        {
+            "title": "Final Fantasy VII Remake",
+            "score": 6,
+            "beaten": 1,
+            "comment": "A mixed bag that had excellent combat and the faithful adaptions of the original are handled well such as the boss fights and music. Though Nomura needs to have some restraint and I don't trust where the game will go",
+            "url": "/img/Final Fantasy VII Remake.jpg"
+        },     
         {
             "title": "Pokemon Platinum",
             "score": 5,
