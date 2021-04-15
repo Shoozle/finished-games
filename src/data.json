@@ -18,7 +18,7 @@
             "title": "Grim Dawn",
             "score": 8,
             "beaten": "Lost count",
-            "comment": "Made a prediction I would get all Steam achievements for this year, and by god I am going to even if I end up hating both myself and the game",
+            "comment": "I finally got all the Steam achievements. Now I never have to play this game again. If you see it in 2022 list, punch me",
             "url": "/img/Grim Dawn.jpg"
         },
         {
@@ -29,11 +29,32 @@
             "url": "/img/Nioh 2.jpg"
         },
         {
+            "title": "Monster Hunter Rise",
+            "score": 8,
+            "beaten": "1",
+            "comment": "Monster Hunter goes full Japan mode and it's great. The new monsters are the best set so far but I still miss many older ones not seen in a long time like Qurupeco",
+            "url": "/img/Monster Hunter Rise.jpg"
+        },
+        {
             "title": "Deep Rock Galactic",
             "score": 7,
             "beaten": 1,
             "comment": "Played with a couple of buds and had a rocking good time but it can get a bit repetitive heading towards the promotion rank but multiplayer communication is very elegant",
             "url": "/img/Deep Rock Galactic.jpg"
+        },
+        {
+            "title": "Stalker Shadow of Chernobyl",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Incredibly immersive game that I was 30 minutes away from finishing back in 2010 before messing up a quick save cos I was new to hardcore PC games. Ridiculously accurate AI but X16 lab is a haunting experience",
+            "url": "/img/Stalker Shadow of Chernobyl.jpg"
+        },
+        {
+            "title": "Marvel Ultimate Alliance 3",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Now that I'm an MCU fan, sort of, I really like 2 of them, like 5, hate the rest. So I went back here with a more fanservice mind and liked it about the same. Some frustrations, some charm.",
+            "url": "/img/Marvel Ultimate Alliance 3.jpg"
         },
         {
             "title": "Shadow Tactics",
