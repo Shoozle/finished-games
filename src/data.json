@@ -8,6 +8,13 @@
             "url": "/img/It Takes Two.jpg"
         },
         {
+            "title": "Sekiro",
+            "score": 8,
+            "beaten": "Lost count",
+            "comment": "Did NG+4 without the aid of Kuros Charm which made it harder. Performance on one boss was awful for some reason but the requirement of perfect parrying made me more familiar with boss movesets",
+            "url": "/img/Sekiro.jpg"
+        },
+        {
             "title": "What Remains of Edith Finch",
             "score": 8,
             "beaten": 2,
@@ -104,7 +111,14 @@
             "beaten": 1,
             "comment": "While it was nice to be back in Kamurocho, many of the plot elements felt too absurd and one chapter was 30 minutes of dialogue. The orphanage elements were great",
             "url": "/img/Yakuza 3.jpg"
-        },   
+        },
+        {
+            "title": "Metro Last Light Redux",
+            "score": 6,
+            "beaten": 1,
+            "comment": "In many ways an improvement but the amount of scripted sequences which can lead you to wasting resources was too frequent as was the narrative cliches",
+            "url": "/img/Metro Last Light Redux.jpg"
+        },
         {
             "title": "Final Fantasy VII Remake",
             "score": 6,
@@ -118,6 +132,13 @@
             "beaten": "2",
             "comment": "A game I used to love and now kinda hate. The pokemon variety in Gen IV is abysmal with only one other fire type. Very slow with mad HM usage and not very memorable routes. The safari zone sucks too",
             "url": "/img/Pokemon Platinum.jpg"
+        },   
+        {
+            "title": "Balan Wonderworld",
+            "score": 2,
+            "beaten": "1",
+            "comment": "Painful. So bad it almost seems self sabotaging by spiteful developers as there is clear creative direction and good character designs but why would you make a 3D platformer, take away the ability to jump, but make jumping MANDATORY at times",
+            "url": "/img/Balan Wonderworld.jpg"
         }
     ],
     "2020": [
