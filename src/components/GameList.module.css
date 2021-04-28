@@ -14,15 +14,21 @@
     font-weight: 500;
     color: rgb(240, 248, 255);
     cursor: pointer;
+    letter-spacing: 1px
 }
 
 .year:hover{
     background-color: var(--primary-color-light);
 }
 
-.subtitle {
+.score {
     font-size: 1.2rem;
     margin-left: 2rem;
+}
+
+.totalGames {
+    font-size: 1.2rem;
+    margin-right: 2rem;
 }
 
 /* .grow {

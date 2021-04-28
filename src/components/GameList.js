@@ -34,6 +34,10 @@ const GameList = ({ year, games }) => {
         return avg;
     }
 
+    const totalGames = () => {
+        return games.length
+    }
+
     const displayArrow = () => {
         let arrow;
         downArrow ? arrow = <span> &darr; </span> : arrow = <span> &uarr; </span>;
@@ -44,8 +48,9 @@ const GameList = ({ year, games }) => {
     return (
         <div>
             <h1 onClick={displayGamesHandler} className={classes.year}>
+                <span className={classes.totalGames}>Number of games: {totalGames()}</span>
                 {year}{displayArrow()}
-                <span className={classes.subtitle}>Average Score: {calcAvgScore()}
+                <span className={classes.score}>Average Score: {calcAvgScore()}
                 </span> 
             </h1>
             <div className={classes.GameList}>
