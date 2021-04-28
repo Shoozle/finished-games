@@ -91,3 +91,12 @@
     line-height: 1.6rem;
 }
 
+@media screen and (max-width: 55rem) {
+    .Game{
+        min-width: 18rem;
+        min-height: 12rem;
+    }
+    .game__back {
+        padding: 0.5rem;
+    }
+}

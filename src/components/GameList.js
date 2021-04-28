@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Game from './Game';
 import classes from './GameList.module.css';
 
-const GameList = ({ year, games }) => {
+const GameList = ({ year, games, filter }) => {
     
     const [displayGames, setDisplayGames] = useState(false);
     const [downArrow, setDownArrow] = useState(true);
@@ -44,7 +44,6 @@ const GameList = ({ year, games }) => {
         return arrow;
     }
 
-    //let list = games.map
     return (
         <div>
             <h1 onClick={displayGamesHandler} className={classes.year}>

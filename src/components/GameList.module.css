@@ -14,7 +14,10 @@
     font-weight: 500;
     color: rgb(240, 248, 255);
     cursor: pointer;
-    letter-spacing: 1px
+    letter-spacing: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .year:hover{
@@ -29,6 +32,12 @@
 .totalGames {
     font-size: 1.2rem;
     margin-right: 2rem;
+}
+
+@media screen and (max-width: 500px) {
+    .score, .totalGames {
+        display: block;
+    }
 }
 
 /* .grow {
