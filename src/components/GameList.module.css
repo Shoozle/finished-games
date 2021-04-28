@@ -20,6 +20,11 @@
     background-color: var(--primary-color-light);
 }
 
+.subtitle {
+    font-size: 1.2rem;
+    margin-left: 2rem;
+}
+
 /* .grow {
     width: 400px;
     animation: grow 1s ease-in;

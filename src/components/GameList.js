@@ -5,7 +5,7 @@ import classes from './GameList.module.css';
 const GameList = ({ year, games }) => {
     
     const [displayGames, setDisplayGames] = useState(false);
-    const [downArrow, setDownArrow] = useState(true);    
+    const [downArrow, setDownArrow] = useState(true);
     
     const gameList = games.map((game, i) => (
         <Game
@@ -24,6 +24,16 @@ const GameList = ({ year, games }) => {
         setDownArrow(!downArrow);
     }
 
+    const calcAvgScore = () => {
+        let avg = 20;
+        let totalScore = 0;
+        games.forEach(game => {
+            totalScore += game.score
+        }); 
+        avg = (totalScore / games.length).toFixed(1)
+        return avg;
+    }
+
     const displayArrow = () => {
         let arrow;
         downArrow ? arrow = <span> &darr; </span> : arrow = <span> &uarr; </span>;
@@ -33,7 +43,11 @@ const GameList = ({ year, games }) => {
     //let list = games.map
     return (
         <div>
-            <h1 onClick={displayGamesHandler} className={classes.year}>{year}{displayArrow()}</h1>
+            <h1 onClick={displayGamesHandler} className={classes.year}>
+                {year}{displayArrow()}
+                <span className={classes.subtitle}>Average Score: {calcAvgScore()}
+                </span> 
+            </h1>
             <div className={classes.GameList}>
                 {displayGames ? gameList : null}
             </div>
