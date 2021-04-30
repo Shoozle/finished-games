@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/finished-games/static/css/main.ffc25530.chunk.css",
-    "main.js": "/finished-games/static/js/main.0a72f5a5.chunk.js",
-    "main.js.map": "/finished-games/static/js/main.0a72f5a5.chunk.js.map",
+    "main.js": "/finished-games/static/js/main.9cf28c80.chunk.js",
+    "main.js.map": "/finished-games/static/js/main.9cf28c80.chunk.js.map",
     "runtime-main.js": "/finished-games/static/js/runtime-main.c6ccdeee.js",
     "runtime-main.js.map": "/finished-games/static/js/runtime-main.c6ccdeee.js.map",
     "static/js/2.91a5866a.chunk.js": "/finished-games/static/js/2.91a5866a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c6ccdeee.js",
     "static/js/2.91a5866a.chunk.js",
     "static/css/main.ffc25530.chunk.css",
-    "static/js/main.0a72f5a5.chunk.js"
+    "static/js/main.9cf28c80.chunk.js"
   ]
 }
