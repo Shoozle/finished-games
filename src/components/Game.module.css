@@ -83,7 +83,7 @@
     background-color: rgba(220, 228, 255); 
     color: black;
     transform: rotateY(180deg);
-    padding: 1.2rem;
+    padding: .6rem;
 }
 
 .game__comment {
@@ -93,10 +93,10 @@
 
 @media screen and (max-width: 55rem) {
     .Game{
-        min-width: 18rem;
-        min-height: 12rem;
+        min-width: 16rem;
+        min-height: 13rem;
     }
     .game__back {
-        padding: 0.5rem;
+        padding: 0.3rem;
     }
 }

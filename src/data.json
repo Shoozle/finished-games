@@ -8,6 +8,13 @@
             "url": "/img/It Takes Two.jpg"
         },
         {
+            "title": "Planescape Torment",
+            "score": 9,
+            "beaten": 1,
+            "comment": "Know that this is a classic. Know that it has a great setting, writing and characters with an incredibly fleshed out prtagonist. ",
+            "url": "/img/Planescape Torment.jpg"
+        },
+        {
             "title": "Sekiro",
             "score": 8,
             "beaten": "Lost count",
@@ -132,7 +139,14 @@
             "beaten": "2",
             "comment": "A game I used to love and now kinda hate. The pokemon variety in Gen IV is abysmal with only one other fire type. Very slow with mad HM usage and not very memorable routes. The safari zone sucks too",
             "url": "/img/Pokemon Platinum.jpg"
-        },   
+        },
+        {
+            "title": "New Pokemon Snap",
+            "score": 4,
+            "beaten": "1",
+            "comment": "I didn't have any nostalgia for the first entry and was still disappointed. I guess I envisioned a snappy arcade photography game but the pace drags and rewards you for taking bad photos due to an odd * star rating just to flesh out an area that feels initially empty",
+            "url": "/img/New Pokemon Snap.jpg"
+        },      
         {
             "title": "Balan Wonderworld",
             "score": 2,
