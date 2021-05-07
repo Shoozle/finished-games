@@ -46,12 +46,12 @@ const GameList = ({ year, games, filter }) => {
 
     return (
         <div>
-            <h1 onClick={displayGamesHandler} className={classes.year}>
+            <h2 onClick={displayGamesHandler} className={classes.year}>
                 <span className={classes.totalGames}>Number of games: {totalGames()}</span>
                 {year}{displayArrow()}
                 <span className={classes.score}>Average Score: {calcAvgScore()}
                 </span> 
-            </h1>
+            </h2>
             <div className={classes.GameList}>
                 {displayGames ? gameList : null}
             </div>

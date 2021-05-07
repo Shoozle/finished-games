@@ -43,6 +43,7 @@ function App() {
 
   return (
     <div className="App">
+    <h1>Sean Murtagh's finished games</h1>
       {gameList}
     </div>
   );
