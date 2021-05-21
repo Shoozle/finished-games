@@ -45,7 +45,7 @@ const GameList = ({ year, games, filter }) => {
     }
 
     return (
-        <div>
+        <>
             <h2 onClick={displayGamesHandler} className={classes.year}>
                 <span className={classes.totalGames}># games: {totalGames()}</span>
                 {year}{displayArrow()}
@@ -55,7 +55,7 @@ const GameList = ({ year, games, filter }) => {
             <div className={classes.GameList}>
                 {displayGames ? gameList : null}
             </div>
-        </div>
+        </>
     );
 }
 

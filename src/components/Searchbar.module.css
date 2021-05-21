@@ -1,0 +1,15 @@
+.Searchbar{
+    width: 75%;
+    max-width: 20rem;
+    margin: 2rem auto;
+    display: block;
+    font-size: 1.2rem;
+    border: none;
+    padding: 3px 8px;
+}
+
+.Searchbar:focus {
+    background-color: rgb(168, 230, 176);
+    border: none;
+    outline: none;
+}

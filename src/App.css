@@ -27,8 +27,12 @@ h1 {
   margin: 1.2rem;
   font-size: 2rem;
   font-weight: 400;
-  margin: 1.2rem auto;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+  padding-top: 2rem;
   position: relative;
+  z-index: 20;
+  background-color: inherit;
 }
 
 h1::after{
