@@ -68,3 +68,7 @@ h1::after{
   padding: 1.4rem;
   overflow: hidden;
 }
+
+.searchlist div {
+  max-width: 22rem;
+}
