@@ -8,6 +8,13 @@
             "url": "/img/It Takes Two.jpg"
         },
         {
+            "title": "The Legend of Zelda: Breath of the Wild",
+            "score": 9,
+            "beaten": 3,
+            "comment": "Boosted to a 9! I'm still discovering new mechanics, locales and just having a great time interacting with everything in a such a physical way",
+            "url": "/img/The Legend of Zelda: Breath of the Wild.jpg"
+        },
+        {
             "title": "Planescape Torment",
             "score": 9,
             "beaten": 1,
@@ -38,14 +45,14 @@
         {
             "title": "Nioh 2",
             "score": 8,
-            "beaten": "2",
+            "beaten": 2,
             "comment": "Now with the DLC! Which adds a female Vergil boss so you know it's good. Some really cool enemy designs too but the majority of areas weren't all that great",
             "url": "/img/Nioh 2.jpg"
         },
         {
             "title": "Monster Hunter Rise",
             "score": 8,
-            "beaten": "1",
+            "beaten": 1,
             "comment": "Monster Hunter goes full Japan mode and it's great. The new monsters are the best set so far but I still miss many older ones not seen in a long time like Qurupeco",
             "url": "/img/Monster Hunter Rise.jpg"
         },
@@ -94,14 +101,14 @@
         {
             "title": "Super Mario 3D World Bowsers Fury",
             "score": 7,
-            "beaten": "2",
+            "beaten": 2,
             "comment": "The speed boost to the base game makes a lot of difference but the levels now feel really short. Bowsers Fury was somewhat great but felt tied down to the 3D World engine",
             "url": "/img/Super Mario 3D World Bowsers Fury.jpg"
         },
         {
             "title": "Nioh",
             "score": 7,
-            "beaten": "3",
+            "beaten": 3,
             "comment": "Played with a buddy who normally doesn't play action games like this. Was a fun game and still is but Nioh 2 is an upgrade in every way",
             "url": "/img/Nioh.jpg"
         },
@@ -150,9 +157,16 @@
         {
             "title": "Pokemon Platinum",
             "score": 5,
-            "beaten": "2",
+            "beaten": 2,
             "comment": "A game I used to love and now kinda hate. The pokemon variety in Gen IV is abysmal with only one other fire type. Very slow with mad HM usage and not very memorable routes. The safari zone sucks too",
             "url": "/img/Pokemon Platinum.jpg"
+        },
+        {
+            "title": "Dead Rising",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Finished on the night of Eurovision. Starts off frustrating but once you get into the groove of understanding the UI and map, it gets better. Fun easter eggs but not a lot of useful items",
+            "url": "/img/Dead Rising.jpg"
         },
         {
             "title": "New Pokemon Snap",
