@@ -60,3 +60,11 @@ h1::after{
     transform: skewX(-1rad);
   }
 }
+
+.searchlist{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+  gap: 1.4rem;
+  padding: 1.4rem;
+  overflow: hidden;
+}
