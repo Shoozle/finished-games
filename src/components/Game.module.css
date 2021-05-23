@@ -98,8 +98,8 @@
 
 @media screen and (max-width: 55rem) {
     .Game{
-        min-width: 16rem;
-        min-height: 13rem;
+        min-width: 18rem;
+        min-height: 14rem;
     }
     .game__back {
         padding: .4rem;

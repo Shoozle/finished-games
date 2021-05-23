@@ -50,11 +50,11 @@ function App() {
 
   const searchTermHandler = (e) => {
     setSearchFor(true);
-    setSearchTerm(e.target.value);
+    setSearchTerm((prevSearchTerm) => e.target.value);
     setFilterList([]);
-    if (e.target.value.trim().length === 0) {
+    if (searchTerm.trim().length <= 3) {
       setSearchFor(false)
-    } else if ((e.target.value.trim().length > 3)) 
+    } else if ((searchTerm.trim().length > 3)) 
     {
       for (let i = 0; i < yearsDB.length; i++) {
         gamesDB[yearsDB[i]].forEach(element => {
@@ -79,6 +79,10 @@ function App() {
       url={game.url}
     />)
   })
+
+  if (filterList.length === 0) {
+    searchedGameList = <h2>No results found</h2>
+  }
 
   console.log(filterList)
 
