@@ -16,7 +16,6 @@ function App() {
   const [searchTerm, setSearchTerm] = useState('');
   const [filterList, setFilterList] = useState([]);
 
-  let statelessList = [];
   let searchedGameList = [];
 
 
@@ -52,22 +51,18 @@ function App() {
     setSearchFor(true);
     setSearchTerm((prevSearchTerm) => e.target.value);
     setFilterList([]);
-    if (searchTerm.trim().length <= 3) {
+    if (e.target.value.trim().length <= 3) {
       setSearchFor(false)
-    } else if ((searchTerm.trim().length > 3)) 
-    {
+    } else if (e.target.value.trim().length > 3)  {
       for (let i = 0; i < yearsDB.length; i++) {
         gamesDB[yearsDB[i]].forEach(element => {
-          if (element.title.toLowerCase().includes(searchTerm.toLowerCase())) {
+          if (element.title.toLowerCase().includes(e.target.value.toLowerCase())) {
             setFilterList(filterList => [...filterList, element])
           }
         })
       };
     }
   }
-
-  console.log(filterList)
-  console.log(statelessList)
 
   searchedGameList = filterList.map((game) => {
     return (
@@ -83,8 +78,6 @@ function App() {
   if (filterList.length === 0) {
     searchedGameList = <h2>No results found</h2>
   }
-
-  console.log(filterList)
 
   gameList.reverse();
 
