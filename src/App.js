@@ -64,9 +64,10 @@ function App() {
     }
   }
 
-  searchedGameList = filterList.map((game) => {
+  searchedGameList = filterList.map((game, index) => {
     return (
-    <Game 
+    <Game
+      key={index} 
       title={game.title}
       score={game.score}
       beaten={game.beaten}
