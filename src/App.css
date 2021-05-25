@@ -67,6 +67,15 @@ h1::after{
   gap: 1.4rem;
   padding: 1.4rem;
   overflow: hidden;
-  justify-items: center;
+}
+
+.searchlist div {
+  max-width: 22rem;
+}
+
+@media screen and (max-width: 55rem) {
+  .searchlist{
+    justify-items: center;
+  }
 }
 
