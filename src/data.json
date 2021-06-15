@@ -134,6 +134,13 @@
             "url": "/img/Star Wars Jedi Fallen Order.jpg"
         },
         {
+            "title": "Ratchet and Clank",
+            "score": 7,
+            "beaten": "1",
+            "comment": "Never could get into the very first one, but I pulled through for E3 and fell in love with the level design, character relationships and humour. Quite sassy characters but moving around felt off, aerial enemies didn't suit their in-game lock on but still great",
+            "url": "/img/Ratchet and Clank.jpg"
+        },
+        {
             "title": "Super Castlevania IV",
             "score": 6,
             "beaten": 1,
@@ -188,6 +195,13 @@
             "beaten": 2,
             "comment": "A game I used to love and now kinda hate. The pokemon variety in Gen IV is abysmal with only one other fire type. Very slow with mad HM usage and not very memorable routes. The safari zone sucks too",
             "url": "/img/Pokemon Platinum.jpg"
+        },
+        {
+            "title": "Shin Megami Tensei Nocturne",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Finally finished thanks to remaster. These dungeons are the worst, all of them have invisible teleport traps and that's as complex as it gets. Real neat character goals though and no real villain due to you picking your own alignments",
+            "url": "/img/Shin Megami Tensei Nocturne.jpg"
         },
         {
             "title": "Dead Rising",
