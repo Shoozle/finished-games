@@ -1,13 +1,14 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Game from './Game';
 import classes from './GameList.module.css';
+import Button from './Button';
 
-const GameList = ({ year, games, filter }) => {
+const GameList = (props) => {
     
-    const [displayGames, setDisplayGames] = useState(false);
+    const [displayGames, setDisplayGames] = useState(props.setPanelIsOpen);
     const [downArrow, setDownArrow] = useState(true);
     
-    const gameList = games.map((game, i) => (
+    const gameList = props.games.map((game, i) => (
         <Game
             key={i} 
             title={game.title}
@@ -19,23 +20,24 @@ const GameList = ({ year, games, filter }) => {
         )
     )
 
-    const displayGamesHandler = (dir) => {
+    const displayGamesHandler = () => {
         setDisplayGames(!displayGames);
         setDownArrow(!downArrow);
+        props.setPanelIsOpen(!displayGames);
     }
 
     const calcAvgScore = () => {
         let avg = 20;
         let totalScore = 0;
-        games.forEach(game => {
+        props.games.forEach(game => {
             totalScore += game.score
         }); 
-        avg = (totalScore / games.length).toFixed(1)
+        avg = (totalScore / props.games.length).toFixed(1)
         return avg;
     }
 
     const totalGames = () => {
-        return games.length
+        return props.games.length
     }
 
     const displayArrow = () => {
@@ -44,16 +46,19 @@ const GameList = ({ year, games, filter }) => {
         return arrow;
     }
 
+
+
     return (
         <>
             <h2 onClick={displayGamesHandler} className={classes.year}>
                 <span className={classes.totalGames}># games: {totalGames()}</span>
-                {year}{displayArrow()}
+                {props.year}{displayArrow()}
                 <span className={classes.score}>Average Score: {calcAvgScore()}
                 </span> 
             </h2>
             <div className={classes.GameList}>
                 {displayGames ? gameList : null}
+                
             </div>
         </>
     );
