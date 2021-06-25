@@ -42,6 +42,14 @@
             "comment": "I finally got all the Steam achievements. Now I never have to play this game again. If you see it in 2022 list, punch me",
             "url": "/img/Grim Dawn.jpg"
         },
+        
+        {
+            "title": "Shin Megami Tensei Strange Journey",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Currently my favourite SMT game. Great alignment systems in terms of gameplay, branching paths and characters. Switches it up well from other games. So much side content and a good UI. Great soundtrack",
+            "url": "/img/Shin Megami Tensei Strange Journey.jpg"
+        },
         {
             "title": "Nioh 2",
             "score": 8,
@@ -195,6 +203,13 @@
             "beaten": 2,
             "comment": "A game I used to love and now kinda hate. The pokemon variety in Gen IV is abysmal with only one other fire type. Very slow with mad HM usage and not very memorable routes. The safari zone sucks too",
             "url": "/img/Pokemon Platinum.jpg"
+        },
+        {
+            "title": "Darksiders Genesis",
+            "score": 5,
+            "beaten": 1,
+            "comment": "The levels got better as it went on but the builds being based off rare creature dropped really sucked but some of the abilities you naturally get were rad. Some iffy collision and odd occlusion prioritising was dumb",
+            "url": "/img/Darksiders Genesis.jpg"
         },
         {
             "title": "Shin Megami Tensei Nocturne",

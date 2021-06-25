@@ -1,13 +1,13 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import './App.css';
 import GameList from './components/GameList';
 import Game from './components/Game';
 import Searchbar from './components/Searchbar';
+import Button from './components/Button';
 
 function App() {
 
   let gameList = [];
-  // let filterList = [];
 
   const gamesDB = require('../src/data.json');
   const yearsDB = Object.keys(gamesDB);
@@ -15,27 +15,17 @@ function App() {
   const [searchFor, setSearchFor] = useState(false);
   const [searchTerm, setSearchTerm] = useState('');
   const [filterList, setFilterList] = useState([]);
+  const [aPanelIsOpen, setAPanelIsOpen] = useState(false);
 
   let searchedGameList = [];
 
+  useEffect(() => {
+    console.log(gameList)
+  }, [aPanelIsOpen])
 
-  // let searchTerm = 'Sekiro'
-  // // console.log(Object.keys(gamesDB))
-  // // console.log(Object.keys(Object.entries(gamesDB)))
-  // // console.log(Object.entries(gamesDB))
-  // for (let i=0; i<(Object.keys(gamesDB).length); i++) {
-  //   let newArray = Object.entries(gamesDB)[i][1]
-  //     console.log(newArray)
-  //   for (let j=0; j<newArray.length; j++) {
-  //     if (newArray[j].title === searchTerm) {
-  //       console.log('FOUND')
-  //       console.log(newArray[j])
-  //       filterList.push(newArray[j])
-  //     }
-  //   }
-  //   // console.log(Object.entries(gamesDB)[i][1])
-  // }
-  // // console.log(Object.entries(gamesDB)[0])
+  const setPanelIsOpen = (val) => {
+    setAPanelIsOpen(val)
+  }
 
   for (let i = 0; i < yearsDB.length; i++) {
     gameList.push(
@@ -43,6 +33,7 @@ function App() {
         key={i}
         year={yearsDB[i]}
         games={gamesDB[yearsDB[i]]}
+        setPanelIsOpen={setPanelIsOpen}
       />
     )
   }
@@ -80,6 +71,7 @@ function App() {
     searchedGameList = <h2>No results found</h2>
   }
 
+
   gameList.reverse();
 
   return (
@@ -88,6 +80,7 @@ function App() {
       <Searchbar onChange={searchTermHandler} value={searchTerm} placeholder="Search here" />
       {!searchFor && gameList}
       {searchFor && <div className="searchlist"> {searchedGameList} </div>}
+      {aPanelIsOpen ? <Button /> : null } 
     </div>
   );
 }
