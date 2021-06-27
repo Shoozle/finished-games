@@ -4,11 +4,13 @@ import classes from './GameList.module.css';
 import Button from './Button';
 
 const GameList = (props) => {
+
+    const { games, year, open } = props;
     
-    const [displayGames, setDisplayGames] = useState(props.setPanelIsOpen);
-    const [downArrow, setDownArrow] = useState(true);
+    const [displayGames, setDisplayGames] = useState(false);
+    const [downArrow, setDownArrow] = useState(false);
     
-    const gameList = props.games.map((game, i) => (
+    const gameList = games.map((game, i) => (
         <Game
             key={i} 
             title={game.title}
@@ -23,21 +25,20 @@ const GameList = (props) => {
     const displayGamesHandler = () => {
         setDisplayGames(!displayGames);
         setDownArrow(!downArrow);
-        props.setPanelIsOpen(!displayGames);
     }
 
     const calcAvgScore = () => {
         let avg = 20;
         let totalScore = 0;
-        props.games.forEach(game => {
+        games.forEach(game => {
             totalScore += game.score
         }); 
-        avg = (totalScore / props.games.length).toFixed(1)
+        avg = (totalScore / games.length).toFixed(1)
         return avg;
     }
 
     const totalGames = () => {
-        return props.games.length
+        return games.length
     }
 
     const displayArrow = () => {
@@ -46,19 +47,16 @@ const GameList = (props) => {
         return arrow;
     }
 
-
-
     return (
         <>
             <h2 onClick={displayGamesHandler} className={classes.year}>
                 <span className={classes.totalGames}># games: {totalGames()}</span>
-                {props.year}{displayArrow()}
+                {year}{displayArrow()}
                 <span className={classes.score}>Average Score: {calcAvgScore()}
                 </span> 
             </h2>
             <div className={classes.GameList}>
                 {displayGames ? gameList : null}
-                
             </div>
         </>
     );

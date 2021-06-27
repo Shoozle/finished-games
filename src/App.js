@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useRef } from 'react';
 import './App.css';
 import GameList from './components/GameList';
 import Game from './components/Game';
@@ -19,13 +19,10 @@ function App() {
 
   let searchedGameList = [];
 
-  useEffect(() => {
-    console.log(gameList)
-  }, [aPanelIsOpen])
-
-  const setPanelIsOpen = (val) => {
-    setAPanelIsOpen(val)
+  const checkPanels = (val) => {
+    val ? setAPanelIsOpen(true) : aPanelIsOpen(false)
   }
+
 
   for (let i = 0; i < yearsDB.length; i++) {
     gameList.push(
@@ -33,7 +30,7 @@ function App() {
         key={i}
         year={yearsDB[i]}
         games={gamesDB[yearsDB[i]]}
-        setPanelIsOpen={setPanelIsOpen}
+        iisAPanelopen={checkPanels}
       />
     )
   }
@@ -71,6 +68,10 @@ function App() {
     searchedGameList = <h2>No results found</h2>
   }
 
+  const scrollTop = () => {
+
+  }
+
 
   gameList.reverse();
 
@@ -80,7 +81,7 @@ function App() {
       <Searchbar onChange={searchTermHandler} value={searchTerm} placeholder="Search here" />
       {!searchFor && gameList}
       {searchFor && <div className="searchlist"> {searchedGameList} </div>}
-      {aPanelIsOpen ? <Button /> : null } 
+      {<a href="#top"><Button onClick={scrollTop}>Scroll to Top</Button></a>} 
     </div>
   );
 }
