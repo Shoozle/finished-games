@@ -66,12 +66,14 @@ h1::after{
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
   gap: 1.4rem;
-  padding: 1.4rem;
+  padding: 1.1rem;
   overflow: hidden;
+  justify-items: center;
 }
 
 .searchlist div {
-  max-width: 22rem;
+  max-width: 30rem;
+  width: 100%;
 }
 
 .searchlist h2 {
@@ -84,4 +86,3 @@ h1::after{
     justify-items: center;
   }
 }
-
