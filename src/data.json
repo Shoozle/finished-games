@@ -196,7 +196,14 @@
             "beaten": 1,
             "comment": "A classic ARPG that is Torchlight-light. Oddly charming but very simple. Framerate plummets despite being a 15 year old game BUT I got to summon beetle to fight for me, so that was rad",
             "url": "/img/FATE.jpg"
-        },         
+        },  
+        {
+            "title": "Monster Hunter Stories",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Finished after a 3 and a half year gap with the last 20% to go. Somewhat fun, often frustrating. Egg hunting was tedious due to RNG luck with Paintballs that barely worked. Great animations for a 3DS game",
+            "url": "/img/Monster Hunter Stories.jpg"
+        },       
         {
             "title": "Pokemon Platinum",
             "score": 5,
