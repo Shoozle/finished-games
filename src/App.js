@@ -15,14 +15,8 @@ function App() {
   const [searchFor, setSearchFor] = useState(false);
   const [searchTerm, setSearchTerm] = useState('');
   const [filterList, setFilterList] = useState([]);
-  const [aPanelIsOpen, setAPanelIsOpen] = useState(false);
 
   let searchedGameList = [];
-
-  const checkPanels = (val) => {
-    val ? setAPanelIsOpen(true) : aPanelIsOpen(false)
-  }
-
 
   for (let i = 0; i < yearsDB.length; i++) {
     gameList.push(
@@ -30,7 +24,6 @@ function App() {
         key={i}
         year={yearsDB[i]}
         games={gamesDB[yearsDB[i]]}
-        iisAPanelopen={checkPanels}
       />
     )
   }
@@ -52,6 +45,11 @@ function App() {
     }
   }
 
+  const cancelSearch = () => {
+    setSearchTerm('');
+    setSearchFor(false);
+  }
+
   searchedGameList = filterList.map((game, index) => {
     return (
     <Game
@@ -68,20 +66,21 @@ function App() {
     searchedGameList = <h2>No results found</h2>
   }
 
-  const scrollTop = () => {
-
-  }
-
-
   gameList.reverse();
 
   return (
     <div className="App">
       <h1>Sean Murtagh's finished games</h1>
-      <Searchbar onChange={searchTermHandler} value={searchTerm} placeholder="Search here" />
+      <Searchbar 
+        onChange={searchTermHandler} 
+        value={searchTerm} 
+        placeholder="Search here" 
+        click={cancelSearch}
+        searched={searchFor}
+        />
       {!searchFor && gameList}
       {searchFor && <div className="searchlist"> {searchedGameList} </div>}
-      {<a href="#top"><Button onClick={scrollTop}>Scroll to Top</Button></a>} 
+      {<a href="#top"><Button>Scroll to Top</Button></a>} 
     </div>
   );
 }

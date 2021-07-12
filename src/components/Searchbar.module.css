@@ -1,15 +1,33 @@
 .Searchbar{
+    width: 100%;
+    text-align: center;
+}
+
+.Searchbar input{
     width: 75%;
     max-width: 20rem;
     margin: 2rem auto;
-    display: block;
     font-size: 1.2rem;
     border: none;
     padding: 3px 8px;
+    margin-right: 1rem;
 }
 
-.Searchbar:focus {
+.Searchbar input:focus {
     background-color: rgb(168, 230, 176);
     border: none;
     outline: none;
+}
+
+.Searchbar button{
+    border-radius: 50%;
+    padding: .4rem;
+    background-color: green;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.Searchbar button:disabled {
+    visibility: hidden;
 }
