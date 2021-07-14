@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/finished-games/static/css/main.0dbf0149.chunk.css",
+    "main.css": "/finished-games/static/css/main.7e4cb84f.chunk.css",
     "main.js": "/finished-games/static/js/main.4cae4933.chunk.js",
     "main.js.map": "/finished-games/static/js/main.4cae4933.chunk.js.map",
     "runtime-main.js": "/finished-games/static/js/runtime-main.0fef9b0f.js",
@@ -10,13 +10,13 @@
     "static/js/3.62c78add.chunk.js": "/finished-games/static/js/3.62c78add.chunk.js",
     "static/js/3.62c78add.chunk.js.map": "/finished-games/static/js/3.62c78add.chunk.js.map",
     "index.html": "/finished-games/index.html",
-    "static/css/main.0dbf0149.chunk.css.map": "/finished-games/static/css/main.0dbf0149.chunk.css.map",
+    "static/css/main.7e4cb84f.chunk.css.map": "/finished-games/static/css/main.7e4cb84f.chunk.css.map",
     "static/js/2.87c8160e.chunk.js.LICENSE.txt": "/finished-games/static/js/2.87c8160e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0fef9b0f.js",
     "static/js/2.87c8160e.chunk.js",
-    "static/css/main.0dbf0149.chunk.css",
+    "static/css/main.7e4cb84f.chunk.css",
     "static/js/main.4cae4933.chunk.js"
   ]
 }
