@@ -20,9 +20,10 @@
 }
 
 .Searchbar button{
-    border-radius: 50%;
+    color: white;
+    border-radius: 100%;
     padding: .4rem;
-    background-color: green;
+    background-color: var(--secondary-color-dark);
     border: none;
     outline: none;
     cursor: pointer;
