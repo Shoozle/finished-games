@@ -30,7 +30,7 @@ function App() {
 
   const searchTermHandler = (e) => {
     setSearchFor(true);
-    setSearchTerm((prevSearchTerm) => e.target.value);
+    setSearchTerm(e.target.value);
     setFilterList([]);
     if (e.target.value.trim().length <= 3) {
       setSearchFor(false)
