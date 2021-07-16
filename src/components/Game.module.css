@@ -7,8 +7,8 @@
     cursor: pointer;
     animation-name: fadeIn;
     animation-duration: 1.3s;
-    
 }
+
 
 @keyframes fadeIn {
     from {

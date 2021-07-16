@@ -43,7 +43,7 @@ const GameList = (props) => {
 
     const displayArrow = () => {
         let arrow;
-        downArrow ? arrow = <span> &darr; </span> : arrow = <span> &uarr; </span>;
+        downArrow ? arrow = <span> &uarr; </span> : arrow = <span> &darr; </span>;
         return arrow;
     }
 
