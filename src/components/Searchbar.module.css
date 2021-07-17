@@ -1,16 +1,15 @@
 .Searchbar{
     width: 100%;
     text-align: center;
+    padding: 1.5rem;
 }
 
 .Searchbar input{
     width: 75%;
     max-width: 20rem;
-    margin: 2rem auto;
     font-size: 1.2rem;
     border: none;
     padding: 3px 8px;
-    margin-right: 1rem;
 }
 
 .Searchbar input:focus {
@@ -20,13 +19,20 @@
 }
 
 .Searchbar button{
-    color: white;
+    position: relative;
+    left: -1.5rem;
+    color: black;
     border-radius: 100%;
-    padding: .4rem;
-    background-color: var(--secondary-color-dark);
+    padding: .2rem .3rem;
+    background-color: transparent;
     border: none;
     outline: none;
     cursor: pointer;
+    font-weight: bold;
+}
+
+.Searchbar button:hover {
+    background-color: #ddd;
 }
 
 .Searchbar button:disabled {
