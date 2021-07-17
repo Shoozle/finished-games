@@ -26,7 +26,6 @@ html {
 h1 {
   color: white;
   text-align: center;
-  margin: 1.2rem;
   font-size: 2rem;
   font-weight: 400;
   margin: 0 auto;
@@ -34,32 +33,6 @@ h1 {
   position: relative;
   z-index: 20;
   background-color: inherit;
-}
-
-h1::after{
-  content: "";
-  display: block;
-  height: 4px;
-  background-color: white;
-  transform: skewX(1rad);
-  width: 50%;
-  text-align: center;
-  margin: 0 auto;
-  margin-top: 6px;
-  max-width: 20rem;
-  animation-name: changebg;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
-  animation-direction: alternate;
-}
-
-@keyframes changebg {
-  from {
-    transform: skewX(1rad);
-  }
-  to{
-    transform: skewX(-1rad);
-  }
 }
 
 .searchlist{
