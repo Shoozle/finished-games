@@ -1,6 +1,6 @@
 .GameList {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
     gap: 1.4rem;
     padding: 1.1rem;
     overflow: hidden;

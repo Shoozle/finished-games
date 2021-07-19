@@ -2,7 +2,7 @@
     max-width: 20rem;
     border-radius: 20px 20px 0 0;
     background-color: var(--primary-color-light);
-    border: 1px solid green;
+    border: 1px solid var(--primary-color-dark);
     border-bottom: none;
     color: white;
     position: fixed;
