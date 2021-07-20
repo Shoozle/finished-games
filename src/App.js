@@ -32,6 +32,7 @@ function App() {
     setSearchFor(true);
     setSearchTerm(e.target.value);
     setFilterList([]);
+
     if (e.target.value.trim().length <= 3) {
       setSearchFor(false)
     } else if (e.target.value.trim().length > 3)  {
