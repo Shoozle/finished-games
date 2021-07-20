@@ -1,4 +1,4 @@
-import { useEffect, useState, useRef } from 'react';
+import { useState } from 'react';
 import './App.css';
 import GameList from './components/GameList';
 import Game from './components/Game';
@@ -33,9 +33,9 @@ function App() {
     setSearchTerm(e.target.value);
     setFilterList([]);
 
-    if (e.target.value.trim().length <= 3) {
+    if (e.target.value.trim().length <= 1) {
       setSearchFor(false)
-    } else if (e.target.value.trim().length > 3)  {
+    } else if (e.target.value.trim().length > 1)  {
       for (let i = 0; i < yearsDB.length; i++) {
         gamesDB[yearsDB[i]].forEach(element => {
           if (element.title.toLowerCase().includes(e.target.value.toLowerCase())) {

@@ -101,10 +101,20 @@
     line-height: 1.6rem;
 }
 
-@media screen and (max-width: 41rem) {
+@media screen and (max-width: 48rem) {
     .Game{
         min-width: 18rem;
         min-height: 12rem;
+    }
+    .game__back {
+        padding: .4rem;
+    }
+}
+
+@media screen and (max-width: 30rem) {
+    .Game{
+        min-width: 18rem;
+        min-height: 14rem;
     }
     .game__back {
         padding: .4rem;

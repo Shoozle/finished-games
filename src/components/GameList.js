@@ -1,18 +1,17 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import Game from './Game';
 import classes from './GameList.module.css';
-import Button from './Button';
 
 const GameList = (props) => {
 
-    const { games, year, open } = props;
+    const { games, year } = props;
     
     const [displayGames, setDisplayGames] = useState(false);
     const [downArrow, setDownArrow] = useState(false);
     
     const gameList = games.map((game, i) => (
         <Game
-            key={i} 
+            key={i}
             title={game.title}
             score={game.score}
             beaten={game.beaten}
