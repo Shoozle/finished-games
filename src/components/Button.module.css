@@ -10,9 +10,22 @@
     right: 0;
     margin-right: 2rem;
     padding: .8rem 1rem;
+    animation-name: fadeIn;
+    animation-duration: 1.3s;
 }
 
 .btn:hover {
     background-color: var(--secondary-color-dark);
     cursor: pointer;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0; 
+        transform: translateY(80px)
+    }
+    to {
+        opacity: 1; 
+        transform: translateY(0)
+    }
 }
