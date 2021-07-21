@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import './App.css';
 import GameList from './components/GameList';
 import Game from './components/Game';
@@ -8,6 +8,7 @@ import Button from './components/Button';
 function App() {
 
   let gameList = [];
+  
 
   const gamesDB = require('../src/data.json');
   const yearsDB = Object.keys(gamesDB);
@@ -15,6 +16,19 @@ function App() {
   const [searchFor, setSearchFor] = useState(false);
   const [searchTerm, setSearchTerm] = useState('');
   const [filterList, setFilterList] = useState([]);
+  const [notTop, setNotTop] = useState(false);
+
+  useEffect(() => {
+    const detectScroll = () => {
+      if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+        setNotTop(true);
+      } else {
+        setNotTop(false)
+      }
+    }
+    window.addEventListener("scroll", detectScroll);
+    return () => window.removeEventListener("scroll", detectScroll);
+  }, [notTop])
 
   let searchedGameList = [];
 
@@ -81,7 +95,7 @@ function App() {
         />
       {!searchFor && gameList}
       {searchFor && <div className="searchlist"> {searchedGameList} </div>}
-      {<a href="#top"><Button>Scroll to Top</Button></a>} 
+      {notTop && <a href="#top"><Button>Scroll to Top</Button></a>} 
     </div>
   );
 }
