@@ -1881,7 +1881,14 @@
     "2016":
     [
         {
-            "title": "Dark Souls III",
+            "title": "Bloodborne",
+            "score": 10,
+            "beaten": "Lost count",
+            "comment": "Done a couple of runs with a buddy, played with a none Souls guy who also claimed to love it",
+            "url": "/img/Bloodborne.jpg"
+        },
+        {
+            "title": "Dark Souls III (2016)",
             "score": 6,
             "beaten": 1,
             "comment": "I beat this and no one believed me on the ending I got, so I beat it again and got the ending again and uploaded it this time and was still the first to upload it. Boring game though!",
@@ -1896,59 +1903,52 @@
         },
         {
             "title": "Digimon Cyber Sleuth",
-            "score": 2,
+            "score": 6,
             "beaten": 1,
-            "comment": "",
+            "comment": "Very text heavy with a bad story yet I fell in love with Digimon again for the first time in years. Great designs. I had a mecha-wasp with hundreds of guns attached to it",
             "url": "/img/Digimon Cyber Sleuth.jpg"
         },
         {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
+            "title": "Uncharted 2 (2016)",
+            "score": 6,
+            "beaten": 2,
+            "comment": "A game I loved when it originally released but fell off here. A bit too many scripted events and too full of betrayals",
+            "url": "/img/Uncharted 2.jpg"
         },
         {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
+            "title": "Uncharted",
+            "score": 7,
+            "beaten": 2,
+            "comment": "Originally didn't care much for it but now it's probably my favourite Uncharted. Nice singular location with variety in it's level design.",
+            "url": "/img/Uncharted 1.jpg"
         },
         {
-            "title": "Dark",
-            "score": 2,
+            "title": "Uncharted 4",
+            "score": 6,
             "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
+            "comment": "No Donut Drake is a scam! The plot was retroactively ruined by Uncharted 3 and for some reason invnted a brother, but it does have the best combat sequences even if there are only 3 of them",
+            "url": "/img/Uncharted 4.jpg"
         },
         {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
+            "title": "Dragons Dogma",
+            "score": 8,
+            "beaten": 2,
+            "comment": "Finally ported to PC and a good port too! Really fun unique classes for a JRPG and the pawn system is rad. Wish it was a bit more free when it comes to classes but the upcoming sequel could be a 10",
+            "url": "/img/Dragons Dogma.jpg"
         },
         {
-            "title": "Dark",
-            "score": 2,
+            "title": "Grand Theft Auto V",
+            "score": 7,
             "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
+            "comment": "One of the few games on PC to blow me away visually after upgrading in 2015. The view from Franklins new house in the Bay hills area was quite breathtaking but the main missions had so much talking and travelling!",
+            "url": "/img/Grand Theft Auto V.jpg"
         },
         {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
+            "title": "Serious Sam 3",
+            "score": 5,
+            "beaten": 2,
+            "comment": "A disappointment for a long time Serious Sam fan but I did a 32 player co-op session which had me laughing constantly",
+            "url": "/img/Serious Sam 3.jpg"
         },
         {
             "title": "Dark",
