@@ -51,9 +51,12 @@ function App() {
       setSearchFor(false)
     } else if (e.target.value.trim().length > 1)  {
       for (let i = 0; i < yearsDB.length; i++) {
+        let currentYear = yearsDB[i]
         gamesDB[yearsDB[i]].forEach(element => {
           if (element.title.toLowerCase().includes(e.target.value.toLowerCase())) {
-            setFilterList(filterList => [...filterList, element])
+            const newElement = {...element}
+            newElement.title = element.title + ` [${currentYear}]`
+            setFilterList(filterList => [...filterList, newElement])
           }
         })
       };
