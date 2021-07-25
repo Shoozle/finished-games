@@ -1878,8 +1878,7 @@
             "url": "/img/Kirby Battle Royale.jpg"
         }
     ],
-    "2016":
-    [
+    "2016": [
         {
             "title": "Bloodborne",
             "score": 10,
@@ -2064,6 +2063,167 @@
         }
     ],
     "2015" : [
+        {
+            "title": "The Witcher 3",
+            "score": 9,
+            "beaten": 1,
+            "comment": "What a step up from Witcher 2 is such a short time that set 'next-gen' in motion. Really brought back the slavic vibe that was present in 1 in such a wide scale beautiful game. And Shani came back for the DLC",
+            "url": "/img/The Witcher 3.jpg"
+        },
+        {
+            "title": "Bloodborne",
+            "score": 9,
+            "beaten": 1,
+            "comment": "From Software put these games out fast, and working with Japan Studio does show some benefits compared to their solo work on DS1/2. Made much better with the DLC as weapon quantity was lacking",
+            "url": "/img/Bloodborne.jpg"
+        },
+        {
+            "title": "Xenoblade Chronicles X",
+            "score": 8,
+            "beaten": 1,
+            "comment": "The game I got my Wii U for finally here! And I loved it. In a year of open world games, X felt the most unique and embraced the sky",
+            "url": "/img/Xenoblade Chronicles X.jpg"
+        },
+        {
+            "title": "Fallout New Vegas",
+            "score": 8,
+            "beaten": 2,
+            "comment": "Played alongside a buddy to talk about it, he was really fond of the ghouls going into space sidequest. I appreciated the game more here but think The Strip is quite boring, despite it being a significant landmark",
+            "url": "/img/Fallout New Vegas.jpg"
+        },
+        {
+            "title": "Monster Hunter 4 Ultimate",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Maybe my favourite Mon Hun. Great new monsters, new weapons, vertical element, mounting, all hallmarks of Mon Hun and introduced us to Queen Seltas and Tetsucabra",
+            "url": "/img/Monster Hunter 4 Ultimate.jpg"
+        },
+        {
+            "title": "Super Mario Maker",
+            "score": 7,
+            "beaten": 1,
+            "comment": "I remember being disappointed by no new story content and the rcreation tools were worse than what rom hack creators could use, but it was still great for the Wii U tablet and had a fun community",
+            "url": "/img/Super Mario Maker.jpg"
+        },
+        {
+            "title": "Dark Souls II",
+            "score": 6,
+            "beaten": "Lost count",
+            "comment": "Scholar released right before Bloodborne and it was a nice change compared to the original but still lacked the lighting engine they showed off in 2013",
+            "url": "/img/Dark Souls II.jpg"
+        },
+        {
+            "title": "Hotline Miami 2",
+            "score": 6,
+            "beaten": 1,
+            "comment": "The level with Roller Mobster is a jam, but primarily due to the music. I think the masks were worse here than the previous 1 and levels felt too similar",
+            "url": "/img/Hotline Miami 2.jpg"
+        },
+        {
+            "title": "Ori and the Blind Forest",
+            "score": 6,
+            "beaten": 1,
+            "comment": "I got this thanks to a Steam price glitch and I was still disappointed. It was classed as really hard but I had almost no difficult parts. Beautiful art for an indie game though",
+            "url": "/img/Ori and the Blind Forest.jpg"
+        },
+        {
+            "title": "Civilization V",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Having only played IV and it's expansions prior, Civ V felt like a massive downgrade, and it seemed that way within the community but I think it's just a case of 'the first one you played is the best'",
+            "url": "/img/Civilization V.jpg"
+        },
+        {
+            "title": "The Witcher 2",
+            "score": 6,
+            "beaten": 2,
+            "comment": "I enjoyed this much more in my first playthrough but to have a completely different act depending on your choice is rad. It felt slow due to no sprint and camera lock on was frustrating compared to other 2011 games",
+            "url": "/img/The Witcher 2.jpg"
+        },
+        {
+            "title": "Dark",
+            "score": 2,
+            "beaten": 1,
+            "comment": "",
+            "url": "/img/Dark.jpg"
+        },
+        {
+            "title": "Dark",
+            "score": 2,
+            "beaten": 1,
+            "comment": "",
+            "url": "/img/Dark.jpg"
+        },
+        {
+            "title": "Dark",
+            "score": 2,
+            "beaten": 1,
+            "comment": "",
+            "url": "/img/Dark.jpg"
+        },
+        {
+            "title": "Dark",
+            "score": 2,
+            "beaten": 1,
+            "comment": "",
+            "url": "/img/Dark.jpg"
+        },
+        {
+            "title": "Dark",
+            "score": 2,
+            "beaten": 1,
+            "comment": "",
+            "url": "/img/Dark.jpg"
+        },
+        {
+            "title": "Dark",
+            "score": 2,
+            "beaten": 1,
+            "comment": "",
+            "url": "/img/Dark.jpg"
+        },
+        {
+            "title": "Dark",
+            "score": 2,
+            "beaten": 1,
+            "comment": "",
+            "url": "/img/Dark.jpg"
+        },
+        {
+            "title": "Dark",
+            "score": 2,
+            "beaten": 1,
+            "comment": "",
+            "url": "/img/Dark.jpg"
+        },
+        {
+            "title": "Dark",
+            "score": 2,
+            "beaten": 1,
+            "comment": "",
+            "url": "/img/Dark.jpg"
+        },
+        {
+            "title": "Dark",
+            "score": 2,
+            "beaten": 1,
+            "comment": "",
+            "url": "/img/Dark.jpg"
+        },
+        {
+            "title": "Dark",
+            "score": 2,
+            "beaten": 1,
+            "comment": "",
+            "url": "/img/Dark.jpg"
+        },
+        {
+            "title": "Dark",
+            "score": 2,
+            "beaten": 1,
+            "comment": "",
+            "url": "/img/Dark.jpg"
+        },
         {
             "title": "Dark",
             "score": 2,
