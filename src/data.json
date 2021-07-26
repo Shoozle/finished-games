@@ -8,13 +8,6 @@
             "url": "/img/It Takes Two.jpg"
         },
         {
-            "title": "Nioh 2 (PC)",
-            "score": 8,
-            "beaten": 2,
-            "comment": "Now with the DLC! Which adds a female Vergil boss so you know it's good. Some really cool enemy designs too but the majority of areas weren't all that great",
-            "url": "/img/Nioh 2.jpg"
-        },
-        {
             "title": "Monster Hunter Stories 2",
             "score": 8,
             "beaten": 2,
@@ -59,13 +52,6 @@
     ],
     "2020": [
         {
-            "title": "The Wonderful 101 Remastered",
-            "score": 9,
-            "beaten": 2,
-            "comment": "It was blissful to be able to play this without using my dusty Wii U. An incredibly charming game with a unique combat system and an insane ending. Shame about the Kickstarter import fees",
-            "url": "/img/The Wonderful 101 Remastered.jpg"
-        },
-        {
             "title": "Hades",
             "score": 8,
             "beaten": 1,
@@ -76,7 +62,7 @@
             "title": "Nioh 2",
             "score": 8,
             "beaten": 2,
-            "comment": "Played it solo and with a buddy. The new yokai designs were great and more levels were set during the day. I also got to pet a cute fat cat that followed me for a while",
+            "comment": "The new Yokai designs are great. It was fun watching my buddy die 100 times to a boss that was already nerfed. The DLC adds a female Vergil character so that fight is automatically a 10",
             "url": "/img/Nioh 2.jpg"
         },
         {
@@ -129,32 +115,19 @@
             "url": "/img/Final Fantasy VII Remake.jpg"
         },
         {
-            "title": "Destroy All Humans (Remaster)",
+            "title": "Destroy All Humans (Remake)",
             "score": 6,
             "beaten": 1,
             "comment": "Has some charm and didn't feel too dated. Humour was thankfully before the LEET internet timeframe. Really enjoyed Mr Crypto voice actor. The anal probe gun was not as fun as you hope",
             "url": "/img/Destroy All Humans.jpg"
         },
-        {
-            "title": "Shin Megami Tensei Nocturne (Remaster)",
-            "score": 5,
-            "beaten": 1,
-            "comment": "Finally finished thanks to remaster. These dungeons are the worst, all of them have invisible teleport traps and that's as complex as it gets. Real neat character goals though and no real villain due to you picking your own alignments",
-            "url": "/img/Shin Megami Tensei Nocturne.jpg"
-        },
+
         {
             "title": "Minecraft Dungeons",
             "score": 5,
             "beaten": 1,
             "comment": "A cooperative dumbed down ARPG experience that while not insultingly bad, just didn't have any stand out moments",
             "url": "/img/Minecraft Dungeons.jpg"
-        },
-        {
-            "title": "Remnant from the Ashes",
-            "score": 4,
-            "beaten": 1,
-            "comment": "A unique third person shooter which has some Dark Souls influence. I don't think it works but I also did take a 3 month break between sessions with a buddy",
-            "url": "/img/Remnant From the Ashes.jpg"
         },
         {
             "title": "Tokyo Mirage Sessions (#FE)",
@@ -282,14 +255,6 @@
             "url": "/img/Devil May Cry 5.jpg"
         },
         {
-            "title": "Life is Strange",
-            "score": 7,
-            "beaten": 1,
-            "comment": "Really wonderful music with vocals and a surprisingly dark game. While I did not enjoy anything about Chloe which impacted the ending",
-            "url": "/img/Life is Strange.jpg"
-        },
-
-        {
             "title": "The Outer Worlds",
             "score": 6,
             "beaten": 1,
@@ -369,6 +334,7 @@
             "comment": "Short game, but with great music and visual style. I played it on a Switch handheld and could barely make anything out which probably made me think less of it",
             "url": "/img/Sayonara Wild Hearts.jpg"
         },
+        
         {
             "title": "Puzzle Quest: The Legend Returns",
             "score": 5,
@@ -376,7 +342,6 @@
             "comment": "An addictive puzzle game that somehow ran like garbage on the Switch. A new one has just been announced but it's free2play so I don't expect much",
             "url": "/img/Puzzle Quest The Legend Returns.jpg"
         },
-
         {
             "title": "Pokemon Shield",
             "score": 5,
@@ -385,11 +350,11 @@
             "url": "/img/Pokemon Shield.jpg"
         },
         {
-            "title": "Luigi's Mansion",
-            "score": 5,
+            "title": "Remnant from the Ashes",
+            "score": 4,
             "beaten": 1,
-            "comment": "A short charming game but so much backtracking. The boo names were really funny such as GameBoo Advance but was very basic as a whole",
-            "url": "/img/Luigi's Mansion.jpg"
+            "comment": "A unique third person shooter which has some Dark Souls influence. I don't think it works but I also did take a 3 month break between sessions with a buddy",
+            "url": "/img/Remnant From the Ashes.jpg"
         },
         {
             "title": "Pokemon Sword",
@@ -430,13 +395,6 @@
             "url": "/img/God of War.jpg"
         },
         {
-            "title": "Dark Souls Remastered",
-            "score": 8,
-            "beaten": "Lost count",
-            "comment": "Some nice changes such as the password co-op connection and the UI scaler setting but aside from that it still disappoints and was overpriced",
-            "url": "/img/Dark Souls.jpg"
-        },
-        {
             "title": "Yoku's Island Express",
             "score": 7,
             "beaten": 1,
@@ -450,13 +408,7 @@
             "comment": "My first and only Warioware game. It was quite funny and the side characters were all great but it's not the type of game I love with it's mini-game design",
             "url": "/img/Warioware Gold.jpg"
         },
-        {
-            "title": "Statik",
-            "score": 7,
-            "beaten": 1,
-            "comment": "A simple VR game with a low price point. It's puzzles were designed and the creepy atmosphere made for a unique experience. The design of the character models was something that sticks in my mind more than the puzzles",
-            "url": "/img/Statik.jpg"
-        },
+
         {
             "title": "Spider-Man",
             "score": 7,
@@ -472,18 +424,18 @@
             "url": "/img/Super Smash Bros Ultimate.jpg"
         },
         {
-            "title": "Shadow of the Colossus (Remaster)",
+            "title": "Shadow of the Colossus (Remake)",
             "score": 7,
             "beaten": 1,
             "comment": "A game I look back on fondly but didn't like playing. A truly unique open world game that was more ambitious on the PS2 than it is now but the soundtrack is still one of the best as is the ending",
             "url": "/img/Shadow of the Colossus.jpg"
         },
         {
-            "title": "Persona 5",
+            "title": "Hitman Season 2",
             "score": 7,
-            "beaten": 2,
-            "comment": "I replayed it to get the platinum trophy and thought less of it, primarily because I had to redo many hours as I missed a text message to trigger a side mission in Mementos",
-            "url": "/img/Persona 5.jpg"
+            "beaten": 1,
+            "comment": "The episodic element is gone but the awful online element still persists. An enjoyable last level in the suburbs but can't remember much else!",
+            "url": "/img/Hitman.jpg"
         },
         {
             "title": "Octopath Traveller",
@@ -499,13 +451,6 @@
             "beaten": 1,
             "comment": "A game I received for free and it was charming with fun puzzle and clever solutions but the meme references and nods to Donald Trump really annoyed me",
             "url": "/img/Supraland.jpg"
-        },
-        {
-            "title": "Yakuza 3 (Remaster)",
-            "score": 6,
-            "beaten": 1,
-            "comment": "While it was nice to be back in Kamurocho, many of the plot elements felt too absurd and one chapter was 30 minutes of dialogue. The orphanage elements were great",
-            "url": "/img/Yakuza 3.jpg"
         },
         {
             "title": "Kirby Star Allies",
@@ -542,14 +487,6 @@
             "beaten": 1,
             "comment": "An expansion with a new combat system is great to see but forcing someone to do side quest to advance the main plot is a big no no. The combat music goes full Jazz and it's incredible",
             "url": "/img/Xenoblade Chronicles 2 Torna.jpg"
-        },
-
-        {
-            "title": "Gears of War Judgement",
-            "score": 6,
-            "beaten": 1,
-            "comment": "Played with a buddy and I was surprised at how much I liked it after the misery of the other two. For a 360 game, the particle effects were quite fantastic. People Can Fly deserve a chance to make a great new IP",
-            "url": "/img/Gears of War Judgement.jpg"
         },
         {
             "title": "A Way Out",
@@ -754,6 +691,13 @@
             "url": "/img/Mario Kart 8 Deluxe.jpg"
         },
         {
+            "title": "Statik",
+            "score": 7,
+            "beaten": 1,
+            "comment": "A simple VR game with a low price point. It's puzzles were designed and the creepy atmosphere made for a unique experience. The design of the character models was something that sticks in my mind more than the puzzles",
+            "url": "/img/Statik.jpg"
+        },
+        {
             "title": "Cuphead",
             "score": 7,
             "beaten": 1,
@@ -808,7 +752,7 @@
         },
 
         {
-            "title": "Resident Evil 7 [VR]",
+            "title": "Resident Evil 7 (VR)",
             "score": 6,
             "beaten": 2,
             "comment": "My first mainstream experience of VR and it made me feel sick but there's nothing else quite like it and it's a shame it's exclusive to PSVR. Incredible 3D audio made it genuinely terrifying in the house",
@@ -903,13 +847,7 @@
             "comment": "A better balanced sequel to SMT IV but includes too much Persona influence in regards to the character friendships. I still loved smirking and siding with my demon buddy Dagda and his lovely Scottish accent",
             "url": "/img/Shin Megami Tensei IV Apocalypse.jpg"
         },
-        {
-            "title": "Dragons Dogma (PC port)",
-            "score": 8,
-            "beaten": 2,
-            "comment": "Finally ported to PC and a good port too! Really fun unique classes for a JRPG and the pawn system is rad. Wish it was a bit more free when it comes to classes but the upcoming sequel could be a 10",
-            "url": "/img/Dragons Dogma.jpg"
-        },
+
         {
             "title": "The Witness",
             "score": 8,
@@ -974,14 +912,6 @@
             "url": "/img/Yakuza Kiwami.jpg"
         },
         {
-            "title": "Uncharted (Remaster)",
-            "score": 7,
-            "beaten": 2,
-            "comment": "Originally didn't care much for it but now it's probably my favourite Uncharted. Nice singular location with variety in it's level design.",
-            "url": "/img/Uncharted.jpg"
-        },
-
-        {
             "title": "Forza Horizon 3",
             "score": 7,
             "beaten": 1,
@@ -1024,17 +954,10 @@
             "url": "/img/Abzu.jpg"
         },
         {
-            "title": "Uncharted 2",
-            "score": 6,
-            "beaten": 2,
-            "comment": "A game I loved when it originally released but fell off here. A bit too many scripted events and too full of betrayals",
-            "url": "/img/Uncharted 2.jpg"
-        },
-        {
             "title": "Uncharted 4",
             "score": 6,
             "beaten": 1,
-            "comment": "No Donut Drake is a scam! The plot was retroactively ruined by Uncharted 3 and for some reason invnted a brother, but it does have the best combat sequences even if there are only 3 of them",
+            "comment": "No Donut Drake is a scam! The plot was retroactively ruined by Uncharted 3 and for some reason invented a brother, but it does have the best combat sequences even if there are only 3 of them",
             "url": "/img/Uncharted 4.jpg"
         },
         {
@@ -1087,34 +1010,6 @@
             "url": "/img/Titan Quest Anniversary Edition.jpg"
         },
         {
-            "title": "Serious Sam 3",
-            "score": 5,
-            "beaten": 2,
-            "comment": "A disappointment for a long time Serious Sam fan but I did a 32 player co-op session which had me laughing constantly",
-            "url": "/img/Serious Sam 3.jpg"
-        },
-        {
-            "title": "Saints Row The Third",
-            "score": 5,
-            "beaten": 1,
-            "comment": "Kanye Wests Power is a real banger of a tune but he's done nothing good since. Much like Saints Row",
-            "url": "/img/Saints Row The Third.jpg"
-        },
-        {
-            "title": "Renegade Ops",
-            "score": 5,
-            "beaten": 1,
-            "comment": "Played with a buddy, don't remember a thing!",
-            "url": "/img/Renegade Ops.jpg"
-        },
-        {
-            "title": "Dead Rising (HD)",
-            "score": 5,
-            "beaten": 1,
-            "comment": "Finished on the night of Eurovision. Starts off frustrating but once you get into the groove of understanding the UI and map, it gets better. Fun easter eggs but not a lot of useful items",
-            "url": "/img/Dead Rising.jpg"
-        },
-        {
             "title": "The Last Guardian",
             "score": 4,
             "beaten": 1,
@@ -1128,13 +1023,7 @@
             "comment": "I love the manga Berserk but this game is just trash. Why have a roster of characters if you are forced to play as Guts in about 90% of the missions but I suppose it could have been worse, somehow",
             "url": "/img/Berserk and the Band of the Hawk.jpg"
         },
-        {
-            "title": "Saints Row IV",
-            "score": 4,
-            "beaten": 1,
-            "comment": "A bad superhero game and a worse Crackdown. Bad SR humour persists and gets too absurd to be enjoyable. The melee animations were good though",
-            "url": "/img/Saints Row IV.jpg"
-        },
+
         {
             "title": "Pokemon Sun",
             "score": 4,
@@ -1222,6 +1111,13 @@
             "url": "/img/Yakuza 0.jpg"
         },
         {
+            "title": "Life is Strange",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Really wonderful music with vocals and a surprisingly dark game. While I did not enjoy anything about Chloe which impacted the ending",
+            "url": "/img/Life is Strange.jpg"
+        },
+        {
             "title": "Super Mario Maker",
             "score": 7,
             "beaten": 1,
@@ -1229,10 +1125,24 @@
             "url": "/img/Super Mario Maker.jpg"
         },
         {
+            "title": "Until Dawn",
+            "score": 7,
+            "beaten": 1,
+            "comment": "One of the better interactive story games out there as there is no fail safe. Some of the mocap looks weird when a person speaks but the setting makes for a really fun horror night with friends",
+            "url": "/img/Until Dawn.jpg"
+        },
+        {
+            "title": "Splatoon",
+            "score": 6,
+            "beaten": "Lost count",
+            "comment": "It was weird to see Nintendo reveal a shooter where things literally die and explode in their blood. But it's technically squids and ink so it's okay. Makes me miss miiverse",
+            "url": "/img/Splatoon.jpg"
+        },
+        {
             "title": "Dark Souls II (Scholar)",
             "score": 6,
             "beaten": "Lost count",
-            "comment": "Scholar released right before Bloodborne and it was a nice change compared to the original but still lacked the lighting engine they showed off in 2013",
+            "comment": "Scholar released right before Bloodborne and it was a nice change compared to the original but still lacked the lighting engine they showed off in their trailers",
             "url": "/img/Dark Souls II.jpg"
         },
         {
@@ -1242,6 +1152,7 @@
             "comment": "The level with Roller Mobster is a jam, but primarily due to the music. I think the masks were worse here than the previous 1 and levels felt too similar",
             "url": "/img/Hotline Miami 2.jpg"
         },
+        
         {
             "title": "Ori and the Blind Forest",
             "score": 6,
@@ -1285,13 +1196,19 @@
             "url": "/img/Halo 5.jpg"
         },
         {
+            "title": "Magicka 2",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Played this on console so the inputs differed from the first. I remember not enjoying it as much until me and a friend got the finale and it turned into a game of FIFA",
+            "url": "/img/Magicka 2.jpg"
+        },
+        {
             "title": "Monster Hunter Stories",
             "score": 5,
             "beaten": 1,
             "comment": "Finished after a 3 and a half year gap with the last 20% to go. Somewhat fun, often frustrating. Egg hunting was tedious due to RNG luck with Paintballs that barely worked. Great animations for a 3DS game",
             "url": "/img/Monster Hunter Stories.jpg"
         },
-        
         {
             "title": "Undertale",
             "score": 5,
@@ -1300,32 +1217,11 @@
             "url": "/img/Undertale.jpg"
         },
         {
-            "title": "Dark",
-            "score": 2,
+            "title": "Wasteland 2",
+            "score": 4,
             "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
+            "comment": "I kickstarted this game as I wanted something like old school Fallout but modern, and hated it from almost the start and rushed to a 'joke ending'. However after loving WL3 I do want to give this another go",
+            "url": "/img/Wasteland 2.jpg"
         },
         {
             "title": "Fallout 4",
@@ -1333,55 +1229,6 @@
             "beaten": 1,
             "comment": "I kind of rushed through this as nothing in the first few hours hooked me but I do find it upsetting the robot didn't say your name 'Sean' because your kid is named Shaun",
             "url": "/img/Fallout 4.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         },
         {
             "title": "The Order 1886",
@@ -1392,12 +1239,13 @@
         }
     ],
     "2014":[
+
         {
-            "title": "Resident Evil 4 (HD)",
-            "score": 9,
+            "title": "The Talos Principle",
+            "score": 8,
             "beaten": 1,
-            "comment": "A friend lent me a copy back on the PS2 but I couldn't get into it. Now I played it on PC and had a blast. The starting village area is absolutely incredible and even referenced recently by game devs",
-            "url": "/img/Resident Evil 4.jpg"
+            "comment": "One of the best puzzle games I have played and despite having a story with heavy religious and philisophical elements, there is no answer forced onto you, only for you to question everything and have doubts and accept that that is okay.",
+            "url": "/img/The Talos Principle.jpg"
         },
         {
             "title": "Donkey Kong Country Tropical Freeze",
@@ -1414,6 +1262,13 @@
             "url": "/img/Halo.jpg"
         },
         {
+            "title": "Captain Toad",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Adapts a Mario Galaxy level into it's own full game with boss fight and it somehow works, despite having a platformer with no jump ability. Beautiful diorama levels",
+            "url": "/img/Captain Toad.jpg"
+        },
+        {
             "title": "Dark Souls II",
             "score": 6,
             "beaten": "Lost count",
@@ -1421,11 +1276,25 @@
             "url": "/img/Dark Souls II.jpg"
         },
         {
+            "title": "Transistor",
+            "score": 6,
+            "beaten": 1,
+            "comment": "After Bastion, Supergiant have set their motif for their games. Interesting worlds, great visuals and stellar music from Darren Korb. Yet the story in Transistor and the gameplay did nothing for me",
+            "url": "/img/Transistor.jpg"
+        },
+        {
             "title": "Fable (Anniversary)",
             "score": 6,
             "beaten": 1,
             "comment": "I remember when I jokingly spelld out 'shit' instead of 'this' and the game mocked me for it. Truly a sign of a good game and hope the new Fable has the same cozy atmosphere",
             "url": "/img/Fable.jpg"
+        },
+        {
+            "title": "Dynasty Warriors 8 XL",
+            "score": 6,
+            "beaten": 1,
+            "comment": "One of the most 'complete' DW games but hasn't seen much new features since 4. The game never goes on sale, and the 'complete edition' doesn't even have every piece of DLC and that annoys me",
+            "url": "/img/Dynasty Warriors 8.jpg"
         },
         {
             "title": "Divinity Original Sin",
@@ -1494,6 +1363,13 @@
             "url": "/img/Grand Theft Auto V.jpg"
         },
         {
+            "title": "The Last of Us",
+            "score": 7,
+            "beaten": 1,
+            "comment": "I didn't understand the hype as to me it felt just like another Uncharted but with zombies. I liked the clickers but the rest of the mutated were too typical. Some good action set pieces where you are in complete control",
+            "url": "/img/The Last of Us.jpg"
+        },
+        {
             "title": "Shin Megami Tensei IV",
             "score": 7,
             "beaten": 1,
@@ -1522,6 +1398,13 @@
             "url": "/img/The Legend of Zelda Link Between Worlds.jpg"
         },
         {
+            "title": "Gears of War Judgement",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Played with a buddy and I was surprised at how much I liked it after the misery of the other two. For a 360 game, the particle effects were quite fantastic. People Can Fly deserve a chance to make a great new IP",
+            "url": "/img/Gears of War Judgement.jpg"
+        },
+        {
             "title": "Marlow Briggs",
             "score": 6,
             "beaten": 1,
@@ -1529,11 +1412,18 @@
             "url": "/img/Marlow Briggs.jpg"
         },
         {
-            "title": "Final Fantasy X (HD)",
+            "title": "Saints Row The Third",
             "score": 5,
             "beaten": 1,
-            "comment": "A crazy foundation for a setting in an RPG and a nice turn-based combat system that does away with the ATB. Awful dungeons too. But something kept me going back and I don't know why",
-            "url": "/img/Final Fantasy X.jpg"
+            "comment": "Kanye Wests Power is a real banger of a tune but he's done nothing good since. Much like Saints Row",
+            "url": "/img/Saints Row The Third.jpg"
+        },
+        {
+            "title": "Saints Row IV",
+            "score": 4,
+            "beaten": 1,
+            "comment": "A bad superhero game and a worse Crackdown. Bad SR humour persists and gets too absurd to be enjoyable. The melee animations were good though",
+            "url": "/img/Saints Row IV.jpg"
         },
         {
             "title": "Far Cry 3: Blood Dragon",
@@ -1541,30 +1431,9 @@
             "beaten": 1,
             "comment": "To this day the only Far Cry game I have finished because it's short, the writing peaks at the start then becomes annoying so I am glad it was short",
             "url": "/img/Far Cry Blood Dragon.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "2012": [
-        {
-            "title": "Devil May Cry 3 (HD)",
-            "score": 9,
-            "beaten": 3,
-            "comment": "Hideaki Itsuno knocks it out of the park after a disappointing DMC2. Incredible combat for a PS2 game made better with the Style Switcher mod. Ruthlessly hard at times but what is the price to pay for power",
-            "url": "/img/Devil May Cry 3.jpg"
-        },
-        {
-            "title": "Okami HD",
-            "score": 9,
-            "beaten": 2,
-            "comment": "One of my absolute favourite games from one of my favourite game directors. A beautiful stylized Japanese game which started my love for Yokai. A unique combat system with a great story, funny side characters and a deeply interactive world",
-            "url": "/img/Okami HD.jpg"
-        },
         {
             "title": "Pokemon Black 2",
             "score": 8,
@@ -1573,19 +1442,27 @@
             "url": "/img/Pokemon Black 2.jpg"
         },
         {
+            "title": "Virtues Last Reward",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Following on from 999, I got almost exactly what I wanted. The ending was worse for going too far on the wide scale and not keeping it contained",
+            "url": "/img/Virtues Last Reward.jpg"
+        },
+        {
+            "title": "Dragons Dogma",
+            "score": 8,
+            "beaten": 2,
+            "comment": "Finally ported to PC and a good port too! Really fun unique classes for a JRPG and the pawn system is rad. Wish it was a bit more free when it comes to classes but the upcoming sequel could be a 10",
+            "url": "/img/Dragons Dogma.jpg"
+        },
+        {
             "title": "Persona 4 Golden",
             "score": 7,
             "beaten": 1,
             "comment": "The added content is honestly quite bad and I don't like the new voice acting cast as much but Persona 4 is still a game worth playing for the mystery Scooby Doo adventure and music. Naoto is best girl",
             "url": "/img/Persona 4 Golden.jpg"
         },
-        {
-            "title": "Devil May Cry (HD)",
-            "score": 6,
-            "beaten": 2,
-            "comment": "As part of the HD collection that finally came to PC, and for sure is fun but very basic compared to the modern games that diverted from the serious tone. The underwater sections also suck",
-            "url": "/img/Devil May Cry.jpg"
-        },
+
         {
             "title": "Diablo 3",
             "score": 5,
@@ -1606,27 +1483,6 @@
             "beaten": 3,
             "comment": "Played with a buddy and while starting off strong and having a good pet and fish system, having many skills with 2+minute cooldown really annoyed me, and levelling was slow",
             "url": "/img/Torchlight 2.jpg"
-        },
-        {
-            "title": "Devil May Cry 2 (HD)",
-            "score": 2,
-            "beaten": 1,
-            "comment": "It's a miracle Itsuno kept his job after this but it wasn't his fault! Some levels were so ugly it was an eyesore, the Stinger move animation is so bad, guns are overpowered and there's a boss fight that is just a helicopter you shoot at",
-            "url": "/img/Devil May Cry 2.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "2011": [
@@ -1636,6 +1492,13 @@
             "beaten": "Lost count",
             "comment": "At first it felt like a downgrade from Demon's Souls but overtime I came to love it more. ",
             "url": "/img/Dark Souls.jpg"
+        },
+        {
+            "title": "Deus Ex Human Revolution",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Adam Jensen is a great protag, wonderful ambient music that doesn't interfere with the atmosphere. So many cardboard boxes",
+            "url": "/img/Deus Ex Human Revolution.jpg"
         },
         {
             "title": "Super Mario 3D Land",
@@ -1662,8 +1525,29 @@
             "title": "RAGE",
             "score": 6,
             "beaten": 1,
-            "comment": "A mixed bag that I streamed only sometimes for a friend due to weird time zones. A unique setting that only excelled when you was visiting blood stained hospitals.",
+            "comment": "A mixed bag that I streamed only sometimes for a friend due to weird time zones. A unique setting that only excelled when you was visiting blood stained hospitals",
             "url": "/img/RAGE.jpg"
+        },
+        {
+            "title": "Serious Sam 3",
+            "score": 5,
+            "beaten": 2,
+            "comment": "A disappointment for a long time Serious Sam fan but I did a 32 player co-op session which had me laughing constantly",
+            "url": "/img/Serious Sam 3.jpg"
+        },
+        {
+            "title": "Uncharted 3",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Pre-ordered and beat it in 1 night. Remember telling a Uni guy it sucked and he immediately seemed to want nothing more to do with me. Whole plot revolved around Nathan Drakes real name with no outcome",
+            "url": "/img/Uncharted.jpg"
+        },
+        {
+            "title": "Renegade Ops",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Played with a buddy, don't remember a thing!",
+            "url": "/img/Renegade Ops.jpg"
         },
         {
             "title": "Gears of War 3",
@@ -1685,13 +1569,6 @@
             "beaten": 1,
             "comment": "Just an absolute misery with almost nothing fun but co-opped work fine",
             "url": "/img/Earth Defense Force Insect Armageddon.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "2010": [
@@ -1708,6 +1585,13 @@
             "beaten": 2,
             "comment": "A high budget ending with great DS visuals and incredible music. Shame about the now dead online features. DS piracy was rampant so the leaks was very fun with Smugleaf, Wotter and Pignite",
             "url": "/img/Pokemon White.jpg"
+        },
+        {
+            "title": "Super Mario Galaxy 2",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Yoshi returns and I don't want to say that immediately makes it better than the first but it kinda does",
+            "url": "/img/Super Mario Galaxy 2.jpg"
         },
         {
             "title": "Nier",
@@ -1743,13 +1627,6 @@
             "beaten": "2",
             "comment": "A game that's hard to tell the tone the developers were going for. It attempts to be serious yet many moments are oddly comical due to animations and quite absurd situations. Ridiculous levels of next-gen lens flares but the film aeshetic can be nice",
             "url": "/img/Kane & Lynch 2.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "2009": [
@@ -1759,6 +1636,13 @@
             "beaten": "Lost count",
             "comment": "Played at a party I attended and hated the party but loved the game. Bought it immediately after. Friend mocked it for a magazine calling it the next Shadow of the Colossus. Who knew it would be better",
             "url": "/img/Demon's Souls.jpg"
+        },
+        {
+            "title": "Nine Hours, Nine Persons, Nine Doors",
+            "score": 9,
+            "beaten": 1,
+            "comment": "I had never played a visual novel game before and this blew me away in terms of weird theoretical concepts that is spoken about in the science community. It can be a bit silly but I throughouly enjoyed how dark it was",
+            "url": "/img/Nine Hours, Nine Persons, Nine Doors.jpg"
         },
         {
             "title": "Bayonetta",
@@ -1775,21 +1659,29 @@
             "url": "/img/Pokemon Heart Gold.jpg"
         },
         {
-            "title": "Dark",
-            "score": 2,
+            "title": "Uncharted 2",
+            "score": 6,
+            "beaten": 2,
+            "comment": "A game I loved when it originally released but fell off here. A bit too many scripted events and too full of betrayals",
+            "url": "/img/Uncharted 2.jpg"
+        },
+        {
+            "title": "Yakuza 3",
+            "score": 6,
             "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
+            "comment": "While it was nice to be back in Kamurocho, many of the plot elements felt too absurd and one chapter was 30 minutes of dialogue. The orphanage elements were great",
+            "url": "/img/Yakuza 3.jpg"
+        },
+        {
+            "title": "Dynasty Warriors 6 Empires",
+            "score": 6,
+            "beaten": 2,
+            "comment": "Bought this on sale in GAME for about a tenner and still wish I got more value. My first DW empires game and probably the last one I play",
+            "url": "/img/Dynasty Warriors 6 Empires.jpg"
         }
     ],
     "2008": [
-        {
-            "title": "Banjo Kazooie (XBLA)",
-            "score": 10,
-            "beaten": 4,
-            "comment": "One of my childhood games that still holds up to this very day. A blast from start to finish and the quiz at the end shows how proud the developers are of their level and sound design, better than Super Mario 64 for sure",
-            "url": "/img/Banjo Kazooie.jpg"
-        },
+
         {
             "title": "Viva Pinata TIP",
             "score": 8,
@@ -1824,20 +1716,6 @@
             "beaten": 2,
             "comment": "A game I used to love and now kinda hate. The pokemon variety in Gen IV is abysmal with only one other fire type. Very slow with mad HM usage and not very memorable routes. The safari zone sucks too",
             "url": "/img/Pokemon Platinum.jpg"
-        },
-        {
-            "title": "Gears of War 2",
-            "score": 4,
-            "beaten": 1,
-            "comment": "A game that epitomises the third person shooter design of that era, with constant turret sections, ugly colour palette, regen health and grenade spam. I can't remember liking anything about it",
-            "url": "/img/Gears of War 2.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "2007": [
@@ -1847,6 +1725,20 @@
             "beaten": 1,
             "comment": "Incredibly immersive game that I was 30 minutes away from finishing back in 2010 before messing up a quick save cos I was new to hardcore PC games. Ridiculously accurate AI but X16 lab is a haunting experience",
             "url": "/img/Stalker Shadow of Chernobyl.jpg"
+        },
+        {
+            "title": "Super Mario Galaxy",
+            "score": 7,
+            "beaten": 1,
+            "comment": "I got my Wii quite late and I was never the biggest Mario fan, so by the time I played this, I heard incredible things. And yet many levels were boring and short and made little use of the planet gravity physics",
+            "url": "/img/Super Mario Galaxy.jpg"
+        },
+        {
+            "title": "Uncharted",
+            "score": 7,
+            "beaten": 2,
+            "comment": "Originally didn't care much for it but now it's probably my favourite Uncharted. Nice singular location with variety in it's level design.",
+            "url": "/img/Uncharted.jpg"
         },
         {
             "title": "Halo 3",
@@ -1865,6 +1757,13 @@
     ],
     "2006": [
         {
+            "title": "Okami",
+            "score": 9,
+            "beaten": 2,
+            "comment": "One of my absolute favourite games from one of my favourite game directors. A beautiful stylized Japanese game which started my love for Yokai. A unique combat system with a great story, funny side characters and a deeply interactive world",
+            "url": "/img/Okami HD.jpg"
+        },
+        {
             "title": "Viva Pinata",
             "score": 8,
             "beaten": 2,
@@ -1879,6 +1778,13 @@
             "url": "/img/Bully.jpg"
         },
         {
+            "title": "God Hand",
+            "score": 8,
+            "beaten": 1,
+            "comment": "A game that's too bloody hard but also incredible. Good humour, unique combat system and makes me wish Mikami would move away from horror games",
+            "url": "/img/God Hand.jpg"
+        },
+        {
             "title": "Persona 3 FES",
             "score": 6,
             "beaten": 1,
@@ -1886,27 +1792,41 @@
             "url": "/img/Persona 3 FES.jpg"
         },
         {
-            "title": "Dark",
-            "score": 2,
+            "title": "Dead Rising",
+            "score": 5,
             "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
+            "comment": "Finished on the night of Eurovision. Starts off frustrating but once you get into the groove of understanding the UI and map, it gets better. Fun easter eggs but not a lot of useful items",
+            "url": "/img/Dead Rising.jpg"
         }
     ],
     "2005": [
+        {
+            "title": "Devil May Cry 3",
+            "score": 9,
+            "beaten": 3,
+            "comment": "Hideaki Itsuno knocks it out of the park after a disappointing DMC2. Incredible combat for a PS2 game made better with the Style Switcher mod. Ruthlessly hard at times but what is the price to pay for power",
+            "url": "/img/Devil May Cry 3.jpg"
+        },
+        {
+            "title": "Resident Evil 4",
+            "score": 9,
+            "beaten": 1,
+            "comment": "A friend lent me a copy back on the PS2 but I couldn't get into it. Now I played it on PC and had a blast. The starting village area is absolutely incredible and even referenced recently by God of War 2018 devs",
+            "url": "/img/Resident Evil 4.jpg"
+        },
+        {
+            "title": "Dynasty Warriors 5",
+            "score": 6,
+            "beaten": 1,
+            "comment": "I loved the intro so much, and I thought with it now being 2005, the graphics would represent the opening cinematic. It did not. Still fun-ish but nothing to 3",
+            "url": "/img/Dynasty Warriors 5.jpg"
+        },
         {
             "title": "FATE",
             "score": 6,
             "beaten": 1,
             "comment": "A classic ARPG that is Torchlight-light. Oddly charming but very simple. Framerate plummets despite being a 15 year old game BUT I got to summon beetle to fight for me, so that was rad",
             "url": "/img/FATE.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "2004": [
@@ -1930,36 +1850,29 @@
             "beaten": 2,
             "comment": "A childhood favourite that to me doesn't hold up due it's high difficulty but the motorbike jumping onto a boat cutscene is still fantastic and I hope it makes a return at some point",
             "url": "/img/Onimusha 3.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "2003": [
         {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
+            "title": "Dynasty Warriors 4",
+            "score": 6,
+            "beaten": "Lost count",
+            "comment": "I remember feeling quite bummed out by 4. Its weapons started having RPG stats and the ability for all officers to weild whatever they wanted ruined their unique moveset",
+            "url": "/img/Dynasty Warriors 4.jpg"
         },
         {
-            "title": "Dark",
+            "title": "Shin Megami Tensei Nocturne",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Finally finished thanks to remaster. These dungeons are the worst, all of them have invisible teleport traps and that's as complex as it gets. Real neat character goals though and no real villain due to you picking your own alignments",
+            "url": "/img/Shin Megami Tensei Nocturne.jpg"
+        },
+        {
+            "title": "Devil May Cry 2",
             "score": 2,
             "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
+            "comment": "It's a miracle Itsuno kept his job after this but it wasn't his fault! Some levels were so ugly it was an eyesore, the Stinger move animation is so bad, guns are overpowered and there's a boss fight that is just a helicopter you shoot at",
+            "url": "/img/Devil May Cry 2.jpg"
         }
     ],
     "2002": [
@@ -1983,16 +1896,37 @@
             "beaten": 1,
             "comment": "The only 3D Mario platformer I hadn't played and well, I don't like it. Collision detection can be naff and fall through moving objects but the summer vibe is really nice",
             "url": "/img/Super Mario Sunshine.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "2001": [
+        {
+            "title": "Dynasty Warriors 3",
+            "score": 7,
+            "beaten": "Lost count",
+            "comment": "One of the games of my youth. Put hundreds of hours into it. Guan Yu was the best",
+            "url": "/img/Dynasty Warriors 3.jpg"
+        },
+        {
+            "title": "Devil May Cry",
+            "score": 6,
+            "beaten": 2,
+            "comment": "My first Kamiya game, who knew back then he would have such a presence as his career went on. Fun but very basic compared to the modern games that diverted from the serious tone. The underwater sections also suck",
+            "url": "/img/Devil May Cry.jpg"
+        },
+        {
+            "title": "Final Fantasy X",
+            "score": 5,
+            "beaten": 1,
+            "comment": "A crazy foundation for a setting in an RPG and a nice turn-based combat system that does away with the ATB. Awful dungeons too. But something kept me going back and I don't know why",
+            "url": "/img/Final Fantasy X.jpg"
+        },
+        {
+            "title": "Luigi's Mansion",
+            "score": 5,
+            "beaten": 1,
+            "comment": "A short charming game but so much backtracking. The boo names were really funny such as GameBoo Advance but was very basic as a whole",
+            "url": "/img/Luigi's Mansion.jpg"
+        },
         {
             "title": "Halo",
             "score": 5,
@@ -2010,6 +1944,13 @@
     ],
     "2000": [
         {
+            "title": "Dark Cloud",
+            "score": 9,
+            "beaten": 1,
+            "comment": "A perfect game for the summer. Charming and full of soul. I remember losing my mind when I realised I was no longer building a town but a Sun God Mecha. I loved it so much I made a Dark Cloud x Pacific Rim video",
+            "url": "/img/Dark Cloud.jpg"
+        },
+        {
             "title": "Final Fantasy IX",
             "score": 8,
             "beaten": 2,
@@ -2024,18 +1965,11 @@
             "url": "/img/Diablo 2.jpg"
         },
         {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
+            "title": "Banjo Tooie",
+            "score": 4,
+            "beaten": 2,
+            "comment": "A childhood classic that upon playing again realise it absolutely sucks. So much backtracking and padded out time due to unecessary obsfucation. I remember my brother watching me beat the final boss when I was about 8",
+            "url": "/img/Banjo Tooie.jpg"
         }
     ],
     "1999": [
@@ -2045,16 +1979,16 @@
             "beaten": 1,
             "comment": "",
             "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "1998":[
+        {
+            "title": "Banjo Kazooie",
+            "score": 10,
+            "beaten": 4,
+            "comment": "One of my childhood games that still holds up to this very day. A blast from start to finish and the quiz at the end shows how proud the developers are of their level and sound design, better than Super Mario 64 for sure",
+            "url": "/img/Banjo Kazooie.jpg"
+        },
         {
             "title": "Half-Life",
             "score": 8,
@@ -2098,20 +2032,6 @@
             "beaten": 1,
             "comment": "A seriously hard game I played as part of Rare Replay and egged on by a friend. It still had some elements of Rares charm and a good destruction engine for a N64 game but it is very basic",
             "url": "/img/Blast Corps.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "1996": [
@@ -2121,20 +2041,6 @@
             "beaten": 1,
             "comment": "Asked my friend what SNES game to play, he said this, had a blast, never doubted him since. Geno for Smash",
             "url": "/img/Super Mario RPG.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "1995": [
@@ -2151,20 +2057,6 @@
             "beaten": 1,
             "comment": "A super charming RPG that I've tried multiple times but finally finished for the first time. It's nice to have a prison breakout sequence not last 5 hours in a game",
             "url": "/img/Chrono Trigger.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "1994": [
@@ -2188,20 +2080,6 @@
             "beaten": 1,
             "comment": "A good sidescroller I played on the SNES classic that thankfully isn't as punishing as the previous Ghosts n Goblins entries, I did not get the true ending as I missed some collectibles",
             "url": "/img/Demon's Crest.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "1993": [
@@ -2211,36 +2089,15 @@
             "beaten": 1,
             "comment": "Played this alongside a buddy and it got very grind heavy and was kind of obtuse in design that almost felt like it required a Nintendo Power magazine but even back then DQ had charm",
             "url": "/img/Dragon Quest.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "1992": [
         {
-            "title": "Dark",
-            "score": 2,
+            "title": "Street Fighter II",
+            "score": 7,
             "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
+            "comment": "One of the first games I remember playing, my familys SNES console box has this on it which is cute but I remember thinking it was too hard for my 5 year old tiny hands",
+            "url": "/img/Street Fighter II.jpg"
         }
     ],
     "1991": [
@@ -2257,13 +2114,6 @@
             "beaten": 1,
             "comment": "After about 10 attempts I finally finished it. Awful overworld music but the dungeons often making use of the outside world was really cool. It's a shame this set out the blueprint for Zelda games until Breath of the Wild",
             "url": "/img/The Legend of Zelda Link to the Past.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "1990": [
@@ -2273,23 +2123,9 @@
             "beaten": 1,
             "comment": "",
             "url": "/img/Dark.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "1989": [
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        },
         {
             "title": "Dark",
             "score": 2,
