@@ -496,7 +496,7 @@
             "url": "/img/A Way Out.jpg"
         },
         {
-            "title": "Valkyria Chronicles 4",
+            "title": "Valkyria Chronicles IV",
             "score": 5,
             "beaten": 1,
             "comment": "One of my major disappointments after waiting so long for a proper VC sequel and I think that's because the main cast were incredibly tropey, dumb and the main character had no qualities other than some magic weather prediction",
@@ -1224,6 +1224,13 @@
             "url": "/img/Wasteland 2.jpg"
         },
         {
+            "title": "Tearaway Unfolded",
+            "score": 4,
+            "beaten": 1,
+            "comment": "The vita version got praise so I invested in the PS4 version and found it to be a miserable time. Too many hardware features designed for the game were not replicated well when porting over and it was far too basic",
+            "url": "/img/Tearaway Unfolded.jpg"
+        },
+        {
             "title": "Fallout 4",
             "score": 3,
             "beaten": 1,
@@ -1255,11 +1262,11 @@
             "url": "/img/Donkey Kong Country Tropical Freeze.jpg"
         },
         {
-            "title": "Halo (MCC)",
+            "title": "The Wolf Among Us",
             "score": 7,
-            "beaten": 2,
-            "comment": "First time playing solo and I was able to appreciate the game more but so many of the levels had repeated level design which in the end did more me a lot. And the flood can do one",
-            "url": "/img/Halo.jpg"
+            "beaten": 1,
+            "comment": "Definitely enjoyed the character designs from the Fables world but the release of each chapter dragged on too long where it became apparent the story was being changed based on the fanbase accurate predictions",
+            "url": "/img/The Wolf Among Us.jpg"
         },
         {
             "title": "Captain Toad",
@@ -1281,6 +1288,13 @@
             "beaten": 1,
             "comment": "After Bastion, Supergiant have set their motif for their games. Interesting worlds, great visuals and stellar music from Darren Korb. Yet the story in Transistor and the gameplay did nothing for me",
             "url": "/img/Transistor.jpg"
+        },
+        {
+            "title": "The Walking Dead Season 2",
+            "score": 6,
+            "beaten": 1,
+            "comment": "By now, this choice affecting your outcome wore thin as immediately in the next chapter, that choice wouldn't matter. The new cast were not as good as season 1",
+            "url": "/img/The Walking Dead Season 2.jpg"
         },
         {
             "title": "Fable (Anniversary)",
@@ -1449,6 +1463,13 @@
             "url": "/img/Virtues Last Reward.jpg"
         },
         {
+            "title": "The Walking Dead Season 1",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Lee and Clem were a great duo that set in motion the man/girl duo genre we see in TLOU and Bioshock Infinite. At the time it was quite groundbreaking but people, including me, have come down on it",
+            "url": "/img/The Walking Dead.jpg"
+        },
+        {
             "title": "Dragons Dogma",
             "score": 8,
             "beaten": 2,
@@ -1462,7 +1483,13 @@
             "comment": "The added content is honestly quite bad and I don't like the new voice acting cast as much but Persona 4 is still a game worth playing for the mystery Scooby Doo adventure and music. Naoto is best girl",
             "url": "/img/Persona 4 Golden.jpg"
         },
-
+        {
+            "title": "Fire Emblem Awakening",
+            "score": 7,
+            "beaten": 1,
+            "comment": "My first Fire Emblem game and I was showing it to my friend in hospital at the time. Some really cool voice lines such as 'Pick a god and pray!' when getting a critical hit",
+            "url": "/img/Fire Emblem Awakening.jpg"
+        },
         {
             "title": "Diablo 3",
             "score": 5,
@@ -1627,6 +1654,13 @@
             "beaten": "2",
             "comment": "A game that's hard to tell the tone the developers were going for. It attempts to be serious yet many moments are oddly comical due to animations and quite absurd situations. Ridiculous levels of next-gen lens flares but the film aeshetic can be nice",
             "url": "/img/Kane & Lynch 2.jpg"
+        },
+        {
+            "title": "Valkyria Chronicles II",
+            "score": 3,
+            "beaten": 1,
+            "comment": "The worst sequel to a great game since DMC2, and I blame it on the devs targeting the PSP demographic and trying to appeal to a female audience, but I don't understand why",
+            "url": "/img/Valkyria Chronicles 2.jpg"      
         }
     ],
     "2009": [
@@ -1681,13 +1715,19 @@
         }
     ],
     "2008": [
-
         {
             "title": "Viva Pinata TIP",
             "score": 8,
             "beaten": 2,
             "comment": "Merging them as one as I played them together. Great games that fills a niche for me which is garden raising, normally I hate that genre. Great designs, music, discovery and a nice fast pace to growth, unlike Animal Crossing",
             "url": "/img/Viva Pinata.jpg"
+        },
+        {
+            "title": "Valkyria Chronicles",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Played for the art style, stayed for really interesting combat system and strong characters. Not too anime compared to the future titles. VEGETABLES!",
+            "url": "/img/Valkyria Chronicles.jpg"      
         },
         {
             "title": "Dead Space",
@@ -1720,6 +1760,13 @@
     ],
     "2007": [
         {
+            "title": "The Witcher",
+            "score": 8,
+            "beaten": 2,
+            "comment": "A game I struggled to fall in love with, but when I did, I fell in love with the slavic folklore, the music,the autumn colour palette and the mini-games. I remember my dad buying me this in Tesco cos of the cool cover",
+            "url": "/img/The Witcher.jpg"
+        },
+        {
             "title": "Stalker Shadow of Chernobyl",
             "score": 7,
             "beaten": 1,
@@ -1746,13 +1793,6 @@
             "beaten": 2,
             "comment": "Played with my Xbox obsessed friend and the hardest difficulty and that still irks me. I dont know what is so appealing about Halo to people but good for them I guess, it didn't do anything for me",
             "url": "/img/Halo 3.jpg"
-        },
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
         }
     ],
     "2006": [
@@ -1762,6 +1802,13 @@
             "beaten": 2,
             "comment": "One of my absolute favourite games from one of my favourite game directors. A beautiful stylized Japanese game which started my love for Yokai. A unique combat system with a great story, funny side characters and a deeply interactive world",
             "url": "/img/Okami HD.jpg"
+        },
+        {
+            "title": "Elite Beat Agents",
+            "score": 9,
+            "beaten": "Lost count",
+            "comment": "One of the absolute best DS games. A punk soundtrack with some classics on there too. Great humour and I always appreciate a game where failing is still exciting. Hate the DS stylus and the wheel spin sections though",
+            "url": "/img/Elite Beat Agents.jpg"
         },
         {
             "title": "Viva Pinata",
@@ -1899,6 +1946,13 @@
         }
     ],
     "2001": [
+        {
+            "title": "Halo",
+            "score": 7,
+            "beaten": 2,
+            "comment": "Played it solo and I was able to appreciate the game more but so many of the levels had repeated level design which in the end did more me a lot. And the flood can bugger off even if it is a fascinating story element",
+            "url": "/img/Halo.jpg"
+        },
         {
             "title": "Dynasty Warriors 3",
             "score": 7,
