@@ -1528,6 +1528,13 @@
             "beaten": 1,
             "comment": "To this day the only Far Cry game I have finished because it's short, the writing peaks at the start then becomes annoying so I am glad it was short",
             "url": "/img/Far Cry Blood Dragon.jpg"
+        },
+        {
+            "title": "Gone Home",
+            "score": 4,
+            "beaten": 1,
+            "comment": "A game that would have been better without all the dialogue spelling out what you are seeing instead of discovering it on your own. And when that's the game, I wonder why they would chose to write it out",
+            "url": "/img/Gone Home.jpg"
         }
     ],
     "2012": [
@@ -1546,6 +1553,13 @@
             "url": "/img/Virtues Last Reward.jpg"
         },
         {
+            "title": "Spelunky",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Addictive roguelike and one of the few I actually like. Enough creative option to make running through a continous learning experience. Good art, sound effects and percise controls",
+            "url": "/img/Spelunky.jpg"
+        },
+        {
             "title": "The Walking Dead Season 1",
             "score": 6,
             "beaten": 1,
@@ -1558,6 +1572,13 @@
             "beaten": 2,
             "comment": "Finally ported to PC and a good port too! Really fun unique classes for a JRPG and the pawn system is rad. Wish it was a bit more free when it comes to classes but the upcoming sequel could be a 10",
             "url": "/img/Dragons Dogma.jpg"
+        },
+        {
+            "title": "Journey",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Beautiful music and scenery and creative online implemenations but I had played it solo, maybe something was lost there. The story presented is nothing meaningful and I would prefer it without cutscenes",
+            "url": "/img/Journey.jpg"
         },
         {
             "title": "Monster Hunter 3 Ultimate",
@@ -1595,6 +1616,13 @@
             "url": "/img/Gravity Rush.jpg"
         },
         {
+            "title": "Spec Ops: The Line",
+            "score": 6,
+            "beaten": 1,
+            "comment": "A good FPS on the 360/ps3 which became quite rare due to all the cod clones. This takes a harsher look at war but the turning point for characters is extremely obvious to you as a player yet you are forced to do it",
+            "url": "/img/Spec Ops The Line.jpg"
+        },
+        {
             "title": "Dust: An Elysian Tail",
             "score": 5,
             "beaten": 1,
@@ -1621,6 +1649,13 @@
             "beaten": 3,
             "comment": "Played with a buddy and while starting off strong and having a good pet and fish system, having many skills with 2+minute cooldown really annoyed me, and levelling was slow",
             "url": "/img/Torchlight 2.jpg"
+        },
+        {
+            "title": "Borderlands 2",
+            "score": 4,
+            "beaten": 2,
+            "comment": "I've played this game twice and each time I find a new thing to hate about it. The worst co-op experience cos you can't listen to podcasts or watch a film while suffering. The Moxxi slot machines were fun though",
+            "url": "/img/Borderlands 2.jpg"
         }
     ],
     "2011": [
@@ -1630,6 +1665,13 @@
             "beaten": "Lost count",
             "comment": "At first it felt like a downgrade from Demon's Souls but overtime I came to love it more. ",
             "url": "/img/Dark Souls.jpg"
+        },
+        {
+            "title": "LittleBigPlanet 2",
+            "score": 8,
+            "beaten": 1,
+            "comment": "An excellent sequel that lets you create games, not just 2D platformer levels. Stephen Fry returns which is delightful. I burned out quickly because it did feel a bit too similar. Good music choices too",
+            "url": "/img/LittleBigPlanet 2.jpg"      
         },
         {
             "title": "Deus Ex Human Revolution",
@@ -1667,11 +1709,25 @@
             "url": "/img/RAGE.jpg"
         },
         {
+            "title": "Skyrim",
+            "score": 6,
+            "beaten": 1,
+            "comment": "I had no interest in the game until my Minecraft buddy kept talking it up and I fell for it. While I was immediately hooked, I hate the combat and animations in third person. Charming a mammoth to fight a mammoth was cool though, but limited to once a day",
+            "url": "/img/Skyrim.jpg"
+        },
+        {
             "title": "Serious Sam 3",
             "score": 5,
             "beaten": 2,
             "comment": "A disappointment for a long time Serious Sam fan but I did a 32 player co-op session which had me laughing constantly",
             "url": "/img/Serious Sam 3.jpg"
+        },
+        {
+            "title": "Ni No Kuni",
+            "score": 5,
+            "beaten": 1,
+            "comment": "I bought a new TV for this and while it looked great and the concept was great, fighting was a miserable experience. I generally enjoyed the monster designs and the open world element. Joe Hisashi's music was also incredible",
+            "url": "/img/Ni No Kuni.jpg"
         },
         {
             "title": "Renegade Ops",
@@ -1746,6 +1802,13 @@
             "url": "/img/Super Mario Galaxy 2.jpg"
         },
         {
+            "title": "Donkey Kong Country Returns",
+            "score": 8,
+            "beaten": 2,
+            "comment": "An incredible return to form for the ape. Good music and world themes but lacks the David Wise. Quite difficult. Great final secret level. Waggle to roll is annoying long term but did feel responsive",
+            "url": "/img/Donkey Kong Country Returns.jpg"
+        },
+        {
             "title": "Nier",
             "score": 7,
             "beaten": 2,
@@ -1765,6 +1828,13 @@
             "beaten": 1,
             "comment": "A brutal platformer that started off a trend for hardcore 2D games. I thought it's music was great but overtime it's been tarnished with re-releases that are worse in terms of art direction and music",
             "url": "/img/Super Meat Boy.jpg"
+        },
+        {
+            "title": "Call of Duty Black Ops",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Tell me about the numbers! I applaud Treyarch for doing ambitious branching elements to the story that mostly went unnoticed but aside from that level playing 'It Aint Me' I don't remember anything",
+            "url": "/img/Call of Duty Black Ops.jpg"
         },
         {
             "title": "Halo Reach",
@@ -1825,6 +1895,13 @@
             "url": "/img/Pokemon Heart Gold.jpg"
         },
         {
+            "title": "Killzone 2",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Played multiplayer a lot with Digital Spy guys but fell off the game and that forum quite quickly. The match type that rotates game modes was really clever. Movement felt very sluggish.",
+            "url": "/img/Killzone 2.jpg"
+        },
+        {
             "title": "Uncharted 2",
             "score": 6,
             "beaten": 2,
@@ -1851,6 +1928,13 @@
             "beaten": 1,
             "comment": "One of the first games I bought DLC for. I liked to play new music I got for a while on this game but it didn't vary the game all that much and most of the time you were shooting at junk in space",
             "url": "/img/Beat Hazard.jpg"
+        },
+        {
+            "title": "Borderlands",
+            "score": 4,
+            "beaten": 3,
+            "comment": "I've played this game three times and I hate it. Why have I played it three times? I don't know! I like to suffer in my misery. Why do all guns suck and barely have a difference, why is Claptrap so annoying. Wish I knew",
+            "url": "/img/Borderlands.jpg"
         }
     ],
     "2008": [
@@ -1867,6 +1951,13 @@
             "beaten": 1,
             "comment": "Played for the art style, stayed for really interesting combat system and strong characters. Not too anime compared to the future titles. VEGETABLES!",
             "url": "/img/Valkyria Chronicles.jpg"      
+        },
+        {
+            "title": "LittleBigPlanet",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Dad kindly went back into Tesco to see if they had it and they did. Think cos my friend was with me it guilt tripped him. Very fond memories of Will Smith, H4H, instant death, slapping friends and my first ever platinum",
+            "url": "/img/LittleBigPlanet.jpg"      
         },
         {
             "title": "Dead Space",
@@ -2045,6 +2136,13 @@
             "url": "/img/Paper Mario The Thousand-Year Door.jpg"
         },
         {
+            "title": "Burnout 3",
+            "score": 9,
+            "beaten": 2,
+            "comment": "The best racing game, of all time. Not a dumb ugly sim, no slot machines. Just pure adrenaline fueled racing where traffic is a threat. Wish it emulated well or was on Xbox BC cos some levels are an eyesore",
+            "url": "/img/Burnout 3.jpg"
+        },
+        {
             "title": "Halo 2",
             "score": 6,
             "beaten": 1,
@@ -2067,6 +2165,13 @@
         }
     ],
     "2003": [
+        {
+            "title": "Ratchet and Clank Going Commando",
+            "score": 8,
+            "beaten": 1,
+            "comment": "This is probably where the Ratchet formula gets locked and the speed gets upped a lot. Weapon levels, skill points are new and continue to modern Ratchet. Some fun levels where you fight as Godzilla sized Clank",
+            "url": "/img/Ratchet and Clank Going Commando.jpg"
+        },
         {
             "title": "Dynasty Warriors 4",
             "score": 6,
@@ -2156,11 +2261,11 @@
             "url": "/img/Halo.jpg"
         },
         {
-            "title": "Dark",
-            "score": 2,
+            "title": "Ico",
+            "score": 4,
             "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
+            "comment": "Does this deserve a 10 because Miyazaki would not have given us Demon's/Dark/Bloodborne? Probably. But for 2001, this game is probably special, I played it in 2015ish and hated it. Last game I got from Blockbuster. RIP",
+            "url": "/img/Ico.jpg"
         }
     ],
     "2000": [
@@ -2262,9 +2367,23 @@
             "beaten": 1,
             "comment": "Asked my friend what SNES game to play, he said this, had a blast, never doubted him since. Geno for Smash",
             "url": "/img/Super Mario RPG.jpg"
+        },
+        {
+            "title": "Donkey Kong Country 3",
+            "score": 5,
+            "beaten": 1,
+            "comment": "I hate Kiddy Kong, or whatever his dumb ugly name is. It's gone one step further away from Donkey Kong. I wonder if Nintendo hate Rare for making so many ugly Kongs",
+            "url": "/img/Donkey Kong Country 3.jpg"
         }
     ],
     "1995": [
+        {
+            "title": "Chrono Trigger",
+            "score": 9,
+            "beaten": 1,
+            "comment": "A super charming RPG that I've tried multiple times but finally finished for the first time. It's nice to have a prison breakout sequence not last 5 hours in a game",
+            "url": "/img/Chrono Trigger.jpg"
+        },
         {
             "title": "Tetris Attack",
             "score": 8,
@@ -2273,11 +2392,11 @@
             "url": "/img/Tetris Attack.jpg"
         },
         {
-            "title": "Chrono Trigger",
-            "score": 9,
+            "title": "Donkey Kong Country 2",
+            "score": 7,
             "beaten": 1,
-            "comment": "A super charming RPG that I've tried multiple times but finally finished for the first time. It's nice to have a prison breakout sequence not last 5 hours in a game",
-            "url": "/img/Chrono Trigger.jpg"
+            "comment": "I weirdly prefer the first game which is an upopular opinion, but if I can't play as Donkey Kong, it aint a true Donkey Kong game! A bit too many secrets but meaty in content",
+            "url": "/img/Donkey Kong Country 2.jpg"
         }
     ],
     "1994": [
@@ -2337,22 +2456,13 @@
             "url": "/img/The Legend of Zelda Link to the Past.jpg"
         }
     ],
-    "1990": [
+    "1987": [
         {
-            "title": "Dark",
-            "score": 2,
+            "title": "Final Fantasy",
+            "score": 7,
             "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
-        }
-    ],
-    "1989": [
-        {
-            "title": "Dark",
-            "score": 2,
-            "beaten": 1,
-            "comment": "",
-            "url": "/img/Dark.jpg"
+            "comment": "I played the PSP port and that held up. It is extremely basic in the good way and played it on my Vita while watching Modern Family. Matoya's Cave music is one of my favourites still",
+            "url": "/img/Final Fantasy.jpg"
         }
     ]
 }
