@@ -1269,11 +1269,25 @@
             "url": "/img/The Wolf Among Us.jpg"
         },
         {
+            "title": "Bayonetta 2",
+            "score": 7,
+            "beaten": 2,
+            "comment": "A solid sequel even without Kamiya. Amazon messed up so I got the bundle including Bayo 1 for no extra charge. Good Nintendo costumes and nice to have vibrant colours compared to the first",
+            "url": "/img/Bayonetta 2.jpg"
+        },
+        {
             "title": "Captain Toad",
             "score": 6,
             "beaten": 1,
             "comment": "Adapts a Mario Galaxy level into it's own full game with boss fight and it somehow works, despite having a platformer with no jump ability. Beautiful diorama levels",
             "url": "/img/Captain Toad.jpg"
+        },
+        {
+            "title": "South Park The Stick of Truth",
+            "score": 6,
+            "beaten": 1,
+            "comment": "The most faithful adaptation of a cartoon to a video game I have ever seen. Often feels like South Park at it's best but often seems crude for the sake of it",
+            "url": "/img/South Park The Stick of Truth.jpg"
         },
         {
             "title": "Dark Souls II",
@@ -1297,13 +1311,6 @@
             "url": "/img/The Walking Dead Season 2.jpg"
         },
         {
-            "title": "Fable (Anniversary)",
-            "score": 6,
-            "beaten": 1,
-            "comment": "I remember when I jokingly spelld out 'shit' instead of 'this' and the game mocked me for it. Truly a sign of a good game and hope the new Fable has the same cozy atmosphere",
-            "url": "/img/Fable.jpg"
-        },
-        {
             "title": "Dynasty Warriors 8 XL",
             "score": 6,
             "beaten": 1,
@@ -1317,7 +1324,13 @@
             "comment": "Playing this after OS2 did feel like a downgrade but the jolly specific co-op mechanics were unique and did make the playthrough fun, it's debuff system was quite RNG which is kind of annoying",
             "url": "/img/Divinity Original Sin.jpg"
         },
-        
+        {
+            "title": "Strider",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Never played a Strider game before but something about this appealed to me and I had a good time. Controls were responsive but level design was very basic",
+            "url": "/img/Strider.jpg"
+        },   
         {
             "title": "Metro Last Light Redux",
             "score": 6,
@@ -1331,7 +1344,14 @@
             "beaten": 2,
             "comment": "Not as bad as I remember it as Gen 3 has some real good routes but the art design is awful and it didn't bother to include the great post-game of Emerald despite releasing 10 years later",
             "url": "/img/Pokemon Alpha Sapphire.jpg"
-        },        
+        }, 
+        {
+            "title": "Child of Light",
+            "score": 6,
+            "beaten": 2,
+            "comment": "Ubi-art engine makes a name for itself here and I liked this era of Ubisoft with Valiant Hearts and what not. It was a very basic game but I did like the music and the polite vibes",
+            "url": "/img/Child of Light.jpg"
+        },         
         {
             "title": "Sunset Overdrive",
             "score": 5,
@@ -1368,6 +1388,34 @@
             "beaten": 2,
             "comment": "The ending to this game absolutely blew me away. I remember telling my friend about it in town and was screaming how good it was. What a game, and to get it before US to avoid spoilders was great",
             "url": "/img/The Wonderful 101 Remastered.jpg"
+        },
+        {
+            "title": "Metal Gear Rising",
+            "score": 8,
+            "beaten": 1,
+            "comment": "A crazy action game that is absurdly funny with the most ridiculous metal music set to insane boss fights. Sadly boss fights do all have a lull to them where action slows but the cutting up anything to tiny bits mechanic is great",
+            "url": "/img/Metal Gear Rising.jpg"
+        },
+        {
+            "title": "Brothers A Tale of Two Sons",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Josef Farez abandons films for video games and I am super happy he did. A really fun world to be in with a very good ending. Controlling 2 people with 1 guy wasn't as complex as it could be thanks to the basic but fun puzzle designs",
+            "url": "/img/Brothers A Tale of Two Sons.jpg"
+        },
+        {
+            "title": "Sonic Racing Transformed",
+            "score": 7,
+            "beaten": 1,
+            "comment": "A solid racing game that has a better roster than MK8. Somehow TF2 and the Football Manager manager guy are playable. Great paths, music and a enthusiastic voice actor",
+            "url": "/img/Sonic Racing Transformed.jpg"
+        },
+        {
+            "title": "Super Mario 3D World",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Bought during the midnight release of the PS4 at Grainer Games (RIP). It felt like a step back from Galaxy 2 in terms of ambition but the level design was often cheeky and some boss fights were good. The ending is cool too",
+            "url": "/img/Super Mario 3D World.jpg"
         },
         {
             "title": "Grand Theft Auto V",
@@ -1412,6 +1460,13 @@
             "url": "/img/The Legend of Zelda Link Between Worlds.jpg"
         },
         {
+            "title": "One Piece: Unlimited World Red",
+            "score": 7,
+            "beaten": 1,
+            "comment": "I was not able to get into the Unlimited Wii games but this one did pull me in because of the strength of the villain and it wasn't on a Wii, that also helps",
+            "url": "/img/One Piece Unlimited World Red.jpg"
+        },
+        {
             "title": "Gears of War Judgement",
             "score": 6,
             "beaten": 1,
@@ -1424,6 +1479,13 @@
             "beaten": 1,
             "comment": "A low budget action game that I played as a meme. It's surprisingly great and I remember thinking the weapons were quite unique but the puzzles all felt like filler",
             "url": "/img/Marlow Briggs.jpg"
+        },        
+        {
+            "title": "Rayman Legends",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Played with a buddy and while I do think it is better than the original due to the really neat music based levels, the actual level aesthetics is still poor compared to Rayman 1 and I don't like the side characters you can also play as",
+            "url": "/img/Rayman Legends.jpg"
         },
         {
             "title": "Saints Row The Third",
@@ -1431,6 +1493,27 @@
             "beaten": 1,
             "comment": "Kanye Wests Power is a real banger of a tune but he's done nothing good since. Much like Saints Row",
             "url": "/img/Saints Row The Third.jpg"
+        },
+        {
+            "title": "Bioshock Infinite",
+            "score": 5,
+            "beaten": 1,
+            "comment": "One of the biggest divides between critic and user scores. Limiting to 2 guns felt very Call of Duty and it felt so afraid of really diving into the racism tones of the story as it stops being a factor almost immediately. One of the best jump scares",
+            "url": "/img/Bioshock Infinite.jpg"
+        },
+        {
+            "title": "The Incredible Adventures of Van Helsing",
+            "score": 5,
+            "beaten": 2,
+            "comment": "I enjoyed this a bit solo but then played it with a buddy. I had a Chicagotown pizza and it gave me food poisoning for the first ever time. I did not feel so good about the game after",
+            "url": "/img/The Incredible Adventures of Van Helsing.jpg"
+        },
+        {
+            "title": "Tomb Raider",
+            "score": 5,
+            "beaten": 1,
+            "comment": "A heavily scripted action adventure game that tries to be as Uncharted as possible. Brutal death animations are the only highlight I remember but everything felt too explosive to let you soak in the adventure",
+            "url": "/img/Tomb Raider.jpg"
         },
         {
             "title": "Saints Row IV",
@@ -1477,6 +1560,13 @@
             "url": "/img/Dragons Dogma.jpg"
         },
         {
+            "title": "Monster Hunter 3 Ultimate",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Finally I have been sold on Monster Hunter and all it took was it to not be portable and not look like garbage. I fell in love with the hammer and whacking monsters' heads",
+            "url": "/img/Monster Hunter 3 Ultimate.jpg"
+        },
+        {
             "title": "Persona 4 Golden",
             "score": 7,
             "beaten": 1,
@@ -1484,11 +1574,32 @@
             "url": "/img/Persona 4 Golden.jpg"
         },
         {
+            "title": "Sleeping Dogs",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Imagine open world Yakuza set in China. Wei Shen is a great protag and the character dynamics made for a great story. Good combat system and somehow even had Emma Stone in the game",
+            "url": "/img/Sleeping Dogs.jpg"
+        },
+        {
             "title": "Fire Emblem Awakening",
             "score": 7,
             "beaten": 1,
             "comment": "My first Fire Emblem game and I was showing it to my friend in hospital at the time. Some really cool voice lines such as 'Pick a god and pray!' when getting a critical hit",
             "url": "/img/Fire Emblem Awakening.jpg"
+        },
+        {
+            "title": "Gravity Rush",
+            "score": 6,
+            "beaten": 1,
+            "comment": "A game that is incredibly unique in terms of it's gameplay, world and music, yet I found it quite miserable to slog through due to the camera in heavy gavity justing moments. Kat is a great protagonist",
+            "url": "/img/Gravity Rush.jpg"
+        },
+        {
+            "title": "Dust: An Elysian Tail",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Friend gifted to me and it had a move that let you rack up 99+ combos very easily and I spammed it a lot. Very furry character designs but it was decent for one of my first Metroidvanias",
+            "url": "/img/Dust An Elysian Tail.jpg"
         },
         {
             "title": "Diablo 3",
@@ -1563,13 +1674,6 @@
             "url": "/img/Serious Sam 3.jpg"
         },
         {
-            "title": "Uncharted 3",
-            "score": 5,
-            "beaten": 1,
-            "comment": "Pre-ordered and beat it in 1 night. Remember telling a Uni guy it sucked and he immediately seemed to want nothing more to do with me. Whole plot revolved around Nathan Drakes real name with no outcome",
-            "url": "/img/Uncharted.jpg"
-        },
-        {
             "title": "Renegade Ops",
             "score": 5,
             "beaten": 1,
@@ -1589,6 +1693,20 @@
             "beaten": 3,
             "comment": "Played with a buddy again and I still don't feel it. The robot designs are really great and the levels are complex but it's just dull",
             "url": "/img/Portal 2.jpg"
+        },
+        {
+            "title": "Rayman Origins",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Tried solo and dropped, played with a buddy and finished it. Still don't like it as a whole, very annoying sound effects and level design doesn't vary. I enjoy the Ubi-Art engine but think it doesn't suit the vibe of Rayman. Great intro cutscene",
+            "url": "/img/Rayman Origins.jpg"
+        },
+        {
+            "title": "Uncharted 3",
+            "score": 4,
+            "beaten": 1,
+            "comment": "Pre-ordered and beat it in 1 night. Remember telling a Uni guy it sucked and he immediately seemed to want nothing more to do with me. Whole plot revolved around Nathan Drakes real name with no outcome",
+            "url": "/img/Uncharted 3.jpg"
         },
         {
             "title": "Earth Defense Force Insect Armageddon",
@@ -1614,10 +1732,17 @@
             "url": "/img/Pokemon White.jpg"
         },
         {
+            "title": "Xenoblade Chronicles",
+            "score": 9,
+            "beaten": 2,
+            "comment": "What Monolith Soft accomplished on the Wii is a miracle compared to our Japanese devs were messing up on more powerful hardware. Scale, story, music, characters, and the British voice acting. It had it all",
+            "url": "/img/Xenoblade Chronicles.jpg"
+        },
+        {
             "title": "Super Mario Galaxy 2",
             "score": 8,
             "beaten": 1,
-            "comment": "Yoshi returns and I don't want to say that immediately makes it better than the first but it kinda does",
+            "comment": "Yoshi returns and I don't want to say that immediately makes it better than the first but it kinda does. The boss fights were rad but the final boss fight like most Mario games, is just the same fight with Bowser again",
             "url": "/img/Super Mario Galaxy 2.jpg"
         },
         {
@@ -1633,6 +1758,13 @@
             "beaten": 1,
             "comment": "A game I finished to simply cross off a classic, a classic I tried playing back in 2010 and hated it. I still kind of do since it does feel like an empty desert so many times but I did grow to like the characters and world",
             "url": "/img/Red Dead Redemption.jpg"
+        },
+        {
+            "title": "Super Meat Boy",
+            "score": 6,
+            "beaten": 1,
+            "comment": "A brutal platformer that started off a trend for hardcore 2D games. I thought it's music was great but overtime it's been tarnished with re-releases that are worse in terms of art direction and music",
+            "url": "/img/Super Meat Boy.jpg"
         },
         {
             "title": "Halo Reach",
@@ -1712,6 +1844,13 @@
             "beaten": 2,
             "comment": "Bought this on sale in GAME for about a tenner and still wish I got more value. My first DW empires game and probably the last one I play",
             "url": "/img/Dynasty Warriors 6 Empires.jpg"
+        },
+        {
+            "title": "Beat Hazard",
+            "score": 6,
+            "beaten": 1,
+            "comment": "One of the first games I bought DLC for. I liked to play new music I got for a while on this game but it didn't vary the game all that much and most of the time you were shooting at junk in space",
+            "url": "/img/Beat Hazard.jpg"
         }
     ],
     "2008": [
@@ -1760,11 +1899,25 @@
     ],
     "2007": [
         {
+            "title": "Call of Duty 4",
+            "score": 9,
+            "beaten": "Lost count",
+            "comment": "Absorbed my life for 3 years and I refused to move onto WAW or MW2 or Blops. I wish the multiplayer was a smoother experience as PS3 owners had 'DOWNLOADING GAME SETTINGS' constantly. Some iconic single player levels too without going edgy like the next CoDs",
+            "url": "/img/Call of Duty 4.jpg"
+        },
+        {
             "title": "The Witcher",
             "score": 8,
             "beaten": 2,
             "comment": "A game I struggled to fall in love with, but when I did, I fell in love with the slavic folklore, the music,the autumn colour palette and the mini-games. I remember my dad buying me this in Tesco cos of the cool cover",
             "url": "/img/The Witcher.jpg"
+        },
+        {
+            "title": "Bioshock",
+            "score": 8,
+            "beaten": 2,
+            "comment": "A unique setting, great enemy designs, incredible use of lighting and physics with your magic powers. The game popularised audio logs which I now hate and some parts such as the final boss are real dumb but I thought this game in 2007 was incredible",
+            "url": "/img/Bioshock.jpg"
         },
         {
             "title": "Stalker Shadow of Chernobyl",
@@ -1862,6 +2015,13 @@
             "url": "/img/Resident Evil 4.jpg"
         },
         {
+            "title": "Rogue Galaxy",
+            "score": 8,
+            "beaten": 1,
+            "comment": "CheckedIGN and saw trailers for this. With my friend at my house, asked my dad to take me to Blockbuster to get it, leaving my friend in my room alone for some reason... I remember listening to Take That - Stardust during the 100 floor dungeon. Insect and factory mini-games were so fun",
+            "url": "/img/Rogue Galaxy.jpg"
+        },
+        {
             "title": "Dynasty Warriors 5",
             "score": 6,
             "beaten": 1,
@@ -1890,6 +2050,13 @@
             "beaten": 1,
             "comment": "At the time when playing in co-op, it was my favourite Halo game and might still be when I play it solo... eventually. Duel-weilding guns was great and the level design I remembered being good",
             "url": "/img/Halo 2.jpg"
+        },
+        {
+            "title": "Fable",
+            "score": 6,
+            "beaten": 1,
+            "comment": "I remember when I jokingly spelld out 'shit' instead of 'this' and the game mocked me for it. Truly a sign of a good game and hope the new Fable has the same cozy atmosphere",
+            "url": "/img/Fable.jpg"
         },
         {
             "title": "Onimusha 3",
