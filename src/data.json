@@ -1246,13 +1246,19 @@
         }
     ],
     "2014":[
-
         {
             "title": "The Talos Principle",
             "score": 8,
             "beaten": 1,
             "comment": "One of the best puzzle games I have played and despite having a story with heavy religious and philisophical elements, there is no answer forced onto you, only for you to question everything and have doubts and accept that that is okay.",
             "url": "/img/The Talos Principle.jpg"
+        },
+        {
+            "title": "Theatrhythm Final Fantasy: Curtain Call",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Now that I like FF games, I discovered more tracks I liked. But this game had Nier DLC which makes it superior to almost all rhythm games. Still struggling with the arrow swipes",
+            "url": "/img/Theatrhythm Final Fantasy Curtain Call.jpg"
         },
         {
             "title": "Donkey Kong Country Tropical Freeze",
@@ -1281,6 +1287,13 @@
             "beaten": 1,
             "comment": "Adapts a Mario Galaxy level into it's own full game with boss fight and it somehow works, despite having a platformer with no jump ability. Beautiful diorama levels",
             "url": "/img/Captain Toad.jpg"
+        },
+        {
+            "title": "Kirby's Triple Deluxe",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Kirby once again relies on a gimmick and this is just a 3D effect with a super suck mechanic. It's really lame in that regard but level design and charm is still there. Just Planet Robobot has everything and more",
+            "url": "/img/Kirby Triple Deluxe.jpg"
         },
         {
             "title": "South Park The Stick of Truth",
@@ -1523,6 +1536,13 @@
             "url": "/img/Saints Row IV.jpg"
         },
         {
+            "title": "DMC Devil May Cry",
+            "score": 4,
+            "beaten": 2,
+            "comment": "Vergil with a fedora shooting a pregnant lady with a sniper rifle with dubstep music. I hatet his game but thankfully Ninja Theory found success with Hellblade. The DE changes didn't come to PC so that sucks too",
+            "url": "/img/DMC Devil May Cry.jpg"
+        },
+        {
             "title": "Far Cry 3: Blood Dragon",
             "score": 4,
             "beaten": 1,
@@ -1560,13 +1580,6 @@
             "url": "/img/Spelunky.jpg"
         },
         {
-            "title": "The Walking Dead Season 1",
-            "score": 6,
-            "beaten": 1,
-            "comment": "Lee and Clem were a great duo that set in motion the man/girl duo genre we see in TLOU and Bioshock Infinite. At the time it was quite groundbreaking but people, including me, have come down on it",
-            "url": "/img/The Walking Dead.jpg"
-        },
-        {
             "title": "Dragons Dogma",
             "score": 8,
             "beaten": 2,
@@ -1595,6 +1608,13 @@
             "url": "/img/Persona 4 Golden.jpg"
         },
         {
+            "title": "Theatrhythm Final Fantasy",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Bought this before I even liked FF game, just wanted more 3DS/DS rhythm games like Elite Beat Agents. I found many enjoyable tracks in each FF game but the input always felt iffy",
+            "url": "/img/Theatrhythm Final Fantasy.jpg"
+        },
+        {
             "title": "Sleeping Dogs",
             "score": 7,
             "beaten": 1,
@@ -1614,6 +1634,13 @@
             "beaten": 1,
             "comment": "A game that is incredibly unique in terms of it's gameplay, world and music, yet I found it quite miserable to slog through due to the camera in heavy gavity justing moments. Kat is a great protagonist",
             "url": "/img/Gravity Rush.jpg"
+        },
+        {
+            "title": "The Walking Dead Season 1",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Lee and Clem were a great duo that set in motion the man/girl duo genre we see in TLOU and Bioshock Infinite. At the time it was quite groundbreaking but people, including me, have come down on it",
+            "url": "/img/The Walking Dead.jpg"
         },
         {
             "title": "Spec Ops: The Line",
@@ -1674,6 +1701,13 @@
             "url": "/img/LittleBigPlanet 2.jpg"      
         },
         {
+            "title": "inFamous 2",
+            "score": 7,
+            "beaten": 2,
+            "comment": "MC design was changed due to bald white men being too commonplace, which is odd. However, the new magic is really cool, and the emotional hit at the end surprised me. Sucker Punch are good devs",
+            "url": "/img/inFamous 2.jpg"
+        },
+        {
             "title": "Deus Ex Human Revolution",
             "score": 8,
             "beaten": 1,
@@ -1700,6 +1734,13 @@
             "beaten": 1,
             "comment": "Played with a buddy and it was quite awful but not as bad as I expected, it got buggy in the final moments which kind of ruined the impact but I don't remember much other than 'Who do you Voodoo'",
             "url": "/img/Dead Island.jpg"
+        },
+        {
+            "title": "Kirby Return to Dreamland",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Waddle Dee makes a name for himself being playable, now I have an amiibo of him. The gimmick isn't too exciting as it has too much of a focus on co-op. As a lot of wii games did for some reason",
+            "url": "/img/Kirby Return to Dreamland.jpg"
         },
         {
             "title": "RAGE",
@@ -1793,6 +1834,13 @@
             "beaten": 2,
             "comment": "What Monolith Soft accomplished on the Wii is a miracle compared to our Japanese devs were messing up on more powerful hardware. Scale, story, music, characters, and the British voice acting. It had it all",
             "url": "/img/Xenoblade Chronicles.jpg"
+        },
+        {
+            "title": "Kirby Epic Yarn",
+            "score": 8,
+            "beaten": 3,
+            "comment": "I remember walking to Argos in Upton as it was on sale and only one in the area with a buddy. A great Christmas game and somewhat good in co-op but motion sensor was not good for it",
+            "url": "/img/Kirby Epic Yarn.jpg"
         },
         {
             "title": "Super Mario Galaxy 2",
@@ -1893,6 +1941,13 @@
             "beaten": 3,
             "comment": "10 years ago, this might be in my top 10 games of all time, but now I have come down a bit on it. While Gen 2 is so massive as a whole, the actual adventure in regions does feel slow to level and fast to explore. It's odd but it does have Voltorb Flip which kept me busy on the toilet",
             "url": "/img/Pokemon Heart Gold.jpg"
+        },
+        {
+            "title": "inFamous",
+            "score": 7,
+            "beaten": 2,
+            "comment": "An edgy game with a new superhero from the Sly devs, pretty cool to see. It looks very icky like a lot of games this gen but the magic looked real cool and the final boss was fantastic to fight and for store reasons",
+            "url": "/img/inFamous.jpg"
         },
         {
             "title": "Killzone 2",
@@ -2037,6 +2092,27 @@
             "beaten": 2,
             "comment": "Played with my Xbox obsessed friend and the hardest difficulty and that still irks me. I dont know what is so appealing about Halo to people but good for them I guess, it didn't do anything for me",
             "url": "/img/Halo 3.jpg"
+        },
+        {
+            "title": "Portal",
+            "score": 5,
+            "beaten": 1,
+            "comment": "A really short game that felt more of an experiment. So short I don't think the puzzles got more complex which is one of the requirements I have for puzzle game. Found Glados more annoying than funny which no one agrees with",
+            "url": "/img/Portal.jpg"
+        },
+        {
+            "title": "Assassins Creed",
+            "score": 5,
+            "beaten": 1,
+            "comment": "What Ass Creed was, is nothing like today. Back then it prioritised deathly blows, stealth and had ambition. Now it's tiered loot, no stealth or care in your assassinations. I don't like AC and yet refuse to play new AC. It's lost its soul",
+            "url": "/img/Assassins Creed.jpg"
+        },
+        {
+            "title": "Mass Effect",
+            "score": 4,
+            "beaten": 1,
+            "comment": "I tried to give ME a fair shot but the entire dialogue system being based on good/bad always felt too video gamey to where I could not take these characters seriously. Just look at Planescape from 1999 for quality none-judging but consequential dialogue choices",
+            "url": "/img/Mass Effect.jpg"
         }
     ],
     "2006": [
@@ -2463,6 +2539,15 @@
             "beaten": 1,
             "comment": "I played the PSP port and that held up. It is extremely basic in the good way and played it on my Vita while watching Modern Family. Matoya's Cave music is one of my favourites still",
             "url": "/img/Final Fantasy.jpg"
+        }
+    ],
+    "1986": [
+        {
+            "title": "Dragon Quest",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Played this alongside a buddy and it got very grind heavy and was kind of obtuse in design that almost felt like it required a Nintendo Power magazine but even back then DQ had charm",
+            "url": "/img/Dragon Quest.jpg"
         }
     ]
 }
