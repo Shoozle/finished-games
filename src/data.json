@@ -1392,14 +1392,14 @@
         {
             "title": "The Wonderful 101",
             "score": 9,
-            "beaten": 2,
+            "beaten": 3,
             "comment": "The ending to this game absolutely blew me away. I remember telling my friend about it in town and was screaming how good it was. What a game, and to get it before US to avoid spoilders was great",
             "url": "/img/The Wonderful 101 Remastered.jpg"
         },
         {
             "title": "Metal Gear Rising",
             "score": 8,
-            "beaten": 1,
+            "beaten": 3,
             "comment": "A crazy action game that is absurdly funny with the most ridiculous metal music set to insane boss fights. Sadly boss fights do all have a lull to them where action slows but the cutting up anything to tiny bits mechanic is great",
             "url": "/img/Metal Gear Rising.jpg"
         },
@@ -1650,7 +1650,6 @@
             "comment": "Bought this before I even liked FF game, just wanted more 3DS/DS rhythm games like Elite Beat Agents. I found many enjoyable tracks in each FF game but the input always felt iffy",
             "url": "/img/Theatrhythm Final Fantasy.jpg"
         },
-
         {
             "title": "Lumines Electronic Symphony",
             "score": 7,
@@ -1671,6 +1670,12 @@
             "beaten": 1,
             "comment": "My first Fire Emblem game and I was showing it to my friend in hospital at the time. Some really cool voice lines such as 'Pick a god and pray!' when getting a critical hit",
             "url": "/img/Fire Emblem Awakening.jpg"
+        },        {
+            "title": "The Walking Dead Season 1",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Lee and Clem were a great duo that set in motion the man/girl duo genre we see in TLOU and Bioshock Infinite. At the time it was quite groundbreaking but people, including me, have come down on it",
+            "url": "/img/The Walking Dead.jpg"
         },
         {
             "title": "Gravity Rush",
@@ -1680,11 +1685,11 @@
             "url": "/img/Gravity Rush.jpg"
         },
         {
-            "title": "The Walking Dead Season 1",
+            "title": "Orcs Must Die 2",
             "score": 6,
             "beaten": 1,
-            "comment": "Lee and Clem were a great duo that set in motion the man/girl duo genre we see in TLOU and Bioshock Infinite. At the time it was quite groundbreaking but people, including me, have come down on it",
-            "url": "/img/The Walking Dead.jpg"
+            "comment": "If you asked me to remember if I played Orcs Must Die 2, I would say no. But I have! This one had co-op which made it slightly more enjoyable. Good snappy tower defense game in third person, which was a trend back then",
+            "url": "/img/Orcs Must Die 2.jpg"
         },
         {
             "title": "Tales from Space: Mutant Blobs Attack",
@@ -1787,6 +1792,13 @@
             "url": "/img/Pushmo.jpg"
         },
         {
+            "title": "Bastion",
+            "score": 8,
+            "beaten": 2,
+            "comment": "Supergiants first game that lifted my spirits. Great art, music and narration. Loved seeing the world float up to meet your feet and the alternative endings. The bow was real cool. Made me want to learn XNA",
+            "url": "/img/Bastion.jpg"
+        },
+        {
             "title": "To The Moon",
             "score": 7,
             "beaten": 1,
@@ -1815,11 +1827,25 @@
             "url": "/img/Magicka.jpg"
         },
         {
+            "title": "Bulletstorm",
+            "score": 8,
+            "beaten": 2,
+            "comment": "One of my friends favourites and I do like it too. The specific kills with names that gave a big score reminded me of signature takedowns in Burnout so that was fun to play cos you got to kick everything, sometimes into spikes",
+            "url": "/img/Bulletstorm.jpg"
+        },
+        {
             "title": "Dead Island",
             "score": 6,
             "beaten": 1,
             "comment": "Played with a buddy and it was quite awful but not as bad as I expected, it got buggy in the final moments which kind of ruined the impact but I don't remember much other than 'Who do you Voodoo'",
             "url": "/img/Dead Island.jpg"
+        },
+        {
+            "title": "Professor Layton and the Miracle Mask",
+            "score": 6,
+            "beaten": 1,
+            "comment": "The first 3DS entry and something seemed off. Perhaps the art style didn't transfer over well or by now, there was too much Layton the puzzles felt too familiar. The story had no meat as I can't remember any twist",
+            "url": "/img/Professor Layton and the Miracle Mask.jpg"
         },
         {
             "title": "Kirby Return to Dreamland",
@@ -1850,10 +1876,17 @@
             "url": "/img/Sonic Generations.jpg"
         },
         {
+            "title": "Mario Kart 7",
+            "score": 6,
+            "beaten": 1,
+            "comment": "This game seemed very small in scale. However I did love this version of Rainbow Road as it not only had you travelling on Rainbows, but also past planets which looked great in 3D",
+            "url": "/img/Mario Kart 7.jpg"
+        },
+        {
             "title": "Serious Sam 3",
             "score": 5,
             "beaten": 2,
-            "comment": "A disappointment for a long time Serious Sam fan but I did a 32 player co-op session which had me laughing constantly",
+            "comment": "A disappointment for a long time Serious Sam fan but I did a 32 player co-op session which had me laughing constantly during something called SERIOUS SATURDAYS",
             "url": "/img/Serious Sam 3.jpg"
         },
         {
@@ -1862,6 +1895,20 @@
             "beaten": 1,
             "comment": "I think a friend lent me this because I sure as hell don't remember buying it. It was essentially the same game but with snow textures and a worse campaign",
             "url": "/img/Killzone 3.jpg"
+        },
+        {
+            "title": "Orcs Must Die",
+            "score": 5,
+            "beaten": 1,
+            "comment": "I got a new PC around this time which got me into exploring indie games thanks to Totalbisuit and some others. OMD was similar to Sanctum but I preferred the art style here and third person perspective",
+            "url": "/img/Orcs Must Die.jpg"
+        },
+        {
+            "title": "Dwarfs!?",
+            "score": 5,
+            "beaten": 1,
+            "comment": "I used to follow Yogscast for about 6 months, and somewhat enjoyed the Dwarfs thing which lead me to this game and I bought it. It was actually okay watching dwarfs behave like ants but the VA of the Yogscast guy was awful",
+            "url": "/img/Dwarfs.jpg"
         },
         {
             "title": "Ni No Kuni",
@@ -1893,10 +1940,17 @@
         },
         {
             "title": "Rayman Origins",
-            "score": 6,
+            "score": 5,
             "beaten": 1,
             "comment": "Tried solo and dropped, played with a buddy and finished it. Still don't like it as a whole, very annoying sound effects and level design doesn't vary. I enjoy the Ubi-Art engine but think it doesn't suit the vibe of Rayman. Great intro cutscene",
             "url": "/img/Rayman Origins.jpg"
+        },
+        {
+            "title": "Trine 2",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Colourful co-op game with a bud. Being a magician was really fun to spawn ramps continously and could get friends killed. But it didn't evolve as the game went on in terms of complexity",
+            "url": "/img/Trine.jpg"
         },
         {
             "title": "Uncharted 3",
@@ -1911,6 +1965,13 @@
             "beaten": 1,
             "comment": "Bought due to the Xenoblade hype. It's a Wii game that is as brown and bloomy as disgusting PS3/360 games.The side stories were neat but the main story I remember being awful",
             "url": "/img/The Last Story.jpg"
+        },
+        {
+            "title": "Child of Eden",
+            "score": 4,
+            "beaten": 1,
+            "comment": "Went to Grainger Games to buy this, and the lovely chap said it required Move. I told him it didn't and he checked the box and went 'oh yeah'. Kinda wish I didn't buy it. Bored me to death but maybe it is better with Kinect",
+            "url": "/img/Child of Eden.jpg"
         },
         {
             "title": "Earth Defense Force Insect Armageddon",
@@ -2162,11 +2223,11 @@
             "url": "/img/Assassins Creed II.jpg"
         },
         {
-            "title": "Trine",
+            "title": "Scribblenauts",
             "score": 5,
             "beaten": 1,
-            "comment": "Colourful co-op game with a bud. Being a magician was really fun to spawn ramps continously and could get friends killed. But it didn't evolve as the game went on in terms of complexity",
-            "url": "/img/Trine.jpg"
+            "comment": "A game that took the WORLD BY STORM for about a week. Had some fun primarily in learning what the game could do and having creatures fight but solving the puzzles was very simple by using the same thing repeatedly",
+            "url": "/img/Scribblenauts.jpg"
         },
         {
             "title": "Call of Duty: Modern Warfare 2",
@@ -2184,6 +2245,13 @@
         }
     ],
     "2008": [
+        {
+            "title": "Professor Layton and the Lost Future",
+            "score": 9,
+            "beaten": 1,
+            "comment": "A fantastic send off for Layton and really didn't need more games made. Still really good puzzles but an even sadder ending. I spent about 40 minutes doing the chess horse puzzle for my friend and screamed her name to get her attention in college",
+            "url": "/img/Professor Layton and the Lost Future.jpg"
+        },
         {
             "title": "Viva Pinata TIP",
             "score": 8,
@@ -2220,6 +2288,13 @@
             "url": "/img/Dead Space.jpg"
         },
         {
+            "title": "Fable 2",
+            "score": 8,
+            "beaten": 1,
+            "comment": "One of the most memorable co-op experiences I have ever had. I married the town crier and my friend joined my world, killed him, and left. It was small in terms of world size but I loved the interactivity and freedom",
+            "url": "/img/Fable 2.jpg"
+        },
+        {
             "title": "Naruto Ultimate Ninja Storm",
             "score": 7,
             "beaten": 1,
@@ -2227,11 +2302,32 @@
             "url": "/img/Naruto Ultimate Ninja Storm.jpg"
         },
         {
+            "title": "Metal Gear Solid 4",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Having not played MGS 1-3, playing 4 was not as jarring as I expected. I traded GTA IV in for this so it cost £10. I ignored the 90 minute cutscene and story as a whole but I enjoyed the photography element, gun variety and aesthetics",
+            "url": "/img/Metal Gear Solid 4.jpg"
+        },
+        {
+            "title": "Devil May Cry 4",
+            "score": 7,
+            "beaten": "Lost count",
+            "comment": "A good game in some ways and bad in others, especially when backtracking as Dante, you fight each boss 3 times in one playthrough but some fights are incredible and the demo is one of my earliest Xbox 360 memories",
+            "url": "/img/Devil May Cry 4.jpg"
+        },
+        {
             "title": "Call of Duty: World at War",
             "score": 6,
             "beaten": 1,
             "comment": "People wrote this off because it was Treyarch not IW. For me, I never liked WW1-2 games as it always looks drop and the guns are boring. Friend got me a beta invite when I was asleep so that was nice",
             "url": "/img/Call of Duty World at War.jpg"
+        },
+        {
+            "title": "Fallout 3",
+            "score": 6,
+            "beaten": 2,
+            "comment": "At launch I loved this, overtime I've come to like it less primarily because it barely works on modern OS and NV overshadows it. The world seems lacking as most of it is spent in underground subways and it's very green",
+            "url": "/img/Fallout 3.jpg"
         },
         {
             "title": "Grand Theft Auto IV",
@@ -2246,13 +2342,6 @@
             "beaten": 1,
             "comment": "A game that epitomises the third person shooter design of that era, with constant turret sections, ugly colour palette, regen health and grenade spam. I can't remember liking anything about it",
             "url": "/img/Gears of War 2.jpg"
-        },
-        {
-            "title": "Devil May Cry 4",
-            "score": 7,
-            "beaten": "Lost count",
-            "comment": "A good game in some ways and bad in others, especially when backtracking as Dante, you fight each boss 3 times in one playthrough but some fights are incredible and the demo is one of my earliest Xbox 360 memories",
-            "url": "/img/Devil May Cry 4.jpg"
         }
     ],
     "2007": [
@@ -2276,6 +2365,20 @@
             "beaten": 2,
             "comment": "A unique setting, great enemy designs, incredible use of lighting and physics with your magic powers. The game popularised audio logs which I now hate and some parts such as the final boss are real dumb but I thought this game in 2007 was incredible",
             "url": "/img/Bioshock.jpg"
+        },
+        {
+            "title": "Professor Layton and the Curious Village",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Wonderful art style and excellent use of the DS screens. Was a really big franchise then kinda died off. This one is great for a first entry, with good puzzles and even post-game content. Uni professor puzzle books also contributed which I love",
+            "url": "/img/Professor Layton and the Curious Village.jpg"
+        },
+        {
+            "title": "Professor Layton and Pandora's Box",
+            "score": 8,
+            "beaten": 1,
+            "comment": "An amazingly quick follow up to Curious Village, and while similar, the secret ended up being something heartwarming. Series has been somewhat tainted by a flash animation my friend kept quoting",
+            "url": "/img/Professor Layton and Pandora's Box.jpg"
         },
         {
             "title": "Stalker Shadow of Chernobyl",
@@ -2420,6 +2523,13 @@
             "url": "/img/Persona 3 FES.jpg"
         },
         {
+            "title": "Black",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Played much later but even here, Criterion makes an FPS on the PS2 with a punch. Some excellent sound design for a ps2 shooter but other than that, it was pretty ordinary",
+            "url": "/img/Black.jpg"
+        },
+        {
             "title": "Pokemon Diamond",
             "score": 5,
             "beaten": 3,
@@ -2472,7 +2582,7 @@
         },
         {
             "title": "Ultimate Spider-Man",
-            "score": 6,
+            "score": 7,
             "beaten": 1,
             "comment": "This game had a great art style and one of the first open world games I remember simply enjoying moving around in. Venom was also playable which is cool",
             "url": "/img/Ultimate Spider-Man.jpg"
@@ -2671,6 +2781,13 @@
             "beaten": "Lost count",
             "comment": "A miserable region to explore due to HMs and music that sounds like farts thanks to the GBA soundchip but the east side of the region is warm and tropical, and the new Pokemon are so good compared to the weak selection of Gen 2",
             "url": "/img/Pokemon Ruby.jpg"
+        },
+        {
+            "title": "State of Emergency",
+            "score": 5,
+            "beaten": 1,
+            "comment": "In the UK, I think the markesting mislead us to think it was by the GTA guys. Not my kind of game but I thought it had a good amount of weapons. It's Dead Rising with chavs",
+            "url": "/img/State of Emergency.jpg"
         }
     ],
     "2001": [
@@ -2939,15 +3056,6 @@
             "beaten": 1,
             "comment": "A good sidescroller I played on the SNES classic that thankfully isn't as punishing as the previous Ghosts n Goblins entries, I did not get the true ending as I missed some collectibles",
             "url": "/img/Demon's Crest.jpg"
-        }
-    ],
-    "1993": [
-        {
-            "title": "Dragon Quest (SNES)",
-            "score": 6,
-            "beaten": 1,
-            "comment": "Played this alongside a buddy and it got very grind heavy and was kind of obtuse in design that almost felt like it required a Nintendo Power magazine but even back then DQ had charm",
-            "url": "/img/Dragon Quest.jpg"
         }
     ],
     "1992": [

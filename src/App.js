@@ -8,7 +8,6 @@ import Button from './components/Button';
 function App() {
 
   let gameList = [];
-  
 
   const gamesDB = require('../src/data.json');
   const yearsDB = Object.keys(gamesDB);
@@ -50,8 +49,9 @@ function App() {
     if (e.target.value.trim().length <= 1) {
       setSearchFor(false)
     } else if (e.target.value.trim().length > 1)  {
-      for (let i = 0; i < yearsDB.length; i++) {
+      for (let i = yearsDB.length -1; i >= 0; i--) {
         let currentYear = yearsDB[i]
+        console.log(yearsDB[i])
         gamesDB[yearsDB[i]].forEach(element => {
           if (element.title.toLowerCase().includes(e.target.value.toLowerCase())) {
             const newElement = {...element}
@@ -60,7 +60,7 @@ function App() {
           }
         })
       };
-    }
+    } 
   }
 
   const cancelSearch = () => {
@@ -85,6 +85,7 @@ function App() {
   }
 
   gameList.reverse();
+
 
   return (
     <div className="App">
