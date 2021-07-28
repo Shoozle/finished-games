@@ -666,13 +666,7 @@
             "comment": "A fantastic headphone experience but everything else kind of dulled, especially the performance of Senua which was often quite unintentionally comical",
             "url": "/img/Hellblade.jpg"
         },
-        {
-            "title": "Mario Kart 8 Deluxe",
-            "score": 7,
-            "beaten": 1,
-            "comment": "With a deluxe edition I can't help but feel massively disappointed by the roster, with 1/5 of them being babies of Nintendo characters. It's also weird to have Splatoon characters but not Kirby who has a racing game! Great track designs and music though",
-            "url": "/img/Mario Kart 8 Deluxe.jpg"
-        },
+
         {
             "title": "Statik",
             "score": 7,
@@ -1254,6 +1248,13 @@
             "url": "/img/Theatrhythm Final Fantasy Curtain Call.jpg"
         },
         {
+            "title": "Mario Kart 8",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Including the deluxe edition I can't help but feel massively disappointed by the roster, with 1/5 of them being babies of Nintendo characters. It's also weird to have Splatoon characters but not Kirby who has a racing game! Great track designs and music though",
+            "url": "/img/Mario Kart 8 Deluxe.jpg"
+        },
+        {
             "title": "Donkey Kong Country Tropical Freeze",
             "score": 7,
             "beaten": 2,
@@ -1629,6 +1630,13 @@
             "url": "/img/Persona 4 Golden.jpg"
         },
         {
+            "title": "New Super Mario Bros U",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Played co-op with a buddy and the mandatory tablet that 1 person had to use was an awful idea so we dropped it. However, playing Solo, the levels were so much better than the Wii and had really good ghost levels",
+            "url": "/img/New Super Mario Bros U.jpg"
+        },
+        {
             "title": "Kid Icarus Uprising",
             "score": 7,
             "beaten": 1,
@@ -1898,6 +1906,13 @@
             "url": "/img/Uncharted 3.jpg"
         },
         {
+            "title": "The Last Story",
+            "score": 4,
+            "beaten": 1,
+            "comment": "Bought due to the Xenoblade hype. It's a Wii game that is as brown and bloomy as disgusting PS3/360 games.The side stories were neat but the main story I remember being awful",
+            "url": "/img/The Last Story.jpg"
+        },
+        {
             "title": "Earth Defense Force Insect Armageddon",
             "score": 2,
             "beaten": 1,
@@ -2012,11 +2027,25 @@
             "url": "/img/Heavy Rain.jpg"
         },
         {
+            "title": "Atelier Totori",
+            "score": 5,
+            "beaten": 1,
+            "comment": "My first and only Atelier game. It had some charm but was not a fan of the character designs and story. Very slice of life. The alchemy in the game was cool but not enough to satisfy a full game",
+            "url": "/img/Atelier Totori.jpg"
+        },
+        {
             "title": "Kane & Lynch 2",
             "score": 4,
             "beaten": 2,
             "comment": "A game that's hard to tell the tone the developers were going for. It attempts to be serious yet many moments are oddly comical due to animations and quite absurd situations. Ridiculous levels of next-gen lens flares but the film aeshetic can be nice",
             "url": "/img/Kane & Lynch 2.jpg"
+        },
+        {
+            "title": "Limbo",
+            "score": 4,
+            "beaten": 1,
+            "comment": "The most basic platformer that I don't think would have the popularity if it wasn't for the black and white visuals. The spider was a scary moment but it's hard to think of anything else worth mentioning",
+            "url": "/img/Limbo.jpg"
         },
         {
             "title": "Tales of Graces f",
@@ -2119,11 +2148,25 @@
             "url": "/img/Beat Hazard.jpg"
         },
         {
+            "title": "New Super Mario Bros Wii",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Played co-op with a buddy and it was surprisingly okay. Had a really funny ending cos we died so much more than usual but the music is annoyingly awful",
+            "url": "/img/New Super Mario Bros Wii.jpg"
+        },
+        {
             "title": "Assassin's Creed II",
             "score": 5,
             "beaten": 1,
             "comment": "People were so adamant that the second was so much better, so I finally played it in 2011 and still thought it was awful. Something about the story and combat irked me but the climbing mechanics were good",
             "url": "/img/Assassins Creed II.jpg"
+        },
+        {
+            "title": "Trine",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Colourful co-op game with a bud. Being a magician was really fun to spawn ramps continously and could get friends killed. But it didn't evolve as the game went on in terms of complexity",
+            "url": "/img/Trine.jpg"
         },
         {
             "title": "Call of Duty: Modern Warfare 2",
@@ -2319,6 +2362,13 @@
             "url": "/img/Timeshift.jpg"
         },
         {
+            "title": "Victorious Boxers: Revolution",
+            "score": 5,
+            "beaten": 1,
+            "comment": "AKA: The Wii Hajime no Ippo game. It's somewhat alright since it uses the same input motion as Wii Sports boxing. A good roster for the game but I remember them not feeling all too different",
+            "url": "/img/Victorious Boxers Revolution.jpg"
+        },
+        {
             "title": "Mass Effect",
             "score": 4,
             "beaten": 1,
@@ -2382,6 +2432,13 @@
             "beaten": 1,
             "comment": "Finished on the night of Eurovision. Starts off frustrating but once you get into the groove of understanding the UI and map, it gets better. Fun easter eggs but not a lot of useful items",
             "url": "/img/Dead Rising.jpg"
+        },
+        {
+            "title": "Need for Speed Carbon",
+            "score": 5,
+            "beaten": 1,
+            "comment": "The only NFS game I have finished and I think I enjoyed the night time vibes a lot. It is no Burnout but then again nothing is. The maps designed for drifting were cool too",
+            "url": "/img/Need for Speed Carbon.jpg"
         }
     ],
     "2005": [
@@ -2435,6 +2492,13 @@
             "url": "/img/Dynasty Warriors 5.jpg"
         },
         {
+            "title": "Total Overdose",
+            "score": 6,
+            "beaten": 1,
+            "comment": "A really fun GTA clone that takes place in a fantasy Mexico land. It had good cheat codes and I remember having the ability to hide guns in guitar cases which looked really funny",
+            "url": "/img/Total Overdose.jpg"
+        },
+        {
             "title": "Burnout Revenge",
             "score": 6,
             "beaten": 1,
@@ -2447,6 +2511,13 @@
             "beaten": 1,
             "comment": "A classic ARPG that is Torchlight-light. Oddly charming but very simple. Framerate plummets despite being a 15 year old game BUT I got to summon beetle to fight for me, so that was rad",
             "url": "/img/FATE.jpg"
+        },
+        {
+            "title": "Midnight Club 3",
+            "score": 5,
+            "beaten": 1,
+            "comment": "I dont remember anything other than driving and exclusively listening to Pain by Jimmy Eat World as it was the only good song on the soundtrack. Not surprised its now dead",
+            "url": "/img/Midnight Club 3.jpg"
         }
     ],
     "2004": [
@@ -2491,6 +2562,13 @@
             "beaten": 1,
             "comment": "Massive in scope, incredible what they did on the PS2. I remember really getting into the fashion aspect and bodybuilding elements. Shame that never transferred to my real life",
             "url": "/img/Grand Theft Auto San Andreas.jpg"
+        },
+        {
+            "title": "Kohan 2",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Kohan 2 was something I fell in love with which no one talks about to this day. I thought it was superior to AOE as it was faster paced and the special Kohan units is something we see today in MOBAs",
+            "url": "/img/Kohan 2.jpg"
         },
         {
             "title": "Halo 2",
@@ -2597,6 +2675,13 @@
     ],
     "2001": [
         {
+            "title": "Phoenix Wright: Ace Attorney",
+            "score": 8,
+            "beaten": 1,
+            "comment": "A really good visual novel with funny writing, great character designs and the best sound effects. It was great to figure out the inaccuracies to a persons statement, especially with the parrot. Not been able to get into the other games",
+            "url": "/img/Phoenix Wright Ace Attorney.jpg"
+        },
+        {
             "title": "Halo",
             "score": 7,
             "beaten": 2,
@@ -2651,13 +2736,6 @@
             "beaten": 1,
             "comment": "A short charming game but so much backtracking. The boo names were really funny such as GameBoo Advance but was very basic as a whole",
             "url": "/img/Luigi's Mansion.jpg"
-        },
-        {
-            "title": "Halo",
-            "score": 5,
-            "beaten": 2,
-            "comment": "Co-op with a buddy on the hardest difficulty made for grenade spam and some levels are far too long but it's control scheme standardised FPS on consoles still to this day and you have to appreciate it for that",
-            "url": "/img/Halo.jpg"
         },
         {
             "title": "Ico",
@@ -2803,6 +2881,13 @@
             "url": "/img/Pokemon Red.jpg"
         },
         {
+            "title": "Mario Kart 64",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Classic kart racer with good multiplayer with buds. However, Rainbow Road is overrated! It has to be said. Once again, good sound effects and Moo Moo Farm is a banger",
+            "url": "/img/Mario Kart 64.jpg"
+        },
+        {
             "title": "Donkey Kong Country 3",
             "score": 5,
             "beaten": 1,
@@ -2867,6 +2952,13 @@
     ],
     "1992": [
         {
+            "title": "Super Mario Kart",
+            "score": 7,
+            "beaten": 1,
+            "comment": "A fun game with good sound effects and even the music. It looks very basic now, and it is, but it had the soul of Mario games and fleshed out Mario side characters",
+            "url": "/img/Super Mario Kart.jpg"
+        },
+        {
             "title": "Street Fighter II",
             "score": 7,
             "beaten": 1,
@@ -2888,6 +2980,15 @@
             "beaten": 1,
             "comment": "After about 10 attempts I finally finished it. Awful overworld music but the dungeons often making use of the outside world was really cool. It's a shame this set out the blueprint for Zelda games until Breath of the Wild",
             "url": "/img/The Legend of Zelda Link to the Past.jpg"
+        }
+    ],
+    "1990": [
+        {
+            "title": "The Secret of Monkey Island",
+            "score": 6,
+            "beaten": 1,
+            "comment": "An actually funny game thanks to the witty comeback combat system as well as the ending. Good sprites, UI and puzzles for an old game. Really good dev commentary too",
+            "url": "/img/The Secret of Monkey Island.jpg"
         }
     ],
     "1987": [
