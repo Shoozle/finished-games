@@ -37,9 +37,13 @@
     margin-right: 2rem;
 }
 
-@media screen and (max-width: 500px) {
-    .score, .totalGames {
-        display: block;
+@media screen and (max-width: 42rem) {
+    .GameList {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1.4rem;
+        padding: 1.1rem;
+        overflow: hidden;
     }
 }
 

@@ -1112,6 +1112,13 @@
             "url": "/img/Until Dawn.jpg"
         },
         {
+            "title": "Transformers Devestation",
+            "score": 7,
+            "beaten": 1,
+            "comment": "What could have been a cheap game just cos Activision owned the license, Platinum ended up making a good quality game for old Transformers fans. Good style, music and voice lines from Megatron",
+            "url": "/img/Transformers Devestation.jpg"
+        },
+        {
             "title": "Splatoon",
             "score": 6,
             "beaten": "Lost count",
@@ -1138,6 +1145,13 @@
             "beaten": 1,
             "comment": "I got this thanks to a Steam price glitch and I was still disappointed. It was classed as really hard but I had almost no difficult parts. Beautiful art for an indie game though",
             "url": "/img/Ori and the Blind Forest.jpg"
+        },
+        {
+            "title": "One Piece Pirate Warriors 3",
+            "score": 6,
+            "beaten": 1,
+            "comment": "A slight upgrade despite the longer release, it goes back to following the One Piece story arc which I never like because it doesn't have the emotion, feels rushed and doesn't end satisfyingly since the manga is ongoing",
+            "url": "/img/One Piece Pirate Warriors 3.jpg"
         },
         {
             "title": "Civilization V",
@@ -1462,7 +1476,7 @@
             "title": "One Piece Pirate Warriors 2",
             "score": 7,
             "beaten": 1,
-            "comment": "A huge upgrade. Plenty of playable characters with unique movesets not seen in a Musou. An original story which meant there could be surprises and a good ",
+            "comment": "A huge upgrade. Plenty of playable characters with unique movesets not seen in a Musou. An original story which meant there could be surprises",
             "url": "/img/One Piece Pirate Warriors 2.jpg"
         },
         {
@@ -1615,19 +1629,20 @@
             "url": "/img/Persona 4 Golden.jpg"
         },
         {
+            "title": "Kid Icarus Uprising",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Hurt my wrist playing this game thanks to the dumb controls that is unfortunately still stuck to this annoying handheld. If it came to a console with an actual good input scheme, it might score higher cos it is great",
+            "url": "/img/Kid Icarus Uprising.jpg"
+        },
+        {
             "title": "Theatrhythm Final Fantasy",
             "score": 7,
             "beaten": 1,
             "comment": "Bought this before I even liked FF game, just wanted more 3DS/DS rhythm games like Elite Beat Agents. I found many enjoyable tracks in each FF game but the input always felt iffy",
             "url": "/img/Theatrhythm Final Fantasy.jpg"
         },
-        {
-            "title": "Virtues Last Reward",
-            "score": 8,
-            "beaten": 1,
-            "comment": "Following on from 999, I got almost exactly what I wanted. The ending was worse for going too far on the wide scale and not keeping it contained",
-            "url": "/img/Virtues Last Reward.jpg"
-        },
+
         {
             "title": "Lumines Electronic Symphony",
             "score": 7,
@@ -1676,6 +1691,13 @@
             "beaten": 1,
             "comment": "A good FPS on the 360/ps3 which became quite rare due to all the cod clones. This takes a harsher look at war but the turning point for characters is extremely obvious to you as a player yet you are forced to do it",
             "url": "/img/Spec Ops The Line.jpg"
+        },
+        {
+            "title": "Rhythm Thief & the Emperor's Treasure",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Again I just wanted a EBA game on the 3DS. The variation of rhythm games was fun and the story had some cute elements to it, but it did feel very child-friendly and some rhythm games were quite bad",
+            "url": "/img/Rhythm Thief & the Emperor's Treasure.jpg"
         },
         {
             "title": "Dust: An Elysian Tail",
@@ -1811,6 +1833,13 @@
             "beaten": 1,
             "comment": "I had no interest in the game until my Minecraft buddy kept talking it up and I fell for it. While I was immediately hooked, I hate the combat and animations in third person. Charming a mammoth to fight a mammoth was cool though, but limited to once a day",
             "url": "/img/Skyrim.jpg"
+        },
+        {
+            "title": "Sonic Generations",
+            "score": 6,
+            "beaten": 1,
+            "comment": "The first Sonic game I liked as it had a good blend of old and new. Fun music and a good art style for the menus especially. Didn't make me like the old ones though",
+            "url": "/img/Sonic Generations.jpg"
         },
         {
             "title": "Serious Sam 3",
@@ -1985,9 +2014,16 @@
         {
             "title": "Kane & Lynch 2",
             "score": 4,
-            "beaten": "2",
+            "beaten": 2,
             "comment": "A game that's hard to tell the tone the developers were going for. It attempts to be serious yet many moments are oddly comical due to animations and quite absurd situations. Ridiculous levels of next-gen lens flares but the film aeshetic can be nice",
             "url": "/img/Kane & Lynch 2.jpg"
+        },
+        {
+            "title": "Tales of Graces f",
+            "score": 4,
+            "beaten": 1,
+            "comment": "Bought somewhere as I went on a trip to remember it by, I cant remember where coincidentally. This game almost annoyed me from the get-go due to a character having amnesia and waifu bait",
+            "url": "/img/Tales of Graces f.jpg"
         },
         {
             "title": "Valkyria Chronicles II",
@@ -2378,6 +2414,20 @@
             "url": "/img/God of War 2005.jpg"
         },
         {
+            "title": "Ultimate Spider-Man",
+            "score": 6,
+            "beaten": 1,
+            "comment": "This game had a great art style and one of the first open world games I remember simply enjoying moving around in. Venom was also playable which is cool",
+            "url": "/img/Ultimate Spider-Man.jpg"
+        },
+        {
+            "title": "Age of Empires III",
+            "score": 6,
+            "beaten": 1,
+            "comment": "The game on my PC at the time, did not run it well at all, and I think that affected my enjoyment of it. It also had a heavy multiplayer focus which scared me back then!",
+            "url": "/img/Age of Empires III.jpg"
+        },
+        {
             "title": "Dynasty Warriors 5",
             "score": 6,
             "beaten": 1,
@@ -2656,6 +2706,13 @@
             "url": "/img/Pokemon Gold.jpg"
         },
         {
+            "title": "Age of Empires II",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Something never clicked like the first, but it was still something I liked. I think it felt too similar but the fact the re-releases are still getting content is quite incredible",
+            "url": "/img/Age of Empires II.jpg"
+        },
+        {
             "title": "Pokemon Pinball",
             "score": 6,
             "beaten": 1,
@@ -2714,6 +2771,13 @@
             "beaten": 1,
             "comment": "Such an oddball in terms of story for Final Fantasy but it has an incredible setting, beautiful places like Cosmo Canyon and feels like a long adventure. Cid is the best version of Cid but did feel slow",
             "url": "/img/Final Fantasy VII.jpg"
+        },
+        {
+            "title": "Age of Empires",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Probably the first PC game I ever played and that may have made me like this one over the more popular sequel. Really good sound design",
+            "url": "/img/Age of Empires.jpg"
         },
         {
             "title": "Blast Corps",
