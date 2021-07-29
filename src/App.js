@@ -5,6 +5,8 @@ import Game from './components/Game';
 import Searchbar from './components/Searchbar';
 import Button from './components/Button';
 
+const totalGames = GameList.length;
+
 function App() {
 
   let gameList = [];
@@ -51,7 +53,6 @@ function App() {
     } else if (e.target.value.trim().length > 1)  {
       for (let i = yearsDB.length -1; i >= 0; i--) {
         let currentYear = yearsDB[i]
-        console.log(yearsDB[i])
         gamesDB[yearsDB[i]].forEach(element => {
           if (element.title.toLowerCase().includes(e.target.value.toLowerCase())) {
             const newElement = {...element}
@@ -98,7 +99,8 @@ function App() {
         searched={searchFor}
         />
       {!searchFor && gameList}
-      {searchFor && <div className="searchlist"> {searchedGameList} </div>}
+      {searchFor && searchedGameList.length > 0 && <p className="searchResult">{searchedGameList.length} found</p>}
+      {searchFor && <div className="searchlist">  {searchedGameList} </div>}
       {notTop && <a href="#top"><Button>Scroll to Top</Button></a>} 
     </div>
   );

@@ -35,6 +35,12 @@ h1 {
   background-color: inherit;
 }
 
+.searchResult{
+  color: white;
+  text-align: center;
+  font-size: 1rem;
+}
+
 .searchlist{
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));

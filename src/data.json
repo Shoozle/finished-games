@@ -598,7 +598,7 @@
         },
         {
             "title": "Persona 5",
-            "score": 9,
+            "score": 8,
             "beaten": 2,
             "comment": "Looking back, I rate this too high but the acid jazz soundtrack, gorgeous and snappy UI combined with fantastic demon designs, I couldn't resist scoring it high. The dungeons are mostly bad but still an upgrade and I was happy to see the return of Demon Negotiation. Haru is best girl",
             "url": "/img/Persona 5.jpg"
@@ -666,7 +666,6 @@
             "comment": "A fantastic headphone experience but everything else kind of dulled, especially the performance of Senua which was often quite unintentionally comical",
             "url": "/img/Hellblade.jpg"
         },
-
         {
             "title": "Statik",
             "score": 7,
@@ -1113,11 +1112,11 @@
             "url": "/img/Splatoon.jpg"
         },
         {
-            "title": "Dark Souls II (Scholar)",
+            "title": "Dark Souls II Scholar of the First Sin",
             "score": 6,
             "beaten": "Lost count",
             "comment": "Scholar released right before Bloodborne and it was a nice change compared to the original but still lacked the lighting engine they showed off in their trailers",
-            "url": "/img/Dark Souls II.jpg"
+            "url": "/img/Dark Souls II Scholar.jpg"
         },
         {
             "title": "Hotline Miami 2",
@@ -1663,7 +1662,8 @@
             "beaten": 1,
             "comment": "My first Fire Emblem game and I was showing it to my friend in hospital at the time. Some really cool voice lines such as 'Pick a god and pray!' when getting a critical hit",
             "url": "/img/Fire Emblem Awakening.jpg"
-        },        {
+        },
+        {
             "title": "The Walking Dead Season 1",
             "score": 7,
             "beaten": 1,
@@ -1695,7 +1695,7 @@
             "title": "Spec Ops: The Line",
             "score": 6,
             "beaten": 1,
-            "comment": "A good FPS on the 360/ps3 which became quite rare due to all the cod clones. This takes a harsher look at war but the turning point for characters is extremely obvious to you as a player yet you are forced to do it",
+            "comment": "A good TPS on the 360/ps3 which became quite rare due to all the shooters clones. This takes a harsher look at war but the turning point for characters is extremely obvious to you as a player yet you are forced to do it",
             "url": "/img/Spec Ops The Line.jpg"
         },
         {
@@ -1967,6 +1967,13 @@
             "url": "/img/Child of Eden.jpg"
         },
         {
+            "title": "Duke Nukem Forever",
+            "score": 3,
+            "beaten": 1,
+            "comment": "15 years of development... Never touched a DUKE game before, but if this is how they are all like, I don't want to. Any sort of soul is lose immediately with dated humour and phoned in voice acting but drawing on the whiteboard was nice",
+            "url": "/img/Duke Nukem Forever.jpg"
+        },
+        {
             "title": "Earth Defense Force Insect Armageddon",
             "score": 2,
             "beaten": 1,
@@ -2046,6 +2053,13 @@
             "url": "/img/Red Dead Redemption.jpg"
         },
         {
+            "title": "VVVVVV",
+            "score": 7,
+            "beaten": 1,
+            "comment": "A platformer with a single gimmick and yet it is able to carry that well throughout the entire game. One objective has you freefalling for a long time just to do it again immediately after now falling upwards. Great soundtrack too",
+            "url": "/img/VVVVVV.jpg"
+        },
+        {
             "title": "Super Meat Boy",
             "score": 6,
             "beaten": 1,
@@ -2058,6 +2072,13 @@
             "beaten": 1,
             "comment": "Tell me about the numbers! I applaud Treyarch for doing ambitious branching elements to the story that mostly went unnoticed but aside from that level playing 'It Aint Me' I don't remember anything",
             "url": "/img/Call of Duty Black Ops.jpg"
+        },
+        {
+            "title": "God of War III",
+            "score": 6,
+            "beaten": 1,
+            "comment": "What a disappointment, I really expected the PS3 to boost somthing here, and while the scale was incredible with constant camera pans, I did struggle to make out what was going on at times, especially in the intro. Ending tried to be emotional but failed. Sold it to a buddy",
+            "url": "/img/God of War III.jpg"
         },
         {
             "title": "Halo Reach",
@@ -2179,6 +2200,13 @@
             "beaten": 2,
             "comment": "A game I loved when it originally released but fell off here. A bit too many scripted events and too full of betrayals",
             "url": "/img/Uncharted 2.jpg"
+        },
+        {
+            "title": "Mirror's Edge",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Really enjoyed the style of the city and parkour controls were great. Quite expensive for a short game but that Still Alive song is something I still love to this day. One of my friends favourite games. Story was boring",
+            "url": "/img/Mirror's Edge.jpg"
         },
         {
             "title": "Yakuza 3",
@@ -2330,6 +2358,13 @@
             "url": "/img/Grand Theft Auto IV.jpg"
         },
         {
+            "title": "Army of Two",
+            "score": 4,
+            "beaten": 1,
+            "comment": "Played with a buddy and some of the co-op mechanics were pretty good but I wish it let you had more fun with it rather than only having gestures when boosting eachother. Could rip off car doors to make shields",
+            "url": "/img/Army of Two.jpg"
+        },
+        {
             "title": "Gears of War 2",
             "score": 4,
             "beaten": 1,
@@ -2474,18 +2509,18 @@
     ],
     "2006": [
         {
+            "title": "Elite Beat Agents",
+            "score": 10,
+            "beaten": "Lost count",
+            "comment": "One of the absolute best DS games. A punk soundtrack with some classics on there too. Great humour and I always appreciate a game where failing is still exciting. Hate the DS stylus and the wheel spin sections though",
+            "url": "/img/Elite Beat Agents.jpg"
+        },
+        {
             "title": "Okami",
             "score": 9,
             "beaten": 2,
             "comment": "One of my absolute favourite games from one of my favourite game directors. A beautiful stylized Japanese game which started my love for Yokai. A unique combat system with a great story, funny side characters and a deeply interactive world",
             "url": "/img/Okami HD.jpg"
-        },
-        {
-            "title": "Elite Beat Agents",
-            "score": 9,
-            "beaten": "Lost count",
-            "comment": "One of the absolute best DS games. A punk soundtrack with some classics on there too. Great humour and I always appreciate a game where failing is still exciting. Hate the DS stylus and the wheel spin sections though",
-            "url": "/img/Elite Beat Agents.jpg"
         },
         {
             "title": "Viva Pinata",
@@ -2551,6 +2586,13 @@
             "beaten": 3,
             "comment": "Hideaki Itsuno knocks it out of the park after a disappointing DMC2. Incredible combat for a PS2 game made better with the Style Switcher mod. Ruthlessly hard at times but what is the price to pay for power",
             "url": "/img/Devil May Cry 3.jpg"
+        },
+        {
+            "title": "Ouendan",
+            "score": 9,
+            "beaten": 1,
+            "comment": "JP only but EBA is the west 'equivalent'. Some great songs like LINDA LINDA. An obese egyptian lady loses weight and then the man falls in love her won't pass today. If you failed at the Ramen song, a cat would come in and piss on the floor",
+            "url": "/img/Ouendan.jpg"
         },
         {
             "title": "Resident Evil 4",
