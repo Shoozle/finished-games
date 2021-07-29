@@ -2160,6 +2160,13 @@
             "url": "/img/Ratchet and Clank A Crack in Time.jpg"
         },
         {
+            "title": "Henry Hatsworth in the Puzzling Adventure",
+            "score": 8,
+            "beaten": 1,
+            "comment": "You haven't heard of this game but it's fantastic and deceivingly hard. Party adventure, part match puzzle in the bottom screen so great use of the DS. Great music, charm and exceedingly British with an asshole sidekick. Gold bowler hats. Until about 2012, EA offered the soundtrack free on their site",
+            "url": "/img/Henry Hatsworth in the Puzzling Adventure.jpg"
+        },
+        {
             "title": "Bayonetta",
             "score": 7,
             "beaten": 2,
@@ -2186,6 +2193,20 @@
             "beaten": 2,
             "comment": "An edgy game with a new superhero from the Sly devs, pretty cool to see. It looks very icky like a lot of games this gen but the magic looked real cool and the final boss was fantastic to fight and for store reasons",
             "url": "/img/inFamous.jpg"
+        },
+        {
+            "title": "Flower",
+            "score": 7,
+            "beaten": 1,
+            "comment": "A breezey game that is just soothing for the soul. That is until you get to the jump scare which rivals Bioshock Infinite. Pleasant music and a good start for ThatGameCompany to go 3D, and now Sony have dropped em like all indie devs they once supported",
+            "url": "/img/Flower.jpg"
+        },
+        {
+            "title": "The Maw",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Pete Dorr's favourite game so that means it gets docked a point. A charming unique game that I remember having good animation but not much else",
+            "url": "/img/The Maw.jpg"
         },
         {
             "title": "Killzone 2",
@@ -2316,6 +2337,20 @@
             "url": "/img/Fable 2.jpg"
         },
         {
+            "title": "Kirby Super Star Ultra",
+            "score": 8,
+            "beaten": 1,
+            "comment": "A good (remake) of the SNES collection. A mix-match of modes for Kirby, some fleshed out like treasure hunt, others just feel like unecessary mini-game padding. As a whole it's considered one of the best, but I find it too basic and has quite a bad art style compared to the NES games",
+            "url": "/img/Kirby Super Star Ultra.jpg"
+        },
+        {
+            "title": "Motorstorm Pacific Rift",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Holy crap, 2 good racing games in 1 year. The music sucks ass but it had that custom music option so I got to put Yellowcard - Breathing over most of it like a chad. The nitrous sytem based on temp in the environment was rad and the track course was really sick with plenty of ramps",
+            "url": "/img/Motorstorm Pacific Rift.jpg"
+        },
+        {
             "title": "Naruto Ultimate Ninja Storm",
             "score": 7,
             "beaten": 1,
@@ -2356,6 +2391,13 @@
             "beaten": 1,
             "comment": "This is the moment GTA started getting a bit too serious for me to enjoy. It was drab in colour and tone and the modern America setting was getting a bit too commonplace. I enjoyed Niko but hated the phone being used for everything",
             "url": "/img/Grand Theft Auto IV.jpg"
+        },
+        {
+            "title": "God of War: Chains of Olympus",
+            "score": 6,
+            "beaten": 1,
+            "comment": "A decent downscaled God of War game that does suffer as expected for a PSP game. While it maintains the gore and fixed cameras, it lacks the scale. The story also felt too similar to past games of loss then a rise and repeat",
+            "url": "/img/God of War Chains of Olympus.jpg"
         },
         {
             "title": "Army of Two",
@@ -2442,6 +2484,13 @@
             "beaten": 2,
             "comment": "Originally didn't care much for it but now it's probably my favourite Uncharted. Nice singular location with variety in it's level design.",
             "url": "/img/Uncharted.jpg"
+        },
+        {
+            "title": "Hotel Dusk: Room 215",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Played at the reverence of my friend who says this is one of his favourites. It has a wonderful rotoscopes tile, music and a very hotel cabin beige look to the environments. Good mystery with solid music but some of the touch screen elements didn't work and felt unecessary like the bowling.",
+            "url": "/img/Hotel Dusk.jpg"
         },
         {
             "title": "Ratchet & Clank Tools of Destruction",
@@ -2544,6 +2593,13 @@
             "url": "/img/God Hand.jpg"
         },
         {
+            "title": "Marvel Ultimate Alliance",
+            "score": 7,
+            "beaten": 1,
+            "comment": "I remember thinking this game was dope with the amount of characters and it was one of my first forays into what is considered the main Marvel characters outside of X-men and Spider-Man ",
+            "url": "/img/Marvel Ultimate Alliance.jpg"
+        },
+        {
             "title": "Persona 3 FES",
             "score": 6,
             "beaten": 1,
@@ -2570,6 +2626,13 @@
             "beaten": 1,
             "comment": "Finished on the night of Eurovision. Starts off frustrating but once you get into the groove of understanding the UI and map, it gets better. Fun easter eggs but not a lot of useful items",
             "url": "/img/Dead Rising.jpg"
+        },
+        {
+            "title": "Thrillville",
+            "score": 5,
+            "beaten": 1,
+            "comment": "A great title for a roller coaster game BUT, this has too much of a focus on interacting with visitors on the ground level. It had some charm for sure such as the ability to flirt with guests with pick up lines such as: 'You're all curves with no breaks'",
+            "url": "/img/Thrillville.jpg"
         },
         {
             "title": "Need for Speed Carbon",
@@ -2739,9 +2802,16 @@
             "url": "/img/Ratchet and Clank Going Commando.jpg"
         },
         {
+            "title": "Viewtiful Joe",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Henshin a go-go baby! A game where I love the style more so than the gameplay. It was quite hard but the game made good use of the time manipulation such as slowing down the helicopters blades to lower it, and more!",
+            "url": "/img/Viewtiful Joe.jpg"
+        },
+        {
             "title": "Dynasty Warriors 4",
             "score": 6,
-            "beaten": "Lost count",
+            "beaten": 1,
             "comment": "I remember feeling quite bummed out by 4. Its weapons started having RPG stats and the ability for all officers to weild whatever they wanted ruined their unique moveset",
             "url": "/img/Dynasty Warriors 4.jpg"
         },
@@ -2806,7 +2876,7 @@
         {
             "title": "Pokemon Ruby",
             "score": 6,
-            "beaten": "Lost count",
+            "beaten": 2,
             "comment": "A miserable region to explore due to HMs and music that sounds like farts thanks to the GBA soundchip but the east side of the region is warm and tropical, and the new Pokemon are so good compared to the weak selection of Gen 2",
             "url": "/img/Pokemon Ruby.jpg"
         },
@@ -2850,7 +2920,7 @@
         {
             "title": "Grand Theft Auto 3",
             "score": 7,
-            "beaten": "Lost count",
+            "beaten": 1,
             "comment": "The one I least remember because I was still quite young. However I do remember enjoying the dark rainy vibes of 3 that's not been present since and always hunting for the Banshee",
             "url": "/img/Grand Theft Auto 3.jpg"
         },
