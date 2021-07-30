@@ -5,14 +5,21 @@ import Game from './components/Game';
 import Searchbar from './components/Searchbar';
 import Button from './components/Button';
 
-const totalGames = GameList.length;
+const gamesDB = require('../src/data.json');
+const yearsDB = Object.keys(gamesDB);
+
+let totalGames = 0
+
+for (let i=0; i<yearsDB.length; i++) {
+  for (let j=0; j<gamesDB[yearsDB[i]].length; j++) {
+    totalGames++;
+  }
+}
+
 
 function App() {
 
   let gameList = [];
-
-  const gamesDB = require('../src/data.json');
-  const yearsDB = Object.keys(gamesDB);
 
   const [searchFor, setSearchFor] = useState(false);
   const [searchTerm, setSearchTerm] = useState('');
@@ -90,11 +97,11 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Sean Murtagh's finished games</h1>
+      <h1>Sean Murtagh's {totalGames} finished games</h1>
       <Searchbar 
         onChange={searchTermHandler} 
         value={searchTerm} 
-        placeholder="Search here" 
+        placeholder="Search" 
         click={cancelSearch}
         searched={searchFor}
         />
