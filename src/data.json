@@ -886,13 +886,6 @@
             "url": "/img/Shadow Warrior 2.jpg"
         },
         {
-            "title": "Gears of War 4",
-            "score": 5,
-            "beaten": 1,
-            "comment": "A disatisfying ending that teased a future installment ruined the game as it was pretty okay beforehand. Some parts based around Marcus Fenix's home was great but the rest was dull",
-            "url": "/img/Gears of War 4.jpg"
-        },
-        {
             "title": "Digimon Cyber Sleuth",
             "score": 6,
             "beaten": 1,
@@ -956,6 +949,13 @@
             "url": "/img/Salt and Sanctuary.jpg"
         },
         {
+            "title": "Gears of War 4",
+            "score": 5,
+            "beaten": 1,
+            "comment": "A disatisfying ending that teased a future installment ruined the game as it was pretty okay beforehand. Some parts based around Marcus Fenix's home was great but the rest was dull",
+            "url": "/img/Gears of War 4.jpg"
+        },
+        {
             "title": "Titan Quest Anniversary Edition",
             "score": 5,
             "beaten": 3,
@@ -984,11 +984,11 @@
             "url": "/img/Pokemon Sun.jpg"
         },
         {
-            "title": "Final Fantasy XV",
+            "title": "IS Defense",
             "score": 3,
-            "beaten": 2,
-            "comment": "Played on console after the patches came out after they supposedly improved the game and it was just a miserable experience from start to end which required little effort in progressing as it all does it for you",
-            "url": "/img/Final Fantasy XV.jpg"
+            "beaten": 1,
+            "comment": "From the developers of Hatred, comes an edgy game where you man a turret and just shoot ISIS members. It's not as bad as you expect, particle effects hurt my eyes",
+            "url": "/img/IS Defense.jpg"
         },
         {
             "title": "Borderlands The Pre-Sequel",
@@ -996,6 +996,13 @@
             "beaten": 1,
             "comment": "Still torturing myself by playing BL games, this one with a buddy. 'Wooooooow, yeah!'",
             "url": "/img/Borderlands The Pre-Sequel.jpg"
+        },
+        {
+            "title": "Final Fantasy XV",
+            "score": 3,
+            "beaten": 2,
+            "comment": "Played on console after the patches came out after they supposedly improved the game and it was just a miserable experience from start to end which required little effort in progressing as it all does it for you",
+            "url": "/img/Final Fantasy XV.jpg"
         },
         {
             "title": "Zero Time Dilemma",
@@ -1671,6 +1678,13 @@
             "url": "/img/Gravity Rush.jpg"
         },
         {
+            "title": "Botnaciula",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Following on from Machinarium comes a microscopic adventure with similar character designs. It is again a bit basic but has heart and good music",
+            "url": "/img/Botnaciula.jpg"
+        },
+        {
             "title": "Orcs Must Die 2",
             "score": 6,
             "beaten": 1,
@@ -2053,6 +2067,13 @@
             "url": "/img/VVVVVV.jpg"
         },
         {
+            "title": "Costume Quest",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Halloween without the horror. A cute adventure game from Double Fine that is rare for me to say these days",
+            "url": "/img/Costume Quest.jpg"
+        },
+        {
             "title": "Super Meat Boy",
             "score": 6,
             "beaten": 1,
@@ -2100,6 +2121,13 @@
             "beaten": 1,
             "comment": "My first and only Atelier game. It had some charm but was not a fan of the character designs and story. Very slice of life. The alchemy in the game was cool but not enough to satisfy a full game",
             "url": "/img/Atelier Totori.jpg"
+        },
+        {
+            "title": "Battlefield Bad Company 2",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Supposedly a funny game but I can't remember anything funny or quippy about it. I remember thinking it was a very bro adventure with a cast that didn't take anything seriously. Never touched the multiplayer I assume it had",
+            "url": "/img/Battlefield Bad Company 2.jpg"
         },
         {
             "title": "Kane & Lynch 2",
@@ -2221,6 +2249,13 @@
             "beaten": 1,
             "comment": "Really enjoyed the style of the city and parkour controls were great. Quite expensive for a short game but that Still Alive song is something I still love to this day. One of my friends favourite games. Story was boring",
             "url": "/img/Mirror's Edge.jpg"
+        },
+        {
+            "title": "Machinarium",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Unique art design and good character design in a real odd setting made for a good puzzle game but it did feel very obtuse due to the weird nature of the world. Charming noises",
+            "url": "/img/Machinarium.jpg"
         },
         {
             "title": "Yakuza 3",
