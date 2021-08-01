@@ -497,13 +497,6 @@
             "url": "/img/Spyro Reignited 1.jpg"
         },
         {
-            "title": "Two Point Hospital",
-            "score": 5,
-            "beaten": 1,
-            "comment": "Having no nostalgia for sim hospitals I was surprised by this games charm but it didn't evolve over the main course of the game to be interesting and I played it as a background game. Turtlehead jokes are always funny",
-            "url": "/img/Two Point Hospital.jpg"
-        },
-        {
             "title": "Moss",
             "score": 5,
             "beaten": 1,
@@ -3080,6 +3073,13 @@
             "url": "/img/Age of Empires.jpg"
         },
         {
+            "title": "Goldeneye 007",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Dated aiming controls but the sound effects, mission variety and multiplayer set a standard makes this game an exceptional title. Hacks have made this game playable with mouse and keyboard which really makes it hold up.",
+            "url": "/img/Goldeneye 007.jpg"
+        },
+        {
             "title": "Blast Corps",
             "score": 4,
             "beaten": 1,
@@ -3101,6 +3101,13 @@
             "beaten": "Lost count",
             "comment": "I was born in a time where I cannot remember when Pokemon didn't exist. Some parts of this game are straight up broken but each Pokemon having its own cry on a gameboy cart blows me away. Wizardy how it works",
             "url": "/img/Pokemon Red.jpg"
+        },
+        {
+            "title": "Super Mario 64",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Mario handles the transition to 3D well unlike Sonic, Pokemon and a bunch of others. The movement tech is incredible for a first go but when I replayed the All-Stars version, I came down on the world design as many felt like slapped together pieces, and not a world lived in",
+            "url": "/img/Super Mario 64.jpg"
         },
         {
             "title": "Mario Kart 64",
