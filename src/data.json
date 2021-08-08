@@ -558,8 +558,15 @@
             "title": "Planescape Torment: Enhanced Edition",
             "score": 9,
             "beaten": 1,
-            "comment": "Know that this is a classic. Know that it has a great setting, writing and characters with an incredibly fleshed out protagonist. Know that I will probably replay it in the future and that I will never play a game as unique as this",
+            "comment": "Know that this is a classic. Know that it has a great setting, writing and characters with an incredibly fleshed out protagonist. Know that I will probably replay it in the future and that I will never play a game with a  unique setting as this",
             "url": "/img/Planescape Torment.jpg"
+        },
+        {
+            "title": "Divinity Original Sin 2",
+            "score": 9,
+            "beaten": "Lost count",
+            "comment": "Act 2 and the Rivellon theme combined is an incredible moment to experience for the first time. Great co-op and almost infinite replayability. Wish the UI was clearer. Still discovering new things but can feel too long.",
+            "url": "/img/Divinity Original Sin 2.jpg"
         },
         {
             "title": "The Legend of Zelda Breath of the Wild",
@@ -595,13 +602,6 @@
             "beaten": 1,
             "comment": "A game full of naughty words like PECK. A really great controlling 3D platformer with such varied worlds, fun levels and great music. More importantly though it had humour and even had a terrifying level",
             "url": "/img/A Hat in Time.jpg"
-        },
-        {
-            "title": "Divinity Original Sin 2",
-            "score": 8,
-            "beaten": 4,
-            "comment": "Getting to Act 2 and listening to Rivellon is something that will stick with me for a long time, what an absolute adventure even if I was disappointed with Act 3 and 4",
-            "url": "/img/Divinity Original Sin 2.jpg"
         },
         {
             "title": "Nioh",
