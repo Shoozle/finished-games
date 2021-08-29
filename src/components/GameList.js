@@ -49,9 +49,9 @@ const GameList = (props) => {
     return (
         <>
             <h2 onClick={displayGamesHandler} className={classes.year}>
-                <span className={classes.totalGames}># games: {totalGames()}</span>
+                <span className={classes.totalGames}>{totalGames()} games</span>
                 {year}{displayArrow()}
-                <span className={classes.score}>Average Score: {calcAvgScore()}
+                <span className={classes.score}>Avg Score: {calcAvgScore()}
                 </span> 
             </h2>
             <div className={classes.GameList}>
