@@ -45,6 +45,9 @@
         padding: 1.1rem;
         overflow: hidden;
     }
+    .year, .score, .totalGames{
+        font-size: 1rem;
+    }
 }
 
 
