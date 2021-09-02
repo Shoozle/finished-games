@@ -540,7 +540,7 @@
         },
         {
             "title": "Vikings Wolves of Midgard",
-            "score": 4,
+            "score": 3,
             "beaten": 1,
             "comment": "Played with my ARPG buddy and we both hated it, it's online issues were plentiful and got too hard at times, I believe we had to finish it solo due to issues but I can't remember",
             "url": "/img/Vikings Wolves of Midgard.jpg"
@@ -1017,13 +1017,6 @@
             "beaten": 1,
             "comment": "Uchikoshi got a rare chance to finish his trilogy and chose to use expensive 3D models with a cheap budget. It spawned incredible memes and Carlos is delightful but it's so dumb",
             "url": "/img/Zero Time Dilemma.jpg"
-        },
-        {
-            "title": "Vikings Wolves of Midgard",
-            "score": 2,
-            "beaten": 1,
-            "comment": "Without a doubt one of the most frustrating co-op experiences I have had where we had to finish it solo due to a repeating bug in one of the dungeons",
-            "url": "/img/Vikings Wolves of Midgard.jpg"
         }
     ],
     "2015": [
@@ -2791,6 +2784,13 @@
             "beaten": 1,
             "comment": "Got my hunter to level 60 after TBC came out and then left after logging in and seeing my guild just vanished. Some fond memories but it needs to be put to rest",
             "url": "/img/World of Warcraft.jpg"
+        },
+        {
+            "title": "Katamari Damacy",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Controls are somewhat horrid. Anyway, some of the best music in video game history, best credit sequence, fun gameplay if not sometimes confusing regarding the collisions. Also had a level where you gotta collect all the crabs and one that ended in 3 seconds after getting a bear",
+            "url": "/img/Katamari Damacy.jpg"
         },
         {
             "title": "Van Helsing",
