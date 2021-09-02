@@ -539,13 +539,6 @@
             "url": "/img/Deracine.jpg"
         },
         {
-            "title": "Vikings Wolves of Midgard",
-            "score": 3,
-            "beaten": 1,
-            "comment": "Played with my ARPG buddy and we both hated it, it's online issues were plentiful and got too hard at times, I believe we had to finish it solo due to issues but I can't remember",
-            "url": "/img/Vikings Wolves of Midgard.jpg"
-        },
-        {
             "title": "Dead Cells",
             "score": 3,
             "beaten": 1,
@@ -770,6 +763,13 @@
             "beaten": 1,
             "comment": "A game that adds so little it is almost absurd to me it cost the same as the first. While it speeds up the start, I cant remember a single damn thing about it",
             "url": "/img/Pokemon Ultra Moon.jpg"
+        },
+        {
+            "title": "Vikings Wolves of Midgard",
+            "score": 3,
+            "beaten": 1,
+            "comment": "Played with my ARPG buddy and we both hated it, it's online issues were plentiful and got too hard at times, I believe we had to finish it solo due to issues but I can't remember",
+            "url": "/img/Vikings Wolves of Midgard.jpg"
         },
         {
             "title": "Destiny 2",
