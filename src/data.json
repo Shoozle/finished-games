@@ -1147,13 +1147,6 @@
             "url": "/img/Civilization V.jpg"
         },
         {
-            "title": "The Witcher 2",
-            "score": 6,
-            "beaten": 2,
-            "comment": "I enjoyed this much more in my first playthrough but to have a completely different act depending on your choice is rad. It felt slow due to no sprint and camera lock on was frustrating compared to other 2011 games",
-            "url": "/img/The Witcher 2.jpg"
-        },
-        {
             "title": "Dying Light",
             "score": 6,
             "beaten": 1,
@@ -1839,6 +1832,13 @@
             "beaten": 1,
             "comment": "One of my friends favourites and I do like it too. The specific kills with names that gave a big score reminded me of signature takedowns in Burnout so that was fun to play cos you got to kick everything, sometimes into spikes",
             "url": "/img/Bulletstorm.jpg"
+        },
+        {
+            "title": "The Witcher 2",
+            "score": 6,
+            "beaten": 2,
+            "comment": "I enjoyed this much more in my first playthrough but to have a completely different act depending on your choice is rad. It felt slow due to no sprint and camera lock on was frustrating compared to other 2011 games",
+            "url": "/img/The Witcher 2.jpg"
         },
         {
             "title": "Dead Island",
