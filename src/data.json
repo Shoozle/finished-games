@@ -8,6 +8,13 @@
             "url": "/img/It Takes Two.jpg"
         },
         {
+            "title": "Toem",
+            "score": 8,
+            "beaten": 1,
+            "comment": "Cute art style and character designs, funny writing without going too dumb. Great photography mechanics and good puzzles to solve. Ending didn't have the budget they tried to go for but the journey was very well worth it. Real-time clock tower!",
+            "url": "/img/Toem.jpg"
+        },
+        {
             "title": "Psychonauts 2",
             "score": 8,
             "beaten": 1,
@@ -17,7 +24,7 @@
         {
             "title": "Monster Hunter Stories 2",
             "score": 8,
-            "beaten": 2,
+            "beaten": 1,
             "comment": "Significant improvement from the first. Egg hunting is fun and plentiful, great combat system with major weapon additions and a co-op buddy, though too many bow users. Decent challenge but a bit too RNG. Also bummed about some monsters not being tameable",
             "url": "/img/Monster Hunter Stories 2.jpg"
         },
@@ -38,21 +45,21 @@
         {
             "title": "New Pokemon Snap",
             "score": 4,
-            "beaten": "1",
+            "beaten": 1,
             "comment": "I didn't have any nostalgia for the first entry and was still disappointed. I guess I envisioned a snappy arcade photography game but the pace drags and rewards you for taking bad photos due to an odd * star rating just to flesh out an area that feels initially empty",
             "url": "/img/New Pokemon Snap.jpg"
         },
         {
             "title": "D&D Dark Alliance",
             "score": 4,
-            "beaten": "1",
+            "beaten": 1,
             "comment": "Archer was overpowered. Played with a buddy. Dumb AI that was easy exploitable. Loot was awful and looked generic with no special set looks. Repetitive enemy designs that were both common and boss fights. Jank collision detection yet the most fun I've had being an archer",
             "url": "/img/D&D Dark Alliance.jpg"
         },
         {
             "title": "Balan Wonderworld",
             "score": 2,
-            "beaten": "1",
+            "beaten": 1,
             "comment": "Painful. So bad it almost seems self sabotaging by spiteful developers as there is clear creative direction and good character designs but why would you make a 3D platformer, take away the ability to jump, but make jumping MANDATORY at times",
             "url": "/img/Balan Wonderworld.jpg"
         }
