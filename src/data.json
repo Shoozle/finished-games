@@ -38,9 +38,16 @@
         {
             "title": "Super Mario 3D World Bowsers Fury",
             "score": 7,
-            "beaten": 2,
+            "beaten": 1,
             "comment": "The speed boost to the base game makes a lot of difference but the levels now feel really short. Bowsers Fury was somewhat great but felt tied down to the 3D World engine",
             "url": "/img/Super Mario 3D World Bowsers Fury.jpg"
+        },
+        {
+            "title": "Kena Bridge of Spirits",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Act 2 is where the game shines yet it felt so short in comparison to the other areas. It had a clear objective and you could see your surroundings not filled by trees. Many boss fights didn't have designs that stood out but some were fun and surprisingly hard. The parry is the absolute worst combined with slow camera speed and poor FOV",
+            "url": "/img/Kena Bridge of Spirits.jpg"
         },
         {
             "title": "New Pokemon Snap",
@@ -55,6 +62,13 @@
             "beaten": 1,
             "comment": "Archer was overpowered. Played with a buddy. Dumb AI that was easy exploitable. Loot was awful and looked generic with no special set looks. Repetitive enemy designs that were both common and boss fights. Jank collision detection yet the most fun I've had being an archer",
             "url": "/img/D&D Dark Alliance.jpg"
+        },
+        {
+            "title": "Luna's Fishing Garden",
+            "score": 4,
+            "beaten": 1,
+            "comment": "Initially cute but that does wear off eventually and only leaves behind a game that very quickly just plays itself. Nice art but not very well animated and isn't enough fish or trees to make each of the mechanics have enough depth.",
+            "url": "/img/Luna's Fishing Garden.jpg"
         },
         {
             "title": "Balan Wonderworld",
