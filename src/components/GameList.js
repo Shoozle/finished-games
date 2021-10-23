@@ -42,17 +42,18 @@ const GameList = (props) => {
 
     const displayArrow = () => {
         let arrow;
-        downArrow ? arrow = <span> &uarr; </span> : arrow = <span> &darr; </span>;
+        downArrow ? arrow = <span className={classes.arrow}> <i className="fas fa-angle-up"></i> </span> : arrow = <span className={classes.arrow}> <i className="fas fa-angle-down"></i> </span>;
         return arrow;
     }
 
     return (
         <>
             <h2 onClick={displayGamesHandler} className={classes.year}>
+            
                 <span className={classes.totalGames}>{totalGames()} games</span>
-                {year}{displayArrow()}
-                <span className={classes.score}>Avg Score: {calcAvgScore()}
-                </span> 
+                {year} {displayArrow()}
+                <span className={classes.score}>Avg Score: {calcAvgScore()}</span> 
+
             </h2>
             <div className={classes.GameList}>
                 {displayGames ? gameList : null}
