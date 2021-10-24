@@ -3,24 +3,24 @@
 Basic structure of json file:
 
 {  
-    >"2021": [  
-     >>   {  
-       >>>     "title": "Game example",  
-       >>>     "score": 5,  
-       >>>     "beaten": 1,  
-       >>>     "comment": "Hey",  
-       >>>     "url": "/img/game example.jpeg"  
-      >>  },  
-       >> {  
-         >>>   "title": "Game example 2",  
-         >>>   "score": 3,  
-         >>>   "beaten": 2,  
-           >>> "comment": "Another one",  
-            >>> "url": "/img/game example 2.jpeg"  
-       >> }  
-    > "2020": [  
-      >>  {  
-        >>>    ...etc  
-      >>  }  
-  >  ]  
+    &nbsp;"2021": [  
+     &nbsp;&nbsp;   {  
+       &nbsp;&nbsp;&nbsp;     "title": "Game example",  
+       &nbsp;&nbsp;&nbsp;     "score": 5,  
+       &nbsp;&nbsp;&nbsp;     "beaten": 1,  
+       &nbsp;&nbsp;&nbsp;     "comment": "Hey",  
+       &nbsp;&nbsp;&nbsp;     "url": "/img/game example.jpeg"  
+      &nbsp;&nbsp;  },  
+       &nbsp;&nbsp; {  
+         &nbsp;&nbsp;&nbsp;   "title": "Game example 2",  
+         &nbsp;&nbsp;&nbsp;   "score": 3,  
+         &nbsp;&nbsp;&nbsp;   "beaten": 2,  
+           &nbsp;&nbsp;&nbsp; "comment": "Another one",  
+            &nbsp;&nbsp;&nbsp; "url": "/img/game example 2.jpeg"  
+       &nbsp;&nbsp; }  
+    &nbsp; "2020": [  
+      &nbsp;&nbsp;  {  
+        &nbsp;&nbsp;&nbsp;    ...etc  
+      &nbsp;&nbsp;  }  
+  &nbsp;  ]  
 }
