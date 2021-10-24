@@ -32,12 +32,12 @@
 .score {
     font-size: 1.2rem;
     margin: 0 1.2rem;
+    margin-right: 0;
 }
 
 .arrow {
     background-color: rgb(32, 76, 99);
     border-radius: 5px;
-    margin: 0 1.2rem;
     font-size: 1.2rem;
     margin-left: auto;
     display: flex;
