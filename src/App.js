@@ -101,7 +101,7 @@ function App() {
       <Searchbar 
         onChange={searchTermHandler} 
         value={searchTerm} 
-        placeholder="Search" 
+        placeholder="Search.." 
         click={cancelSearch}
         searched={searchFor}
         />

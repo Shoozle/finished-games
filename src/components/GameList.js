@@ -51,9 +51,9 @@ const GameList = (props) => {
             <h2 onClick={displayGamesHandler} className={classes.year}>
             
                 <span className={classes.totalGames}>{totalGames()} games</span>
-                {year} {displayArrow()}
+                {year} 
                 <span className={classes.score}>Avg Score: {calcAvgScore()}</span> 
-
+                {displayArrow()}
             </h2>
             <div className={classes.GameList}>
                 {displayGames ? gameList : null}
