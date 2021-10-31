@@ -1830,8 +1830,15 @@
             "title": "Dark Souls",
             "score": 10,
             "beaten": "Lost count",
-            "comment": "At first it felt like a downgrade from Demon's Souls but overtime I came to love it more. ",
+            "comment": "At first it felt like a downgrade from Demon's Souls but overtime I came to love it more",
             "url": "/img/Dark Souls.jpg"
+        },
+        {
+            "title": "Dead Space 2",
+            "score": 9,
+            "beaten": 1,
+            "comment": "Incredible sequel, played Halloween 2021. Felt sad for characters like Howard Phillips and his birds. Isaac's VA is great. EA Servers ruined the balance a lot but is optional. Returning to Ishimura was handled well too",
+            "url": "/img/Dead Space 2.jpg"
         },
         {
             "title": "Minecraft",
@@ -2417,7 +2424,7 @@
             "title": "Burnout Paradise",
             "score": 8,
             "beaten": 2,
-            "comment": "Free DLC, incredible drop in/out multiplayer, good community, plenty of shortcuts to find. It set the standard for open world racing while still being fast, about taking down your opponent. But with all raches only having 8 finishing spots, you drove through the same areas a lot",
+            "comment": "Free DLC, incredible drop in/out multiplayer, good community, plenty of shortcuts to find. It set the standard for open world racing while still being fast, about taking down your opponent. But with all races only having 8 finishing spots, you drove through the same areas a lot",
             "url": "/img/Burnout Paradise.jpg"
         },
         {
