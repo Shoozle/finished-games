@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import Game from './Game';
 import classes from './GameList.module.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faAngleUp, faAngleDown } from '@fortawesome/free-solid-svg-icons';
 
 const GameList = (props) => {
 
@@ -42,7 +44,7 @@ const GameList = (props) => {
 
     const displayArrow = () => {
         let arrow;
-        downArrow ? arrow = <span className={classes.arrow}> <i className="fas fa-angle-up"></i> </span> : arrow = <span className={classes.arrow}> <i className="fas fa-angle-down"></i> </span>;
+        downArrow ? arrow = <FontAwesomeIcon className={classes.arrow} icon={faAngleUp}/> : arrow = <FontAwesomeIcon className={classes.arrow} icon={faAngleDown}/> ;
         return arrow;
     }
 

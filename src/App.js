@@ -4,6 +4,8 @@ import GameList from './components/GameList';
 import Game from './components/Game';
 import Searchbar from './components/Searchbar';
 import Button from './components/Button';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faArrowUp } from '@fortawesome/free-solid-svg-icons';
 
 const gamesDB = require('../src/data.json');
 const yearsDB = Object.keys(gamesDB);
@@ -28,7 +30,7 @@ function App() {
 
   useEffect(() => {
     const detectScroll = () => {
-      if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+      if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
         setNotTop(true);
       } else {
         setNotTop(false)
@@ -108,7 +110,7 @@ function App() {
       {!searchFor && gameList}
       {searchFor && searchedGameList.length > 0 && <p className="searchResult">{searchedGameList.length} found</p>}
       {searchFor && <div className="searchlist">  {searchedGameList} </div>}
-      {notTop && <a href="#top"><Button>Scroll to Top</Button></a>} 
+      {notTop && <a href="#top"><Button>Go to top <FontAwesomeIcon icon={faArrowUp} /> </Button></a>} 
     </div>
   );
 }
