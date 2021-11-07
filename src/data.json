@@ -548,7 +548,7 @@
         {
             "title": "A Way Out",
             "score": 6,
-            "beaten": 1,
+            "beaten": 2,
             "comment": "A serious co-op game with an ending that was funnier than it should be but there's nothing else quite like it and I'm glad EA supported Josef Fares' ideas as Brothers was also real good",
             "url": "/img/A Way Out.jpg"
         },
@@ -707,6 +707,13 @@
             "beaten": 1,
             "comment": "I walked 5 miles to Bromborough to get this game from ASDA but I don't know why, I will admit that Sylvando is one of the best party members in DQ history but it is a slow burn to get your first 4 party members",
             "url": "/img/Dragon Quest XI.jpg"
+        },
+        {
+            "title": "theHunter: Call of the Wild",
+            "score": 7,
+            "beaten": 1,
+            "comment": "The best forests I've adventuered in in a game. DLC adds QOL features but charges a lot. Great sounds for the animals and a solid game. A mission did not progress despite me successfully doing it and it being hard to do so I uninstalled it",
+            "url": "/img/theHunter Call of the Wild.jpg"
         },
         {
             "title": "Hellblade",
@@ -951,7 +958,7 @@
         {
             "title": "Dark Souls III",
             "score": 6,
-            "beaten": 1,
+            "beaten": "Lost count",
             "comment": "I beat this and no one believed me on the ending I got, so I beat it again and got the ending again and uploaded it this time and was still the first to upload it. Boring game though!",
             "url": "/img/Dark Souls III.jpg"
         },
