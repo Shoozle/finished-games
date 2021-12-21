@@ -50,8 +50,15 @@
             "url": "/img/Super Mario 3D World Bowsers Fury.jpg"
         },
         {
+            "title": "Shin Megami Tensei V",
+            "score": 6,
+            "beaten": 1,
+            "comment": "5 years it took since reveal, and this is both the best and worst SMT I have played. Great visual design for UE, best exploration, great music but no real standouts. Story and characters are awful and going back to Nocturne storytelling was bad",
+            "url": "/img/Shin Megami Tensei V.jpg"
+        },
+        {
             "title": "Forza Horizon 5",
-            "score": 7,
+            "score": 6,
             "beaten": 1,
             "comment": "I actually got the boxart car in a spin, sold it for 3 million then bought the 5 million castle. Rated FH3 too high as this is better, sorta. Sea of Thieves horn saved it, wish I got Banjo Kazooie horn",
             "url": "/img/Forza Horizon 5.jpg"
@@ -62,6 +69,13 @@
             "beaten": 1,
             "comment": "A cute game with nice pixel art. Who knew how simple it is to get a house with 2 bathrooms after leaving your parents house 3 years prior. Not enough to disect a worthwhile story but Godzilla blu-rays was cool",
             "url": "/img/Unpacking.jpg"
+        },
+        {
+            "title": "Pokemon Brilliant Diamond",
+            "score": 6,
+            "beaten": 1,
+            "comment": "I got my first caught wild shiny within 5 hours of gametime. One was waifu bait and the other was Haunter which was cool. Elite 4 wrecked my ass but I abused battle items on Pengum which is something I've never done before",
+            "url": "/img/Pokemon Brilliant Diamond.jpg"
         },
         {
             "title": "Kena Bridge of Spirits",
@@ -169,6 +183,13 @@
             "beaten": 1,
             "comment": "It's frustrating that a game based on a virtual island with many villagers couldn't bother to animate them doing anything on said island and forcing me to do all the slow tedious work. There was also a dog called Mac who I bullied as he gifted me a tombstone and haunted my dreams",
             "url": "/img/Animal Crossing New Horizons.jpg"
+        },
+        {
+            "title": "One Piece Pirate Warriors 4",
+            "score": 6,
+            "beaten": 1,
+            "comment": "The style types for characters is a great addition and the roster has a good mix of unique playstyles. The story is awful but could have ended worse, online issues frequent. Bege is the best. Good difficulty",
+            "url": "/img/One Piece Pirate Warriors 4.jpg"
         },
         {
             "title": "Ghost of Tsushima",
