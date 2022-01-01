@@ -14,12 +14,6 @@ const Game = (props) => {
             <div className={classes.game__inner}>
                 <div style={imagebg} className={classes.game__front}>
                     <h3 className={classes.game__title}>{props.title}</h3>
-                    {/* <img loading="lazy" 
-                        className={classes.game__image} 
-                        src={process.env.PUBLIC_URL + props.url} 
-                        alt={props.title} 
-
-                        /> */}
                     <div className={classes.game__details}>
                         <p className={classes.game__beaten}>Times beaten: {props.beaten}</p>
                         <p className={classes.game__score}><span>{props.score}</span>/10</p>
