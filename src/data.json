@@ -57,6 +57,13 @@
             "url": "/img/Shin Megami Tensei V.jpg"
         },
         {
+            "title": "Liblade",
+            "score": 6,
+            "beaten": 1,
+            "comment": "A fun short game with neat bosses. Music was forgettable and some of the platform sections were kinda crappy with assets looking out of place. Real good final boss that was like a low budget Metroid Dread",
+            "url": "/img/Liblade.jpg"
+        },
+        {
             "title": "Forza Horizon 5",
             "score": 6,
             "beaten": 1,
@@ -3418,6 +3425,15 @@
             "beaten": 1,
             "comment": "Played this alongside a buddy and it got very grind heavy and was kind of obtuse in design that almost felt like it required a Nintendo Power magazine but even back then DQ had charm",
             "url": "/img/Dragon Quest.jpg"
+        }
+    ],
+    "1985": [
+        {
+            "title": "Super Mario Bros",
+            "score": 7,
+            "beaten": 1,
+            "comment": "A classic for a reason but I don't think the jumping physics hold up very well. Warp pipes are a great inclusion and good secrets to be found",
+            "url": "/img/Super Mario Bros.jpg"
         }
     ]
 }
