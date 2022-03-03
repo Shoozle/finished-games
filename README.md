@@ -24,6 +24,3 @@ Basic structure of json file:
       &nbsp;&nbsp;  }  
   &nbsp;  ]  
 }
-
-Notes:
-By default it expects game name and filename to be the same
