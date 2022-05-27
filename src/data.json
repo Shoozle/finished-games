@@ -511,6 +511,13 @@
             "url": "/img/Puzzle Quest The Legend Returns.jpg"
         },
         {
+            "title": "Code Vein",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Awful and comical level design of dumb shortcuts and levers that activate ladders in opposite parts of the map and constant ambushes. Good upgrade system that From could learn a thing from. Cute characters and neat magic system too",
+            "url": "/img/Code Vein.jpg"
+        },
+        {
             "title": "Pokemon Shield",
             "score": 5,
             "beaten": 3,
@@ -687,6 +694,7 @@
             "comment": "A game I heard such good things about but couldn't feel the same once I finished it. It's storybook presentation was cute as were the visuals and characters but it was far too basic compared to other VR games",
             "url": "/img/Moss.jpg"
         },
+
         {
             "title": "Digimon Cyber Sleuth 2",
             "score": 5,
