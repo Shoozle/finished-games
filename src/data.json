@@ -15,6 +15,13 @@
             "url": "/img/Monster Hunter Rise Sunbreak.jpg"
         },
         {
+            "title": "Xenoblade Chronicles 3",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Great themes for a game to focus on and well explored by it's good main cast. Saddened by lack of party change compared to past games. Incredible handheld performance. Great music. The locations were too similar, and the explanation was half assed. Chain attacks were a downgrade",
+            "url": "/img/Xenoblade Chronicles 3.jpg"
+        },
+        {
             "title": "Nobody Saves The World",
             "score": 7,
             "beaten": 1,
@@ -397,6 +404,13 @@
             "beaten": 1,
             "comment": "First time playing a flight sim(ish) game and I had fun primarily due to the fantastic sound design and visuals but parts did drag",
             "url": "/img/Ace Combat 7.jpg"
+        },
+        {
+            "title": "Beat Saber",
+            "score": 7,
+            "beaten": 1,
+            "comment": "A simple idea executed very well; at least on PC where you could get custom songs. Main soundtrack is quite crap and reminds me why I hate PSVR but I do love it when that one song goes: We're playin, we're playin, we're playin BEAT SABER!",
+            "url": "/img/Beat Saber.jpg"
         },
         {
             "title": "Star Wars Jedi Fallen Order",
