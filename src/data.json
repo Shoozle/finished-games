@@ -22,6 +22,13 @@
             "url": "/img/Xenoblade Chronicles 3.jpg"
         },
         {
+            "title": "Bayonetta 3",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Bonkers sequel that never starts, it just goes. Some insane moments like the entire musical bit. Too many chapters, and an ending that was so up/down but ended on a down. Great music but dull colours",
+            "url": "/img/Bayonetta 3.jpg"
+        },
+        {
             "title": "Nobody Saves The World",
             "score": 7,
             "beaten": 1,
@@ -141,6 +148,13 @@
             "beaten": 1,
             "comment": "Some of the best music of the year but a game that has no identity. Too close to the Zelda formula with environments that look too similar. Great and poor bosses. Umbrella weapon is dope and has some good secrets",
             "url": "/img/Death's Door.jpg"
+        },
+        {
+            "title": "Shadoe Tactics Aiko's Choice",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Nice to see love for this game but the expansion didn't improve in the areas Desperados 3 did. A story that didn't need to be told but the coastline level was wonderful and still solid designs all around",
+            "url": "/img/Shadoe Tactics Aiko's Choice.jpg"
         },
         {
             "title": "Pokemon Brilliant Diamond",
