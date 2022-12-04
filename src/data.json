@@ -642,7 +642,7 @@
             "title": "God of War",
             "score": 8,
             "beaten": 1,
-            "comment": "One of the best reboots but the stupid camera being stuck to the back of Kratos really took away the impace of Scale the PS2 games provided, that and the bosses sucked",
+            "comment": "One of the best reboots but the stupid camera being stuck to the back of Kratos really took away the impact of scale the PS2 games provided, that and the bosses sucked",
             "url": "/img/God of War.jpg"
         },
         {
@@ -1390,7 +1390,7 @@
         {
             "title": "Splatoon",
             "score": 6,
-            "beaten": "Lost count",
+            "beaten": 1,
             "comment": "It was weird to see Nintendo reveal a shooter where things literally die and explode in their blood. But it's technically squids and ink so it's okay. Makes me miss miiverse",
             "url": "/img/Splatoon.jpg"
         },
@@ -1775,13 +1775,6 @@
             "beaten": 1,
             "comment": "Played with a buddy and while I do think it is better than the original due to the really neat music based levels, the actual level aesthetics is still poor compared to Rayman 1 and I don't like the side characters you can also play as",
             "url": "/img/Rayman Legends.jpg"
-        },
-        {
-            "title": "Saints Row The Third",
-            "score": 5,
-            "beaten": 1,
-            "comment": "Kanye Wests Power is a real banger of a tune but he's done nothing good since. Much like Saints Row",
-            "url": "/img/Saints Row The Third.jpg"
         },
         {
             "title": "Bioshock Infinite",
@@ -2199,6 +2192,13 @@
             "beaten": 2,
             "comment": "A disappointment for a long time Serious Sam fan but I did a 32 player co-op session which had me laughing constantly during something called SERIOUS SATURDAYS",
             "url": "/img/Serious Sam 3.jpg"
+        },
+        {
+            "title": "Saints Row The Third",
+            "score": 5,
+            "beaten": 1,
+            "comment": "Kanye Wests Power is a real banger of a tune but he's done nothing good since. Much like Saints Row",
+            "url": "/img/Saints Row The Third.jpg"
         },
         {
             "title": "Killzone 3",
