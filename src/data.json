@@ -3,7 +3,7 @@
         {
             "title": "Elden Ring",
             "score": 8,
-            "beaten": 1,
+            "beaten": 5,
             "comment": "One of the best worlds I've adventured in but the boss fights mechnically are too similar and very annoying. Needs to go back to Demon's Souls originiality. I was in constant awe of the environments but wanted it over with well before the end",
             "url": "/img/Elden Ring.jpg"
         },
@@ -245,7 +245,7 @@
         {
             "title": "Wasteland 3",
             "score": 8,
-            "beaten": 1,
+            "beaten": 2,
             "comment": "Played with a buddy which was a co-op nightmare due to the amount of bugs and not quicksaving when we disconnected. Great covers of classic songs with really neat features for a CRPG not seen in other games",
             "url": "/img/Wasteland 3.jpg"
         },
@@ -304,6 +304,13 @@
             "beaten": 1,
             "comment": "Dropped it a bit way in, turns out the 20? symbols on the main menu for bosses/legendaries, only 6 are fillwed in before credits. Went back, and it's pretty good. The fugitive scene is the most emotional Pokemon has been",
             "url": "/img/Pokemon Mystery Dungeon DX.jpg"
+        },
+        {
+            "title": "Resident Evil 3 Remake",
+            "score": 6,
+            "beaten": 1,
+            "comment": "The gore is a significant drop-off and the general zombies were boring but the Nemesis fights were pretty good. Racoon City was a delight to explore with great advertisements. Voice acting quality was off",
+            "url": "/img/Resident Evil 3 Remake.jpg"
         },
         {
             "title": "Animal Crossing New Horizons",
@@ -1844,7 +1851,7 @@
         {
             "title": "Pokemon Black 2",
             "score": 8,
-            "beaten": 2,
+            "beaten": 3,
             "comment": "A game that is almost too long but none the less has an incredible post-game, so many Pokemon to catch and was fresh for being a sequel and not Pokemon Grey. Definitely a fan favourite but I prefer the first",
             "url": "/img/Pokemon Black 2.jpg"
         },
