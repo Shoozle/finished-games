@@ -6,6 +6,27 @@
             "beaten": 1,
             "comment": "A game plucked right out of a Dreamcast. Beautiful art style, great physical comedy, good ending, the weirdest references to Twin Peaks and Xenogears,  unlockable outfits and wonderful music too. A lot of neat hidden mechanics to avoid the annoyances. Wish it had a lock-on",
             "url": "/img/Hi-Fi Rush.jpg"
+        },
+        {
+            "title": "Metroid Prime Remastered",
+            "score": 8,
+            "beaten": 1,
+            "comment": "A really great game where the screenshot button is more helpful than a map. Finding secrets is very satisfying, backtracking can be brutal. Incredibly cool how enemies react to your different beams. Modern controls make it tolerable at last. Great storytelling, loved scanning",
+            "url": "/img/Metroid Prime Remastered.jpg"
+        },
+        {
+            "title": "Theatrhythm Final Bar Line",
+            "score": 7,
+            "beaten": 1,
+            "comment": "Wonderful send off to Theatrhythm and a tribute to Final Fantasy but it's a shame iconic songs are locked behind DLC purchase crap. Too many XIV songs and a lot of them suck. Great credit sequence, remixes and new arrangements.",
+            "url": "/img/Theatrhythm Final Bar Line.jpg"
+        },
+        {
+            "title": "Wo Long Fallen Dynasty",
+            "score": 6,
+            "beaten": 1,
+            "comment": "A game that goes too hard on one mechanic that trivilizes the boss fights into a bait + press circle rhythm. A real shame as some fights are great. Level design is too basic, enemy designs are too few and lack depth. Weapons have limited movesets.",
+            "url": "/img/Wo Long.jpg"
         }
     ],
     "2022": [
