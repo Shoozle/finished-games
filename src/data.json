@@ -2,7 +2,7 @@
     "2023": [
         {
             "title": "Hi-Fi Rush",
-            "score": 9,
+            "score": 8,
             "beaten": 1,
             "comment": "A game plucked right out of a Dreamcast. Beautiful art style, great physical comedy, good ending, the weirdest references to Twin Peaks and Xenogears,  unlockable outfits and wonderful music too. A lot of neat hidden mechanics to avoid the annoyances. Wish it had a lock-on",
             "url": "/img/Hi-Fi Rush.jpg"
@@ -13,6 +13,13 @@
             "beaten": 1,
             "comment": "A really great game where the screenshot button is more helpful than a map. Finding secrets is very satisfying, backtracking can be brutal. Incredibly cool how enemies react to your different beams. Modern controls make it tolerable at last. Great storytelling, loved scanning",
             "url": "/img/Metroid Prime Remastered.jpg"
+        },
+        {
+            "title": "Hitman World of Assassinations",
+            "score": 8,
+            "beaten": 1,
+            "comment": "An incredible free update to an already great game with a fantastic rogue like element that should be implemented for IOI's 007 game. A really shitty common bug though of obnoxious lighting that basically forces you to restart the game or suffer with blindness.",
+            "url": "/img/Hitman World of Assassinations.jpg"
         },
         {
             "title": "Theatrhythm Final Bar Line",
@@ -32,8 +39,8 @@
     "2022": [
         {
             "title": "Elden Ring",
-            "score": 8,
-            "beaten": 5,
+            "score": 9,
+            "beaten": 7,
             "comment": "One of the best worlds I've adventured in but the boss fights mechnically are too similar and very annoying. Needs to go back to Demon's Souls originiality. I was in constant awe of the environments but wanted it over with well before the end",
             "url": "/img/Elden Ring.jpg"
         },
@@ -1281,13 +1288,6 @@
             "beaten": 1,
             "comment": "A incredibly vast sandbox creation tools with good Steam workshop support but DLC went quite insane, very slow to get something going and the management tools were lacking",
             "url": "/img/Planet Coaster.jpg"
-        },
-        {
-            "title": "Salt and Sanctuary",
-            "score": 5,
-            "beaten": 1,
-            "comment": "An okay Souls clone but found the art style absolutely awful and boss names very generic. Neat implementation of online functions but still quite boring",
-            "url": "/img/Salt and Sanctuary.jpg"
         },
         {
             "title": "Gears of War 4",
