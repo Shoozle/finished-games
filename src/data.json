@@ -126,7 +126,7 @@
         {
             "title": "Toem",
             "score": 8,
-            "beaten": 1,
+            "beaten": 2,
             "comment": "Cute art style and character designs, funny writing without going too dumb. Great photography mechanics and good puzzles to solve. Ending didn't have the budget they tried to go for but the journey was very well worth it. Real-time clock tower!",
             "url": "/img/Toem.jpg"
         },
@@ -171,6 +171,13 @@
             "beaten": 1,
             "comment": "The speed boost to the base game makes a lot of difference but the levels now feel really short. Bowsers Fury was somewhat great but felt tied down to the 3D World engine",
             "url": "/img/Super Mario 3D World Bowsers Fury.jpg"
+        },
+        {
+            "title": "Ratchet & Clank A Rift Apart",
+            "score": 7,
+            "beaten": 1,
+            "comment": "A very safe Ratchet game. Rivet sucks for just being another Ratchet instead of giving her a unique personality. Big Head Mode is of course a delight, very particle heavy which looked great and some planets were beautiful",
+            "url": "/img/Ratchet & Clank A Rift Apart.jpg"
         },
         {
             "title": "Shin Megami Tensei V",
@@ -376,6 +383,13 @@
             "beaten": 1,
             "comment": "The gore is a significant drop-off and the general zombies were boring but the Nemesis fights were pretty good. Racoon City was a delight to explore with great advertisements. Voice acting quality was off",
             "url": "/img/Resident Evil 3 Remake.jpg"
+        },
+        {
+            "title": "Sackboy: A Big Adventure",
+            "score": 6,
+            "beaten": 1,
+            "comment": "Co-op levels are really great but it's a shame about the lag. An accolades button still exists that does nothing. Great amount of costumes, even a Toem one. Last level was bullshit. Bosses kinda boring, and the length wore out it's welcome.",
+            "url": "/img/Sackboy A Big Adventure.jpg"
         },
         {
             "title": "Spider-Man: Miles Morales",
