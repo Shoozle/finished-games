@@ -1,0 +1,23 @@
+
+
+.sortButton{
+    margin: .2rem .4rem;
+    padding: 1rem 1rem;
+    font-size: 1.4rem;
+    border-radius: 50%;
+    height: 2rem;
+    width: 2rem;
+    background-color: var(--primary-color-light);
+    
+}
+
+.sortButton:hover { 
+    background-color: var(--secondary-color-dark);
+    cursor: pointer;
+    color: var(--primary-color-light);
+}
+
+.active {
+    color: black;
+    fill: black;
+}

@@ -1,4 +1,4 @@
-.Game {
+.game {
     perspective: 1500rem;
     background-color: transparent;
     position: relative;
@@ -9,7 +9,6 @@
     animation-duration: 1.3s;
     max-width: 22rem;
 }
-
 
 @keyframes fadeIn {
     from {
@@ -29,7 +28,7 @@
     transform-style: preserve-3d;
 }
 
-.Game:hover .game__inner {
+.game:hover .game__inner {
     transform: rotateY(180deg);
 }
 
@@ -48,7 +47,6 @@
     flex: 0;
     flex-direction: column;
     align-items: center;
-    
 }
 
 .game__title {
@@ -103,7 +101,7 @@
 }
 
 @media screen and (max-width: 42rem) {
-    .Game{
+    .game{
         max-width: none;
         width: 100%;
         min-height: 14rem;

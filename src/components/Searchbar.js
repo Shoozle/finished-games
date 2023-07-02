@@ -1,15 +1,18 @@
 import classes from './Searchbar.module.css';
 
 const Searchbar = props => {
+
+    const { value, onChange, placeholder, searched, onClick } = props;
+
     return (
         <div className={classes.Searchbar}>
-            <div className={classes.wrapper}>
+            <div>
                 <input
-                    value={props.value}
-                    onChange={props.onChange}
-                    placeholder={props.placeholder}
+                    value={value}
+                    onChange={onChange}
+                    placeholder={placeholder}
                 />
-                <button disabled={!props.searched} onClick={props.click}>X</button>
+                <button disabled={!searched} onClick={onClick}>X</button>
             </div>
         </div>
     )
