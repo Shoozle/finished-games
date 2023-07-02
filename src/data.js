@@ -3915,15 +3915,6 @@ const gamesData = [
         imgLoc: `/img/Ouendan.jpg`
     },
     {
-        title: `Resident Evil 4`,
-        score: 9,
-        year: 2005,
-        beaten: 2,
-        lastPlayed: 2022,
-        comment: `A friend lent me a copy back on the PS2 but I couldn't get into it. Now I played it on PC and had a blast. The starting village area is absolutely incredible and even referenced to this day by God of War 2018 devs.`,
-        imgLoc: `/img/Resident Evil 4.jpg`
-    },
-    {
         title: `Rogue Galaxy`,
         score: 8,
         year: 2005,
