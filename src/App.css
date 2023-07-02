@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
   --primary-color-dark: rgb(25, 60, 78);
   --primary-color-light: rgb(30, 65, 83);
@@ -12,3 +13,19 @@
   box-sizing: border-box;
 }
 
+=======
+:root {
+  --primary-color-dark: rgb(25, 60, 78);
+  --primary-color-light: rgb(30, 65, 83);
+  --secondary-color-dark: rgb(56, 109, 105);
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+>>>>>>> a189d6acb3a2014c5deb8cba0757ec860e0b29f0
