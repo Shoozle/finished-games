@@ -1,0 +1,11 @@
+.header{
+    color: rgb(243, 243, 243);
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 400;
+    margin: 0 auto;
+    padding-top: 2rem;
+    position: relative;
+    z-index: 20;
+    background-color: inherit;
+}
