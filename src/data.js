@@ -222,7 +222,7 @@ const gamesData = [
         beaten: 1,
         lastPlayed: 2022,
         comment: `Wonderful art with good scale and exploration. Dungeon gimmicks are often irritating and prevent growth though each class is quite unique but some very under developed. Excellent music. co-op not saving locally sucked.`,
-        imgLoc: `/img/Nobody Saves the World.jpg`
+        imgLoc: `/img/Nobody Saves The World.jpg`
     },
     {
         title: `Pokemon Legends Arceus`,
@@ -2346,7 +2346,7 @@ const gamesData = [
         beaten: 1,
         lastPlayed: 2017,
         comment: `If you want to be Iron Man, play this game. So many characters and a delightful open world to explore but the missions themselves is where I wasn't having a blast. Incredible rewards for completing side objectives such as Hulk Stan Lee.`,
-        imgLoc: `/img/Lego Marvel SuperHeroes.jpg`
+        imgLoc: `/img/Lego Marvel Superheroes.jpg`
     },
     {
         title: `The Legend of Zelda The Wind Waker HD`,
@@ -3984,7 +3984,7 @@ const gamesData = [
         beaten: 1,
         lastPlayed: 2006,
         comment: `The game on my PC at the time, did not run it well at all, and I think that affected my enjoyment of it. It also had a heavy multiplayer focus which scared me back then!.`,
-        imgLoc: `/img/Age of Empires III.jpg`
+        imgLoc: `/img/Age of Empires 3.jpg`
     },
     {
         title: `Dynasty Warriors 5`,
