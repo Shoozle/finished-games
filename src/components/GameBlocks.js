@@ -13,8 +13,6 @@ const GameBlocks = () => {
     const [searched, setSearched] = useState(false);
     const [filterList, setFilterList] = useState([]);
 
-    console.log(gamesData)
-
     const groupBy = (array, property) => {
         var hash = {};
         for (var i = 0; i < array.length; i++) {
