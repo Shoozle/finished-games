@@ -3489,7 +3489,7 @@ const gamesData = [
         beaten: 3,
         lastPlayed: 2022,
         comment: `A bit too directed with the lackitoad pinata send-off stuff but it's still great. Some wonderful new designs but the desert/arctic split was annoying to deal with. Prof Pester was obnoxious as hell too.`,
-        imgLoc: `/img/Viva Pinata.jpg`
+        imgLoc: `/img/Viva Pinata TIP.jpg`
     },
     {
         title: `Burnout Paradise`,

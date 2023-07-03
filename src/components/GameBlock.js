@@ -29,11 +29,11 @@ const GameBlock = props => {
             break;
         }
         case 'beaten': {
-            heading = `Games beaten ${grouping} ${grouping === 1 ? `time` : `times`} | ${games.length}  ${games.length === 1 ? `game` : `games`}`;
+            heading = `Beaten ${grouping} ${grouping === 1 ? `time` : `times`} | ${games.length}  ${games.length === 1 ? `game` : `games`}`;
             break;
         }
         case 'lastPlayed': {
-            heading = `Games last finished in ${grouping} | ${games.length} ${games.length === 1 ? `game` : `games`}`;
+            heading = `Last finished in ${grouping} | ${games.length} ${games.length === 1 ? `game` : `games`}`;
             break;
         }
         default: {
