@@ -23,6 +23,10 @@
     background-color: var(--primary-color-dark);
 }
 
+.gameBlock__header:hover {
+    background-color: var(--primary-color-light);
+}
+
 .gameBlock__heading {
     margin-left: auto;
     font-size: 1.2rem;
