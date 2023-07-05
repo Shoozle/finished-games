@@ -1,6 +1,6 @@
 # finished-games
 
-basic data structure is
+basic data structure is\\
 [\
     {\
         title: `Borderlands`,\
