@@ -21,4 +21,3 @@ basic data structure is
         imgLoc: `/img/Burnout Paradise.jpg`\
     }\
 ]\
-\
