@@ -20,4 +20,4 @@ basic data structure is\
         comment: `Free DLC, incredible drop in/out multiplayer, good community, plenty of shortcuts to find. It set the standard for open world racing while still being fast, about taking down your opponent. But with all races only having 8 finishing spots, you drove through the same areas a lot.`,\
         imgLoc: `/img/Burnout Paradise.jpg`\
     }\
-]\
+]
