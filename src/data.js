@@ -3072,8 +3072,8 @@ const gamesData = [
         title: `Ghost Trick`,
         score: 10,
         year: 2010,
-        beaten: 3,
-        lastPlayed: 2021,
+        beaten: 4,
+        lastPlayed: 2023,
         comment: `A modern classic where Shu Takumi got to break away from Ace Attorney. Incredible character animation that oozes personality, great writing and concept for a puzzle game. Great music. Missile best dog, the only thing in life is barking!`,
         imgLoc: `/img/Ghost Trick.jpg`
     },
@@ -4028,7 +4028,7 @@ const gamesData = [
         year: 2004,
         beaten: 2,
         lastPlayed: 2006,
-        comment: `.`,
+        comment: `The pinnacle of racing games that none others can compete. Great sense of speed, fast arcade action, edgelord soundtrack. Very nostalgic for me. Wish it came to xbox BC and not Revenge.`,
         imgLoc: `/img/Burnout 3.jpg`
     },
     {
