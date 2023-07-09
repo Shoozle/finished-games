@@ -1517,7 +1517,7 @@ const gamesData = [
         year: 2017,
         beaten: 1,
         lastPlayed: 2022,
-        comment: `.`,
+        comment: `A bit too much fart humour for me, but some good humour without being too pop culture. Though the popular culture stuff like Pokemon Go do sucks. Has a great "You Died" song.`,
         imgLoc: `/img/South Park The Fractured but Whole.jpg`
     },
     {
@@ -3061,7 +3061,7 @@ const gamesData = [
     },
     {
         title: `Earth Defense Force Insect Armageddon`,
-        score: 7,
+        score: 2,
         year: 2011,
         beaten: 1,
         lastPlayed: 2010,
@@ -3412,7 +3412,7 @@ const gamesData = [
     },
     {
         title: `Dynasty Warriors 6 Empires`,
-        score: 6,
+        score: 5,
         year: 2009,
         beaten: 1,
         lastPlayed: 2014,
@@ -4492,7 +4492,7 @@ const gamesData = [
     },
     {
         title: `Yoshi's Island`,
-        score: 7,
+        score: 8,
         year: 1995,
         beaten: 1,
         lastPlayed: 2022,
@@ -4618,7 +4618,7 @@ const gamesData = [
     },
     {
         title: `Dragon Quest 1 (SNES)`,
-        score: 7,
+        score: 6,
         year: 1993,
         beaten: 1,
         lastPlayed: 2017,
