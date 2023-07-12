@@ -1,4 +1,9 @@
-
+button{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: white;
+}
 
 .sortButton{
     margin: .2rem .4rem;
@@ -8,7 +13,6 @@
     height: 2rem;
     width: 2rem;
     background-color: var(--primary-color-light);
-    
 }
 
 .sortButton:hover { 

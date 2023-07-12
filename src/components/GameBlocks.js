@@ -41,10 +41,10 @@ const GameBlocks = () => {
     const sortButtons = (
         <>
             <div className={classes.sort__buttons}>
-                <SortButton icon="faCalendar" click={() => setGroupType('year')} />
-                <SortButton icon="faStar" text="Sort By Score" click={() => setGroupType('score')} />
-                <SortButton icon="faGamepad" text="Sort By Times Beaten" click={() => setGroupType('beaten')} />
-                <SortButton icon="faUserClock" text="Sort By Last Played" click={() => setGroupType('lastPlayed')} />
+                <SortButton icon="faCalendar" text="Sort by Release" click={() => setGroupType('year')} />
+                <SortButton icon="faStar" text="Sort by Score" click={() => setGroupType('score')} />
+                <SortButton icon="faGamepad" text="Sort by Times Beaten" click={() => setGroupType('beaten')} />
+                <SortButton icon="faUserClock" text="Sort by Last Played" click={() => setGroupType('lastPlayed')} />
             </div>
         </>
     )

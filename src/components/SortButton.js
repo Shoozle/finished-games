@@ -4,18 +4,35 @@ import { faStar, faCalendar, faGamepad, faUserClock } from '@fortawesome/free-so
 
 const SortButton = props => {
 
-    const { icon, click } = props;
+    const { icon, click, text } = props;
 
-    switch (icon) { 
-        case 'faStar' : 
-            return <FontAwesomeIcon icon={faStar} className={classes.sortButton} onClick={click}/>
-        case 'faCalendar' : 
-            return <FontAwesomeIcon icon={faCalendar} className={classes.sortButton} onClick={click}/>
-        case 'faGamepad' : 
-            return <FontAwesomeIcon icon={faGamepad} className={classes.sortButton} onClick={click}/>
-        case 'faUserClock' : 
-            return <FontAwesomeIcon icon={faUserClock} className={classes.sortButton} onClick={click}/>
-        default :
+    switch (icon) {
+        case 'faStar':
+            return (
+                <button tooltip={text} tooltip-position="top" title={text}>
+                    <FontAwesomeIcon icon={faStar} className={classes.sortButton} onClick={click} />
+                </button>
+            )
+        case 'faCalendar':
+            return (
+                <button tooltip={text} tooltip-position="top" title={text}>
+                    <FontAwesomeIcon icon={faCalendar} className={classes.sortButton} onClick={click} />
+                </button>
+            )
+        case 'faGamepad':
+            return (
+                <button tooltip={text} tooltip-position="top" title={text}>
+                    <FontAwesomeIcon icon={faGamepad} className={classes.sortButton} onClick={click} />
+                </button>
+            )
+
+        case 'faUserClock':
+            return (
+                <button tooltip={text} tooltip-position="top" title={text}>
+                    <FontAwesomeIcon icon={faUserClock} className={classes.sortButton} onClick={click} />
+                </button>
+            )
+        default:
             return <></>
     }
 }
