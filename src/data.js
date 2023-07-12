@@ -36,6 +36,15 @@ const gamesData = [
         imgLoc: `/img/It Takes Two.jpg`
     },
     {
+        title: `The Crew`,
+        score: 6,
+        year: 2014,
+        beaten: 1,
+        lastPlayed: 2016,
+        comment: `A Ubisoft formula wrapped around a thin racing game. I remember 1 race lasting like 15 minutes that was full of diverse terrain, with a long tunnel where you came out into a completely different environment.`,
+        imgLoc: `/img/The Crew.jpg`
+    },
+    {
         title: `Grim Dawn`,
         score: 8,
         year: 2016,
