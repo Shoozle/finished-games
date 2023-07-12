@@ -3829,7 +3829,7 @@ const gamesData = [
         score: 8,
         year: 2006,
         beaten: 1,
-        lastPlayed: 2006,
+        lastPlayed: 2019,
         comment: `I really wish Rockstar would make smaller scale games like this as it was enjoyable to do the mini-game classes, especially English which was basically Countdow.`,
         imgLoc: `/img/Bully.jpg`
     },

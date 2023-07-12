@@ -29,7 +29,7 @@ const GameBlock = props => {
             break;
         }
         case 'beaten': {
-            heading = `Beaten ${grouping} ${grouping === 1 ? `time` : `times`} | ${games.length}  ${games.length === 1 ? `game` : `games`}`;
+            heading = `Beaten ${grouping} ${grouping === '1' ? `time` : `times`} | ${games.length}  ${games.length === 1 ? `game` : `games`}`;
             break;
         }
         case 'lastPlayed': {
