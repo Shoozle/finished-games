@@ -4275,9 +4275,9 @@ const gamesData = [
         imgLoc: `/img/Devil May Cry.jpg`
     },
     {
-        title: `Final Fantasy X`,
+        title: `Final Fantasy X HD`,
         score: 5,
-        year: 2001,
+        year: 2013,
         beaten: 1,
         lastPlayed: 2020,
         comment: `A crazy foundation for a setting in an RPG and a nice turn-based combat system that does away with the ATB. Awful dungeons too. But something kept me going back and I don't know why.`,

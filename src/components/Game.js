@@ -2,7 +2,8 @@ import classes from './Game.module.css';
 
 const Game = (props) => {
 
-    const { title, beaten, score, comment, imgLoc } = props.game;
+    const { title, beaten, score, comment, imgLoc, year } = props.game;
+    const { searched } = props;
 
     const imagebg = {
         backgroundImage: `url("${process.env.PUBLIC_URL + imgLoc}")`,
@@ -14,7 +15,7 @@ const Game = (props) => {
         <div className={classes.game}>
             <div className={classes.game__inner}>
                 <div style={imagebg} className={classes.game__front}>
-                    <h3 className={classes.game__title}>{title}</h3>
+                    <h3 className={classes.game__title}>{title} {searched ? `[${year}]` : ``}</h3>
                     <div className={classes.game__details}>
                         <p className={classes.game__beaten}>Times beaten: {beaten}</p>
                         <p className={classes.game__score}><span>{score}</span>/10</p>

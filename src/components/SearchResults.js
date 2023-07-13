@@ -9,6 +9,8 @@ const SearchResults = props => {
             <Game
                 key={game.title}
                 game={game}
+                searched={true}
+                year={game.year}
             />
     )
 
