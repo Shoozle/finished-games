@@ -85,7 +85,7 @@ const gamesData = [
         score: 10,
         year: 2015,
         beaten: `5+`,
-        lastPlayed: 2022,
+        lastPlayed: 2023,
         comment: `I wish Sony remembered Bloodborne exists. A game that deserves a better framerate and visual boost. Weapon transformations are sick. The blood vial system is disappointing. My first playthrough ruined by a memory leak bug. One of the best ever DLCs. Incredible story.`,
         imgLoc: `/img/Bloodborne.jpg`
     },
