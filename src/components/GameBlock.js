@@ -19,9 +19,17 @@ const GameBlock = props => {
         />
     )
 
+    const averageScore = () => {
+        let totalScore = 0;
+        for (let i=0; i <games.length; i++) {
+            totalScore += games[i].score;
+        }
+        return (totalScore / games.length).toFixed(2);
+    }
+
     switch (sortType) {
         case 'year': {
-            heading = `Released in ${grouping} | ${games.length} ${games.length === 1 ? `game` : `games`}`;
+            heading = `Released in ${grouping} | ${games.length} ${games.length === 1 ? `game` : `games`} | Avg score: ${averageScore()}`;
             break;
         }
         case 'score': {
@@ -29,11 +37,11 @@ const GameBlock = props => {
             break;
         }
         case 'beaten': {
-            heading = `Beaten ${grouping} ${grouping === '1' ? `time` : `times`} | ${games.length}  ${games.length === 1 ? `game` : `games`}`;
+            heading = `Beaten ${grouping} ${grouping === '1' ? `time` : `times`} | ${games.length}  ${games.length === 1 ? `game` : `games`} | Avg score: ${averageScore()}`;
             break;
         }
         case 'lastPlayed': {
-            heading = `Last finished in ${grouping} | ${games.length} ${games.length === 1 ? `game` : `games`}`;
+            heading = `Last finished in ${grouping} | ${games.length} ${games.length === 1 ? `game` : `games`}  | Avg score: ${averageScore()}`;
             break;
         }
         default: {
