@@ -4380,7 +4380,7 @@ const gamesData = [
         beaten: 1,
         lastPlayed: 2020,
         comment: `It was great to play through the game that is Valves origins and it still holds up. The chatter of the other scientists was really funny but the final areas were quite boring.`,
-        imgLoc: `/img/Half-Life.jpg`
+        imgLoc: `/img/Half-life.jpg`
     },
     {
         title: `Pokemon TCG`,
