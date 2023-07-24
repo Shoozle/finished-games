@@ -586,7 +586,7 @@ const gamesData = [
     },
     {
         title: `Pokemon Mystery Dungeon DX`,
-        score: 8,
+        score: 7,
         year: 2020,
         beaten: 1,
         lastPlayed: 2020,
