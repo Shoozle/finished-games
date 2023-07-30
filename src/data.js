@@ -2908,7 +2908,7 @@ const gamesData = [
     },
     {
         title: `RAGE`,
-        score: 7,
+        score: 6,
         year: 2011,
         beaten: 1,
         lastPlayed: 2019,
@@ -2917,7 +2917,7 @@ const gamesData = [
     },
     {
         title: `Skyrim`,
-        score: 7,
+        score: 6,
         year: 2011,
         beaten: 1,
         lastPlayed: 2011,
@@ -3277,7 +3277,7 @@ const gamesData = [
     },
     {
         title: `Limbo`,
-        score: 7,
+        score: 5,
         year: 2010,
         beaten: 1,
         lastPlayed: 2012,
@@ -4330,9 +4330,9 @@ const gamesData = [
     },
     {
         title: `Banjo Tooie`,
-        score: 7,
+        score: 4,
         year: 2000,
-        beaten: 1,
+        beaten: 2,
         lastPlayed: 2018,
         comment: `A childhood classic that upon playing again realise it absolutely sucks. So much backtracking and padded out time due to unecessary obsfucation. I remember my brother watching me beat the final boss when I was about 8.`,
         imgLoc: `/img/Banjo Tooie.jpg`
