@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Elden Ring.jpg`
     },
     {
+        title: `Yakuza: Like a Dragon`,
+        score: 8,
+        year: 2020,
+        beaten: 1,
+        lastPlayed: 2023,
+        comment: `A beat em up dev turned RPG dev and somehow made one of the best JRPGs of the last 10 years. A great game to explore in first person. Excellent enemy designs and humour. Fantastic ending. Takes a bit too long to get going and some plot points are incredibly dumb.`,
+        imgLoc: `/img/Yakuza Like a Dragon.jpg`
+    },
+    {
         title: `Final Fantasy XVI`,
         score: 7,
         year: 2023,
