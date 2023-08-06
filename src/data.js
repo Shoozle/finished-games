@@ -1,5 +1,14 @@
 const gamesData = [
     {
+        title: `Dredge`,
+        score: 5,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2023,
+        comment: `An inoffensively boring game. Part fishing & part Resident Evil 4 Attach Case Tetris game. Could've been a pretty good cosmic horror game but it was far too on the nose. A lot of crabs!`,
+        imgLoc: `/img/Dredge.jpg`
+    },
+    {
         title: `Elden Ring`,
         score: 9,
         year: 2022,
