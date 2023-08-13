@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Resident Evil Village`,
+        score: 5,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2021,
+        comment: `Shocked at how boring and "small" it felt. Almost felt like a boss rush after Castle Dimitrescu. Very few original ideas and the first person gimmicks already wore thing back in RE7. The factory level looked beautiful and ray tracing performance was a delight.`,
+        imgLoc: `/img/Resident Evil Village.jpg`
+    },
+    {
         title: `Elden Ring`,
         score: 9,
         year: 2022,
