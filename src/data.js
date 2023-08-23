@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Shadow Gambit`,
+        score: 7,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2023,
+        comment: `Quite buggy! Puzzle solving moments are almost gone due to the freeform character selection but some of their skills are creative. Some good synergy, the islands are very boring. An ending that goes on far too long. Side characters not used enough in the main plot.`,
+        imgLoc: `/img/Shadow Gambit.jpg`
+    },
+    {
         title: `Resident Evil Village`,
         score: 5,
         year: 2021,
