@@ -471,9 +471,9 @@ const gamesData = [
         title: `Diablo 2 Resurrected`,
         score: 5,
         year: 2021,
-        beaten: 1,
-        lastPlayed: 2021,
-        comment: `I can actually see what happens now but the loot space is still poor, no simple respec. But the amount of enemy designs, improved lighting and good itemisation do save it somewhat. Duriel tore my ass apart so I bought 30ish mana potions to spam summons.`,
+        beaten: 2,
+        lastPlayed: 2023,
+        comment: `I played a Holy Fire paladin and got absolutely screwed over towards the end of the game. Maybe it's a good thing D3 casualised everything. I still think loot space is wank but the environments are nice.`,
         imgLoc: `/img/Diablo 2 Resurrected.jpg`
     },
     {
