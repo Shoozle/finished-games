@@ -8,7 +8,7 @@ import SearchResults from './SearchResults';
 
 const GameBlocks = () => {
 
-    const [groupType, setGroupType] = useState('year');
+    const [groupType, setGroupType] = useState('lastPlayed');
     const [searchText, setSearchText] = useState('');
     const [searched, setSearched] = useState(false);
     const [filterList, setFilterList] = useState([]);
@@ -41,10 +41,10 @@ const GameBlocks = () => {
     const sortButtons = (
         <>
             <div className={classes.sort__buttons}>
-                <SortButton icon="faCalendar" text="Sort by Release" click={() => setGroupType('year')} />
-                <SortButton icon="faStar" text="Sort by Score" click={() => setGroupType('score')} />
-                <SortButton icon="faGamepad" text="Sort by Times Beaten" click={() => setGroupType('beaten')} />
-                <SortButton icon="faUserClock" text="Sort by Last Played" click={() => setGroupType('lastPlayed')} />
+                <SortButton text="Last Finished" click={() => setGroupType('lastPlayed')} />
+                <SortButton text="Release" click={() => setGroupType('year')} />
+                <SortButton text="Score" click={() => setGroupType('score')} />
+                <SortButton text="Times Beaten" click={() => setGroupType('beaten')} />
             </div>
         </>
     )

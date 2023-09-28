@@ -2,26 +2,28 @@ button{
     background-color: transparent;
     border: none;
     outline: none;
-    color: white;
 }
 
-.sortButton{
-    margin: .2rem .4rem;
-    padding: 1rem 1rem;
-    font-size: 1.4rem;
-    border-radius: 50%;
-    height: 2rem;
-    width: 2rem;
+.sort__Button{
+    margin: .4rem .8rem;
+    padding: .4rem 1rem;
+    font-size: 1rem;
     background-color: var(--primary-color-light);
+    border-radius: 4rem;
+    outline: none;
+    border: 2px solid rgb(211, 211, 211);
+    color: rgb(247, 247, 247);
 }
 
-.sortButton:hover { 
+.sort__Button:hover { 
     background-color: var(--secondary-color-dark);
     cursor: pointer;
-    color: var(--primary-color-light);
 }
 
 .active {
-    color: black;
-    fill: black;
+    color: white;
+}
+
+.inactive {
+    color: grey;
 }
