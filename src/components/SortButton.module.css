@@ -27,3 +27,9 @@ button{
 .inactive {
     color: grey;
 }
+
+@media screen and (max-width: 42rem) {
+    .sort__Button{
+        font-size: .9rem;
+    }
+}
