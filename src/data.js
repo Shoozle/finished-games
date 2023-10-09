@@ -2892,7 +2892,7 @@ const gamesData = [
         title: `Magicka`,
         score: 7,
         year: 2011,
-        beaten: 1,
+        beaten: 3,
         lastPlayed: 2016,
         comment: `A really funny game with a creative magic system. QFASA was OP and giving yourself different shield types to combat enemies was really clever.`,
         imgLoc: `/img/Magicka.jpg`
@@ -3565,7 +3565,7 @@ const gamesData = [
     },
     {
         title: `Dead Space`,
-        score: 7,
+        score: 8,
         year: 2008,
         beaten: 1,
         lastPlayed: 2020,
@@ -4289,7 +4289,7 @@ const gamesData = [
         year: 2001,
         beaten: 2,
         lastPlayed: 2020,
-        comment: `Played it solo and I was able to appreciate the game more but so many of the levels had repeated level design which in the end did more me a lot. And the flood can bugger off even if it is a fascinating story element.`,
+        comment: `Played it solo and I was able to appreciate the game more but so many of the levels had repeated level design which in the end did bore me a lot. And the flood can bugger off even if it is a fascinating story element.`,
         imgLoc: `/img/Halo.jpg`
     },
     {
