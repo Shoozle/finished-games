@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Redfall`,
+        score: 3,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2023,
+        comment: `A game so bad it makes me think I rate Borderlands too low. The final Raven skill tanks my FPS. Awful loot system with the worst level scaling. The dumbest AI. Talkative protag who kept being mean to his incredibly useful Raven. The Redfall town was nice though. Too many god damn notes.`,
+        imgLoc: `/img/Redfall.jpg`
+    },
+    {
         title: `Shadow Gambit`,
         score: 7,
         year: 2023,
@@ -325,7 +334,7 @@ const gamesData = [
     },
     {
         title: `Monster Hunter Stories 2`,
-        score: 8,
+        score: 7,
         year: 2021,
         beaten: 1,
         lastPlayed: 2021,
