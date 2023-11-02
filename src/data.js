@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Baldur's Gate 3`,
+        score: 8,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2023,
+        comment: `A 3 month journey. It's incredibly ambitious but too buggy for me to rate higher. I found the main story elements to be kind of boring and combat can be repetitive but the adventure is worth it. Loved some of the locations and depth of the world.`,
+        imgLoc: `/img/Baldur's Gate 3.jpg`
+    },
+    {
         title: `Redfall`,
         score: 3,
         year: 2023,
