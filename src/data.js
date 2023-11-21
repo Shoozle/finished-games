@@ -156,7 +156,7 @@ const gamesData = [
         title: `The Talos Principle`,
         score: 8,
         year: 2014,
-        beaten: 1,
+        beaten: 2,
         lastPlayed: 2023,
         comment: `A ridiculous divergence of Croteams usual work and they nailed it. Weird ass philosophical game with puzzles that are a bit too easy but it makes up for it in how complex some of the secrets are to find.`,
         imgLoc: `/img/The Talos Principle.jpg`
