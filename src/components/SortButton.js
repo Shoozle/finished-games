@@ -3,10 +3,16 @@ import { useState } from 'react';
 
 const SortButton = props => {
 
-    const { active, click, text } = props;
+    const {click, text } = props;
+    const [btnState, setBtnState] = useState(false);
+
+    const handleClick = () => {
+        setBtnState(!btnState);
+        click();
+    }
 
     return (
-        <input className={classes.sort__Button} onClick={click} type="button" text={text} value={`Sort by ${text}`}/>
+        <input className={classes.sort__Button} onClick={handleClick} type="button" text={text} value={`Sort by ${text}`}/>
     )
 }
 

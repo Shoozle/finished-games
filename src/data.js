@@ -9,8 +9,17 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `The Talos Principle 2`,
+        score: 7,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2023,
+        comment: `One of the most beautiful games I have played. I think as a whole, everything is weaker than the first. Didn't like the crew aspect, too much chatter. Difficulty never evolves, was too basic even at the very end but still enjoyed puzzle solving.`,
+        imgLoc: `/img/The Talos Principle 2.jpg`
+    },
+    {
         title: `Baldur's Gate 3`,
-        score: 8,
+        score: 7,
         year: 2023,
         beaten: 1,
         lastPlayed: 2023,
@@ -148,7 +157,7 @@ const gamesData = [
         score: 8,
         year: 2014,
         beaten: 1,
-        lastPlayed: 2015,
+        lastPlayed: 2023,
         comment: `A ridiculous divergence of Croteams usual work and they nailed it. Weird ass philosophical game with puzzles that are a bit too easy but it makes up for it in how complex some of the secrets are to find.`,
         imgLoc: `/img/The Talos Principle.jpg`
     },

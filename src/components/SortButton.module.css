@@ -1,18 +1,12 @@
-button{
-    background-color: transparent;
-    border: none;
-    outline: none;
-}
-
 .sort__Button{
     margin: .4rem .8rem;
     padding: .4rem 1rem;
     font-size: 1rem;
-    background-color: var(--primary-color-light);
     border-radius: 4rem;
     outline: none;
     border: 2px solid rgb(211, 211, 211);
     color: rgb(247, 247, 247);
+    background-color: var(--primary-color-light);
 }
 
 .sort__Button:hover { 
@@ -20,12 +14,9 @@ button{
     cursor: pointer;
 }
 
-.active {
-    color: white;
-}
-
-.inactive {
-    color: grey;
+.sort__Button:active,
+.sort__Button:focus {
+    background-color: var(--secondary-color-dark);
 }
 
 @media screen and (max-width: 42rem) {
