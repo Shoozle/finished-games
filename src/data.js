@@ -9,6 +9,24 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Like a Dragon Gaiden: The Man Who Erased His Name`,
+        score: 6,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2023,
+        comment: `What a long stupid title. The ending made me very sad and the quest where you just hang out with the boys was great. Plot was very betrayal heavy and I got a bit fed up of it.`,
+        imgLoc: `/img/Like a Dragon Gaiden The Man Who Erased His Name.jpg`
+    },
+    {
+        title: `Cyberpunk 2077: Phantom Liberty`,
+        score: 6,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2023,
+        comment: `I got a new GPU and revisited thanks to the 2.0 patch. It still kinda sucks! Idris Elba and Keanu Reeves are bad VA. The MSQ was mostly just listening to people with very few "spy thriller" moments. I experienced a sandstorm which was cool.`,
+        imgLoc: `/img/Cyberpunk 2077 Phantom Liberty.jpg`
+    },
+    {
         title: `The Talos Principle 2`,
         score: 7,
         year: 2023,
@@ -112,7 +130,7 @@ const gamesData = [
         score: 8,
         year: 2016,
         beaten: `5+`,
-        lastPlayed: 2021,
+        lastPlayed: 2023,
         comment: `The APRG that feels "most right" to me even if a bit slow. Excellent lore, dark tone, wonderful Dual-class system, active modding community, build variety. It was a great Birthday gift with 1500+ hours spent.`,
         imgLoc: `/img/Grim Dawn.jpg`
     },
@@ -597,9 +615,9 @@ const gamesData = [
         title: `Dreams`,
         score: 7,
         year: 2020,
-        beaten: 1,
-        lastPlayed: 2020,
-        comment: `Media Molecule proves once again they are the best first party Sony developer. Alex Evans has left now which saddens me but Dreams is incredible at simplifying game development for all users.`,
+        beaten: 2,
+        lastPlayed: 2023,
+        comment: `Media Molecule proves once again they are the best first party Sony developer. Alex Evans has left now which saddens me but Dreams is incredible at simplifying game development for all users. The most fun I've had in my job.`,
         imgLoc: `/img/Dreams.jpg`
     },
     {
@@ -4098,9 +4116,9 @@ const gamesData = [
         title: `Burnout 3`,
         score: 9,
         year: 2004,
-        beaten: 2,
-        lastPlayed: 2006,
-        comment: `The pinnacle of racing games that none others can compete. Great sense of speed, fast arcade action, edgelord soundtrack. Very nostalgic for me. Wish it came to xbox BC and not Revenge.`,
+        beaten: 3,
+        lastPlayed: 2023,
+        comment: `The pinnacle of racing games that none others can compete. Great sense of speed, fast arcade action, edgelord soundtrack. Very nostalgic for me. Wish it came to xbox BC and not Revenge. Played it on the Steam Deck and it was great!`,
         imgLoc: `/img/Burnout 3.jpg`
     },
     {
