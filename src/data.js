@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Resident Evil 5`,
+        score: 4,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2009,
+        comment: `Maybe the worst RE game but I have not played 6... yet. Doesn't start off strong and still gets worse. Mad Max costume was worth the extra 50p. Even the boulder punching scene glitches out.`,
+        imgLoc: `/img/Resident Evil 5.jpg`
+    },
+    {
         title: `Like a Dragon Gaiden: The Man Who Erased His Name`,
         score: 6,
         year: 2023,
