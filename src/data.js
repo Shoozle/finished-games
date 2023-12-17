@@ -11,9 +11,9 @@ const gamesData = [
     {
         title: `Resident Evil 5`,
         score: 4,
-        year: 2023,
+        year: 2009,
         beaten: 1,
-        lastPlayed: 2009,
+        lastPlayed: 2023,
         comment: `Maybe the worst RE game but I have not played 6... yet. Doesn't start off strong and still gets worse. Mad Max costume was worth the extra 50p. Even the boulder punching scene glitches out.`,
         imgLoc: `/img/Resident Evil 5.jpg`
     },
