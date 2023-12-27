@@ -361,7 +361,7 @@ const gamesData = [
     },
     {
         title: `Toem`,
-        score: 8,
+        score: 7,
         year: 2021,
         beaten: 3,
         lastPlayed: 2023,
@@ -732,9 +732,9 @@ const gamesData = [
         title: `Cyberpunk 2077`,
         score: 6,
         year: 2020,
-        beaten: 1,
-        lastPlayed: 2022,
-        comment: `A somewhat waste of a game set in 2077 with barely any interesting cyberpunk activities to do. Every character is edgy, Adam Smasher was wasted but the design of Night City is beautiful. Took 3 attempts to finish and I probably wouldn't recommend it.`,
+        beaten: 2,
+        lastPlayed: 2023,
+        comment: `A somewhat waste of a game set in 2077 with barely any interesting cyberpunk activities to do. Adam Smasher still dies in about 20 seconds. Immersion breaking bugs still persist and quest blockers. Happier with the Sun ending this time around.`,
         imgLoc: `/img/Cyberpunk 2077.jpg`
     },
     {
