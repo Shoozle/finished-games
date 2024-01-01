@@ -42,3 +42,9 @@
     align-items: center;
     padding: 4px;
 }
+
+@media screen and (max-width: 42rem) {
+    .gameBlock__heading{
+        font-size: 1rem;
+    }
+}
