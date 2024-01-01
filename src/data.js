@@ -139,8 +139,8 @@ const gamesData = [
         score: 8,
         year: 2016,
         beaten: `5+`,
-        lastPlayed: 2023,
-        comment: `The APRG that feels "most right" to me even if a bit slow. Excellent lore, dark tone, wonderful Dual-class system, active modding community, build variety. It was a great Birthday gift with 1500+ hours spent.`,
+        lastPlayed: 2024,
+        comment: `The APRG that feels "most right" to me even if a bit slow. Excellent lore, dark tone, wonderful Dual-class system, active modding community, build variety. It was a great Birthday gift with 1700+ hours spent.`,
         imgLoc: `/img/Grim Dawn.jpg`
     },
     {

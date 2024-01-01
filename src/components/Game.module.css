@@ -2,7 +2,7 @@
     perspective: 1500rem;
     background-color: transparent;
     position: relative;
-    min-width: 18rem;
+    min-width: 22rem;
     min-height: 18rem;
     cursor: pointer;
     animation-name: fadeIn;
