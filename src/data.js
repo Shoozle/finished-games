@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `The Legend of Dragoon`,
+        score: 7,
+        year: 1999,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `Beautiful towns and art. Quite funny/annoying to watch long animations play out only to miss. The worst translation with a nun named Wink. Combat system needed a bit more but at least it kept you engaged. `,
+        imgLoc: `/img/The Legend of Dragoon.jpg`
+    },
+    {
         title: `Resident Evil 5`,
         score: 4,
         year: 2009,

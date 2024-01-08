@@ -2,12 +2,12 @@
     perspective: 1500rem;
     background-color: transparent;
     position: relative;
-    min-width: 22rem;
+    min-width: 18rem;
     min-height: 18rem;
     cursor: pointer;
     animation-name: fadeIn;
     animation-duration: 1.3s;
-    max-width: 22rem;
+    max-width: 20rem;
 }
 
 @keyframes fadeIn {
