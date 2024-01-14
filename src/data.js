@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Gitaroo Man`,
+        score: 8,
+        year: 2001,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `One of the hardest but funniest games I have ever played. Great soundtrack. Iffy analogue stick controls but maybe that's an emulation/skill problem. Wonderful music, short and sweet. One of the best romance sections of any game and incredibly hype.`,
+        imgLoc: `/img/Gitaroo Man.jpg`
+    },
+    {
         title: `The Legend of Dragoon`,
         score: 7,
         year: 1999,
