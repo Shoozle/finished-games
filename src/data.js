@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Tiny Tina's Wonderlands`,
+        score: 3,
+        year: 2022,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `I have nothing posititve to say about this. Often I rolled a "20" on these dice rolls for loot and I picked up none of it; very insulting. Why use D&D as a setting if you just have all the same guns from BL1-3, why!?`,
+        imgLoc: `/img/Tiny Tina's Wonderlands.jpg`
+    },
+    {
         title: `Gitaroo Man`,
         score: 8,
         year: 2001,
@@ -16,6 +25,15 @@ const gamesData = [
         lastPlayed: 2024,
         comment: `One of the hardest but funniest games I have ever played. Great soundtrack. Iffy analogue stick controls but maybe that's an emulation/skill problem. Wonderful music, short and sweet. One of the best romance sections of any game and incredibly hype.`,
         imgLoc: `/img/Gitaroo Man.jpg`
+    },
+    {
+        title: `Like a Dragon Infinite Wealth`,
+        score: 8,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `Felt like a vocation in Hawaii and I even took 140+ selfies. Ichiban's plot was kinda boring and felt like just an excuse to have Yakuza shenanigans in Hawaii. Incredible mini-games. RGG asset reuse is second to none. Wonderful Kiyru moments honouring past games.`,
+        imgLoc: `/img/Like a Dragon Infinite Wealth.jpg`
     },
     {
         title: `The Legend of Dragoon`,

@@ -5,12 +5,12 @@
     min-width: 18rem;
     min-height: 18rem;
     cursor: pointer;
-    animation-name: fadeIn;
-    animation-duration: 1.3s;
+    /* animation-name: fadeIn;
+    animation-duration: 1.3s; */
     max-width: 20rem;
 }
 
-@keyframes fadeIn {
+/* @keyframes fadeIn {
     from {
         opacity: 0; 
         transform: translateX(100px)
@@ -19,7 +19,7 @@
         opacity: 1; 
         transform: translateX(0)
     }
-}
+} */
 
 .game__inner{
     width: 100%;
