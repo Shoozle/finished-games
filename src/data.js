@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Persona 3 Reload`,
+        score: 8,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `A high quality remake. This might be my favourite Persona though a few of the beginning social links are wank. Great presentation, ending, soundtrack and style. The style was a bit Persona 5 but in blue. Koromaru is best dog.`,
+        imgLoc: `/img/Persona 3 Reload.jpg`
+    },
+    {
         title: `Tiny Tina's Wonderlands`,
         score: 3,
         year: 2022,
