@@ -9,6 +9,24 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Spider-Man 2`,
+        score: 6,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `Insomniac truly make some ugly ass character models. A good sidequest involving pigeons which felt the most Spider-Man. Main story sucked. Great bugs like character models glowing like the sun. Thanks Japan for letting me get it for a tenner. MJ and a Stun Gun is stronger than Spider-Man, why!?`,
+        imgLoc: `/img/Spider-Man 2.jpg`
+    },
+    {
+        title: `Dragon's Dogma 2`,
+        score: 7,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `A sequel that still feels unfinished, though exploring in NG+ was a delight. Almost feels like a remake. Enjoyed exploring the world with my 8ft wife and constantly getting ridiculed for having only female pawns.`,
+        imgLoc: `/img/Dragons Dogma 2.jpg`
+    },
+    {
         title: `Persona 3 Reload`,
         score: 8,
         year: 2024,
