@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Rise of the Ronin`,
+        score: 7,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `I find this games combat incredibly messy but once you nail down a bosses moveset, it becomes smoothly satisfying. Which is good because you fight every enemy about 5 times. Wonderful setting, beautiful armour, great waifus. Plot was hard as hell to follow but great to live in. 100 cats to collect!`,
+        imgLoc: `/img/Rise of the Ronin.jpg`
+    },
+    {
         title: `Spider-Man 2`,
         score: 6,
         year: 2023,
