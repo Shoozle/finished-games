@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Armored Core VI`,
+        score: 7,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `Great scale and mech customisation but a bit too safe where I felt almost no desire to modify my mech 20% into the game. Loved Rusty and his theme tune. Wish I could pause cutscenes as my bladder could not handle it.`,
+        imgLoc: `/img/Armored Core VI.jpg`
+    },
+    {
         title: `Rise of the Ronin`,
         score: 7,
         year: 2024,
