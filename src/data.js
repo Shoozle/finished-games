@@ -27,6 +27,15 @@ const gamesData = [
         imgLoc: `/img/Rise of the Ronin.jpg`
     },
     {
+        title: `Elden Ring: Shadow of the Erdtree`,
+        score: 6,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `The most multi-layered world From has made and it's gorgeous with great boss music too. But fuck me, the bosses are awful. Especially the finale. A lot of asset reuse and empty environments. Loved Midra's Manse, excellent atmosphere in Abyssal Woods and Igon's VO killed it.`,
+        imgLoc: `/img/Elden Ring Shadow of the Erdtree.jpg`
+    },
+    {
         title: `Spider-Man 2`,
         score: 6,
         year: 2023,
