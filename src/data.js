@@ -9,6 +9,24 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Octopath Traveler 2`,
+        score: 7,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `Being able to remove the DOF, and other post-processing by editing an ini file was great. Partitio was a delight as was Ochette. Good chapter variety. Still suffers the same issues as the first game. Incredible music.`,
+        imgLoc: `/img/Octopath Traveler 2.jpg`
+    },
+    {
+        title: `Thank Goodness You're Here`,
+        score: 8,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `An actual funny game. A really great ending. Jolly voice acting. Gags evolve and get better. Naughtier than expected as I did see a penis and the few swears that are there seemed unecessary. Heavily repeats environments.`,
+        imgLoc: `/img/Thank Goodness You're Here.jpg`
+    },
+    {
         title: `Armored Core VI`,
         score: 7,
         year: 2023,
@@ -172,7 +190,7 @@ const gamesData = [
     },
     {
         title: `Elden Ring`,
-        score: 9,
+        score: 8,
         year: 2022,
         beaten: `5+`,
         lastPlayed: 2023,
@@ -1278,7 +1296,7 @@ const gamesData = [
         imgLoc: `/img/Hitman Season 2.jpg`
     },
     {
-        title: `Octopath Traveller`,
+        title: `Octopath Traveler`,
         score: 7,
         year: 2018,
         beaten: 1,
