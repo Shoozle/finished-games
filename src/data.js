@@ -193,7 +193,7 @@ const gamesData = [
         score: 8,
         year: 2022,
         beaten: `5+`,
-        lastPlayed: 2023,
+        lastPlayed: 2024,
         comment: `One of the best worlds I've adventured in but the boss fights mechnically are too similar and very annoying. Needs to go back to Demon's Souls originiality. I was in constant awe of the environments but wanted it over with well before the end.`,
         imgLoc: `/img/Elden Ring.jpg`
     },
