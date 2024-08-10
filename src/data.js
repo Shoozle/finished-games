@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Pokemon Leaf Green`,
+        score: 6,
+        year: 2004,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `The GBA sound is ass. My friend chose my 6 party members and I stuck to it, Slowbro was a bro whereas Beedrill was a sore needle. I had forgotten how high the trainer density was back then but it was a welcome challenge.`,
+        imgLoc: `/img/Pokemon Leaf Green.jpg`
+    },
+    {
         title: `Octopath Traveler 2`,
         score: 7,
         year: 2023,
