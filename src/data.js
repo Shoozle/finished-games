@@ -23,7 +23,7 @@ const gamesData = [
         year: 2024,
         beaten: 1,
         lastPlayed: 2024,
-        comment: `An actual funny game. A really great ending. Jolly voice acting. Gags evolve and get better. Naughtier than expected as I did see a penis and the few swears that are there seemed unecessary. Heavily repeats environments.`,
+        comment: `An actual funny game. A really great ending. Jolly voice acting. Gags evolve and get better. Naughtier than expected as I did see a penis and the few swears that are there seemed unnecessary. Heavily repeats environments.`,
         imgLoc: `/img/Thank Goodness You're Here.jpg`
     },
     {
@@ -104,7 +104,7 @@ const gamesData = [
         year: 2024,
         beaten: 1,
         lastPlayed: 2024,
-        comment: `Felt like a vocation in Hawaii and I even took 140+ selfies. Ichiban's plot was kinda boring and felt like just an excuse to have Yakuza shenanigans in Hawaii. Incredible mini-games. RGG asset reuse is second to none. Wonderful Kiyru moments honouring past games.`,
+        comment: `Felt like a vacation in Hawaii and I even took 140+ selfies. Ichiban's plot was kinda boring and felt like just an excuse to have Yakuza shenanigans in Hawaii. Incredible mini-games. RGG asset reuse is second to none. Wonderful Kiyru moments honouring past games.`,
         imgLoc: `/img/Like a Dragon Infinite Wealth.jpg`
     },
     {
