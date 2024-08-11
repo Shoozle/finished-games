@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Brotato`,
+        score: 6,
+        year: 2022,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `Fun on the Steam Deck but the secrets are lacking compared to something like Vampire Survivors, can see why it's cheap. Too RNG for my liking too but the build variety is nice.`,
+        imgLoc: `/img/Brotato.jpg`
+    },
+    {
         title: `Pokemon Leaf Green`,
         score: 6,
         year: 2004,
