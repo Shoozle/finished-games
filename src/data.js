@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Astro Bot`,
+        score: 9,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `Some kino levels like Downsize Surprise, Luna Sola, Trunk of Funk. Great music and remixes. Bit too much fanservice. Why did this game need the Golden Gate Bridge! Delightful physics playground. Glad someone remembers Bloodborne.`,
+        imgLoc: `/img/Astro Bot.jpg`
+    },
+    {
         title: `Brotato`,
         score: 6,
         year: 2022,
