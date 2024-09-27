@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Dave the Diver`,
+        score: 5,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `A game that started strong but dived (ha) into frustration with annoying mechanics added every hour! Great animations and sprite work though. Bosses were awful. Music was solid and the match minigame was fun.`,
+        imgLoc: `/img/Dave the Diver.jpg`
+    },
+    {
         title: `Astro Bot`,
         score: 9,
         year: 2024,
@@ -310,7 +319,7 @@ const gamesData = [
         score: 10,
         year: 2015,
         beaten: `5+`,
-        lastPlayed: 2023,
+        lastPlayed: 2024,
         comment: `I wish Sony remembered Bloodborne exists. A game that deserves a better framerate and visual boost. Weapon transformations are sick. The blood vial system is disappointing. My first playthrough ruined by a memory leak bug. One of the best ever DLCs. Incredible story.`,
         imgLoc: `/img/Bloodborne.jpg`
     },
