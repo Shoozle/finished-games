@@ -3654,6 +3654,15 @@ const gamesData = [
         imgLoc: `/img/Yakuza 3.jpg`
     },
     {
+        title: `Yakuza 4`,
+        score: 6,
+        year: 2010,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `The panty thief scene was a great nod to Cowboy Bebop. Finally learnt who Saejima is and a scene of his was fantastic. Learned of the meme RUBBER BULLETS! Very stupid. Tanimura was boring and I hated the story structure but the ending was cool.`,
+        imgLoc: `/img/Yakuza 4.jpg`
+    },
+    {
         title: `Dynasty Warriors 6 Empires`,
         score: 5,
         year: 2009,
