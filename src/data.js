@@ -3663,6 +3663,15 @@ const gamesData = [
         imgLoc: `/img/Yakuza 4.jpg`
     },
     {
+        title: `Metaphor ReFantazio`,
+        score: 7,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `Eupha best girl. Bit too on the nose that repeats its main theme constantly. Enjoyed Heismay a lot. Liked the enemy designs but there was only about 10. Archetype designs were bad! Main villain was also kinda crap but glad he was present a lot. Scouse accent representin big time!`,
+        imgLoc: `/img/Metaphor ReFantazio.jpg`
+    },
+    {
         title: `Dynasty Warriors 6 Empires`,
         score: 5,
         year: 2009,
