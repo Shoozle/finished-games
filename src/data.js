@@ -3645,6 +3645,24 @@ const gamesData = [
         imgLoc: `/img/Machinarium.jpg`
     },
     {
+        title: `Dead Island 2`,
+        score: 6,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `Suprisingly alright for a game with such long troubled development. Drop-kicking zombies, exploring rich ass homes. Kinda peaks early though, quests are a bit of a chore. Got a great sledgehammer at the end of the game`,
+        imgLoc: `/img/Dead Island 2.jpg`
+    },
+    {
+        title: `Resident Evil 4 Remake`,
+        score: 8,
+        year: 2023,
+        beaten: 2,
+        lastPlayed: 2024,
+        comment: `A game I liked so much I beat it again a week later on Hardcore. Still campy, great action and horror. Some parts are worse, some parts are better as expected. Music sucks a lot though. So many unique combat encounters. Ada's VO is quite bad!`,
+        imgLoc: `/img/Resident Evil 4 Remake.jpg`
+    },
+    {
         title: `Yakuza 3`,
         score: 6,
         year: 2009,
