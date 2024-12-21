@@ -3645,12 +3645,21 @@ const gamesData = [
         imgLoc: `/img/Machinarium.jpg`
     },
     {
+        title: `The Fool's Errand`,
+        score: 7,
+        year: 1987,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `An ambitious puzzle game full of creative ideas and then epilepsy fits. Too many wordsearches that didn't amount to anything. Nice charming writing and a lovely prologue sequence with great art throughout. My dumbass misspelled Amethyst causing me to think something was wrong.`,
+        imgLoc: `/img/The Fool's Errand.jpg`
+    },
+    {
         title: `Dead Island 2`,
         score: 6,
         year: 2023,
         beaten: 1,
         lastPlayed: 2024,
-        comment: `Suprisingly alright for a game with such long troubled development. Drop-kicking zombies, exploring rich ass homes. Kinda peaks early though, quests are a bit of a chore. Got a great sledgehammer at the end of the game`,
+        comment: `Suprisingly alright for a game with such long troubled development. Drop-kicking zombies, exploring rich ass homes. Kinda peaks early though, quests are a bit of a chore. Got a great sledgehammer at the end of the game.`,
         imgLoc: `/img/Dead Island 2.jpg`
     },
     {
