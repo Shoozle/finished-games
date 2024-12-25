@@ -3663,6 +3663,15 @@ const gamesData = [
         imgLoc: `/img/Dead Island 2.jpg`
     },
     {
+        title: `Snufkin: Melody of Moominvalley`,
+        score: 7,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `Lovely art, needed more Sigur Ros. Quite an adventure, made me chuckle a few times. Snufkin and Moomin need to bone and just get it out the way. DLC was kinda crap. Great way to spend Christmas Day.`,
+        imgLoc: `/img/Snufkin Melody of Moominvalley.jpg`
+    },
+    {
         title: `Resident Evil 4 Remake`,
         score: 8,
         year: 2023,
