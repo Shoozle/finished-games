@@ -3681,6 +3681,15 @@ const gamesData = [
         imgLoc: `/img/Resident Evil 4 Remake.jpg`
     },
     {
+        title: `Unicorn Overlord`,
+        score: 8,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2024,
+        comment: `I've finally beaten a Vanillaware game! Wish they would come to PC. Great art. Loved how flexible the units were. Felt both powerful and weak at times. Wish you could save formations. Married an old hag. Lot of wonderful women.`,
+        imgLoc: `/img/Unicorn Overlord.jpg`
+    },
+    {
         title: `Yakuza 3`,
         score: 6,
         year: 2009,
