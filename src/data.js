@@ -3394,11 +3394,11 @@ const gamesData = [
     },
     {
         title: `Red Dead Redemption`,
-        score: 7,
+        score: 8,
         year: 2010,
-        beaten: 1,
-        lastPlayed: 2019,
-        comment: `A game I finished to simply cross off a classic, a classic I tried playing back in 2010 and hated it. I still kind of do since it does feel like an empty desert so many times but I did grow to like the characters and world.`,
+        beaten: `5+`,
+        lastPlayed: 2025,
+        comment: `A game I learned to love due to... reasons. Love John and Bonnie, best couple. Bit buggy though! Think I prefer it over 2 now due to feeling less of a chore. Beaten on New Year's Day which was a lovely treat.`,
         imgLoc: `/img/Red Dead Redemption.jpg`
     },
     {
