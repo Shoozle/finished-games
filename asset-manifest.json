@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/finished-games/static/css/main.511036fa.css",
-    "main.js": "/finished-games/static/js/main.fd1463fa.js",
+    "main.js": "/finished-games/static/js/main.c7d1b1ba.js",
     "index.html": "/finished-games/index.html",
     "main.511036fa.css.map": "/finished-games/static/css/main.511036fa.css.map",
-    "main.fd1463fa.js.map": "/finished-games/static/js/main.fd1463fa.js.map"
+    "main.c7d1b1ba.js.map": "/finished-games/static/js/main.c7d1b1ba.js.map"
   },
   "entrypoints": [
     "static/css/main.511036fa.css",
-    "static/js/main.fd1463fa.js"
+    "static/js/main.c7d1b1ba.js"
   ]
 }
