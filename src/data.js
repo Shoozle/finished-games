@@ -2889,12 +2889,21 @@ const gamesData = [
         imgLoc: `/img/Botanicula.jpg`
     },
     {
-        title: `Orcs Must Die 2`,
+        title: `Yakuza 5`,
         score: 6,
         year: 2012,
         beaten: 1,
-        lastPlayed: 2013,
-        comment: `If you asked me to remember if I played Orcs Must Die 2, I would say no. But I have! This one had co-op which made it slightly more enjoyable. Good snappy tower defense game in third person, which was a trend back then.`,
+        lastPlayed: 2025,
+        comment: `Shinada is based. Likes old hags, wants to flee from everyone, kind heart at soul. Shame he never comes back. Main story is a bit crap, Haruka songs repeating was annoying. Wish we got more dress-up. Still enjoyed Saejima. The Majima element was a bit crap.`,
+        imgLoc: `/img/Yakuza 5.jpg`
+    },
+    {
+        title: `Orcs Must Die 2`,
+        score: 4,
+        year: 2012,
+        beaten: 2,
+        lastPlayed: 2025,
+        comment: `Replayed with a buddy who is doing a "year of the sequels" and my god the amount of crashes. Finish a level? Crash! Stage 9 of Passages? Crash!.`,
         imgLoc: `/img/Orcs Must Die 2.jpg`
     },
     {
