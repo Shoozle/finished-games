@@ -3001,7 +3001,7 @@ const gamesData = [
         score: 10,
         year: 2011,
         beaten: `5+`,
-        lastPlayed: 2022,
+        lastPlayed: 2025,
         comment: `This game is something else. I love the open world design that isn't too big. The characters. Weapon variety. I could play it forever and probably still discover new things. Fantastic shortcut design that sadly waivers towards the end. God bless Miyazaki.`,
         imgLoc: `/img/Dark Souls.jpg`
     },
