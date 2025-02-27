@@ -3718,10 +3718,10 @@ const gamesData = [
     },
     {
         title: `Pirate Yakuza`,
-        score: 6,
-        year: 2009,
+        score: 7,
+        year: 2025,
         beaten: 1,
-        lastPlayed: 2022,
+        lastPlayed: 2025,
         comment: `Chapter 2 throws everything at you that it kinda grinds to a half. Fantastic substories and lovely post credits scene. "Live long and well enough to pass your dreams onto someone else". I love Saejima. Navy stuff was a bit boring.`,
         imgLoc: `/img/Pirate Yakuza.jpg`
     },
