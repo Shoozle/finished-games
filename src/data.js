@@ -2997,6 +2997,15 @@ const gamesData = [
         imgLoc: `/img/Borderlands 2.jpg`
     },
     {
+        title: `Suicide Squad`,
+        score: 3,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `Game with such a small fanbase, it wanted me to not finish it by giving me a white screen bug blocking the credits. It's stupid. Should not exist. Every idea is bad. I did like jumping around though...`,
+        imgLoc: `/img/Suicide Squad.jpg`
+    },
+    {
         title: `Dark Souls`,
         score: 10,
         year: 2011,
@@ -3706,6 +3715,15 @@ const gamesData = [
         lastPlayed: 2022,
         comment: `While it was nice to be back in Kamurocho, many of the plot elements felt too absurd and one chapter was 30 minutes of dialogue. The orphanage elements were great.`,
         imgLoc: `/img/Yakuza 3.jpg`
+    },
+    {
+        title: `Pirate Yakuza`,
+        score: 6,
+        year: 2009,
+        beaten: 1,
+        lastPlayed: 2022,
+        comment: `Chapter 2 throws everything at you that it kinda grinds to a half. Fantastic substories and lovely post credits scene. "Live long and well enough to pass your dreams onto someone else". I love Saejima. Navy stuff was a bit boring.`,
+        imgLoc: `/img/Pirate Yakuza.jpg`
     },
     {
         title: `Yakuza 4`,
