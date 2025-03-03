@@ -14,7 +14,7 @@ const gamesData = [
         year: 2025,
         beaten: 1,
         lastPlayed: 2025,
-        comment: `The main story is so ass. The kid sucks. The Seikret sucks. Some fights are good but new monsters as a whole are boring. HR is much better. Nice to see some returning 4U guys. Prolapse anus bug is cool. Miss the old Mon Hun. None-hunting quests, canteens, item boxes... all gone!`,
+        comment: `The main story is so ass. The kid sucks. The Seikret sucks. Some fights are good but new monsters as a whole are boring. HR is much better. Nice to see some returning 4U guys. Prolapse anus bug is cool. Miss the old Mon Hun. None-hunting quests, canteens, item boxes, Mon Hun language... all gone!`,
         imgLoc: `/img/Monster Hunter Wilds.jpg`
     },
     {
