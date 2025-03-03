@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Monster Hunter Wilds`,
+        score: 6,
+        year: 2025,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `The main story is so ass. The kid sucks. The Seikrit sucks. Some fights are good but new monsters as a whole are boring. HR is much better. Multiplayer confuses the hell out of me. Nice to see some returning 4U guys. Prolapse anus bug is cool.`,
+        imgLoc: `/img/Monster Hunter Wilds.jpg`
+    },
+    {
         title: `Dave the Diver`,
         score: 5,
         year: 2023,
