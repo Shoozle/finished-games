@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Infinity Nikki`,
+        score: 7,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `The game would be much better without the F2P crap but it's still a really good collectathon. A lot of nice beautiful outfits. Granny Leftys story is tragic. Gorgeous environments. Started my daily addiction!`,
+        imgLoc: `/img/Infinity Nikki.jpg`
+    },
+    {
         title: `Monster Hunter Wilds`,
         score: 6,
         year: 2025,
