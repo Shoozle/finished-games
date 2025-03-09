@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Behind the Frame: The Finest Scenery`,
+        score: 7,
+        year: 2021,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `A cute ghibli looking arty puzzle game. Very simple, quite short but sweet. Nice music. Voice acting and wrting was a bit naff but enjoyable overall. Cute cat.`,
+        imgLoc: `/img/Behind the Frame The Finest Scenery.jpg`
+    },
+    {
         title: `Infinity Nikki`,
         score: 7,
         year: 2024,
