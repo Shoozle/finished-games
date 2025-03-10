@@ -14,7 +14,7 @@ const gamesData = [
         year: 2020,
         beaten: 1,
         lastPlayed: 2025,
-        comment: `Neat little adventure puzzle game. Very basic though. Naration and writing was a bit crap and some puzzles were repeated too often but I liked the theming. `,
+        comment: `Neat little adventure puzzle game. Very basic though. Narration and writing was a bit crap and some puzzles were repeated too often but I liked the theming. `,
         imgLoc: `/img/The Last Campfire.jpg`
     },
     {
@@ -1364,7 +1364,7 @@ const gamesData = [
         year: 2018,
         beaten: 2,
         lastPlayed: 2023,
-        comment: `The episodic element is gone but the awful online element still persists. An enjoyable last level in the suburbs but can't remember much else!.`,
+        comment: `The episodic element is gone but the awful online element still persists. An enjoyable last level in the suburbs but can't remember much else!`,
         imgLoc: `/img/Hitman Season 2.jpg`
     },
     {
@@ -2939,7 +2939,7 @@ const gamesData = [
         year: 2012,
         beaten: 2,
         lastPlayed: 2025,
-        comment: `Replayed with a buddy who is doing a "year of the sequels" and my god the amount of crashes. Finish a level? Crash! Stage 9 of Passages? Crash!.`,
+        comment: `Replayed with a buddy who is doing a "year of the sequels" and my god the amount of crashes. Finish a level? Crash! Stage 9 of Passages? Crash!`,
         imgLoc: `/img/Orcs Must Die 2.jpg`
     },
     {
@@ -4343,7 +4343,7 @@ const gamesData = [
         year: 2005,
         beaten: 1,
         lastPlayed: 2006,
-        comment: `The game on my PC at the time, did not run it well at all, and I think that affected my enjoyment of it. It also had a heavy multiplayer focus which scared me back then!.`,
+        comment: `The game on my PC at the time, did not run it well at all, and I think that affected my enjoyment of it. It also had a heavy multiplayer focus which scared me back then!`,
         imgLoc: `/img/Age of Empires 3.jpg`
     },
     {
@@ -4487,7 +4487,7 @@ const gamesData = [
         year: 2003,
         beaten: 1,
         lastPlayed: 2011,
-        comment: `Henshin a go-go baby! A game where I love the style more so than the gameplay. It was quite hard but the game made good use of the time manipulation such as slowing down the helicopters blades to lower it, and more!.`,
+        comment: `Henshin a go-go baby! A game where I love the style more so than the gameplay. It was quite hard but the game made good use of the time manipulation such as slowing down the helicopters blades to lower it, and more!`,
         imgLoc: `/img/Viewtiful Joe.jpg`
     },
     {
@@ -4811,7 +4811,7 @@ const gamesData = [
         year: 1996,
         beaten: 1,
         lastPlayed: 2019,
-        comment: `Asked my friend what SNES game to play, he said this, had a blast, never doubted him since. Geno for Smash!.`,
+        comment: `Asked my friend what SNES game to play, he said this, had a blast, never doubted him since. Geno for Smash!`,
         imgLoc: `/img/Super Mario RPG.jpg`
     },
     {
