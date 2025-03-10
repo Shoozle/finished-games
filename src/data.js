@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `The Last Campfire`,
+        score: 6,
+        year: 2020,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `Neat little adventure puzzle game. Very basic though. Naration and writing was a bit crap and some puzzles were repeated too often but I liked the theming. `,
+        imgLoc: `/img/The Last Campfire.jpg`
+    },
+    {
         title: `Behind the Frame: The Finest Scenery`,
         score: 7,
         year: 2021,
