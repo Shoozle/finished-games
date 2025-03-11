@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Shashingo: Learn Japanese with Photography`,
+        score: 6,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `I paid too much for this, the town you explore is far too small. Nice presentation though and a neat little idea. Don't think it helped much in learning Japanese though!`,
+        imgLoc: `/img/Shashingo.jpg`
+    },
+    {
         title: `The Last Campfire`,
         score: 6,
         year: 2020,
