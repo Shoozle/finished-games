@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Balatro`,
+        score: 6,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `I don't like deckbuilders, but this is okay, I guess. Addictive but boring and at least the art style doesn't offend me too much in this one. A lot of crossovers. And I do like poker!`,
+        imgLoc: `/img/Balatro.jpg`
+    },
+    {
         title: `Shashingo: Learn Japanese with Photography`,
         score: 6,
         year: 2024,
