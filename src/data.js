@@ -18,6 +18,15 @@ const gamesData = [
         imgLoc: `/img/Balatro.jpg`
     },
     {
+        title: `Nonogram 3D: Mega Puzzle`,
+        score: 7,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `I will always give Picross 3D games a go, and this one is solid. Made by the French, has some funny bugs. No Steam Deck support is a bummer. Really needs a bomb button for all the 0s. On the easy side but good puzzle designs and a lot of them!`,
+        imgLoc: `/img/Nonogram 3D.jpg`
+    },
+    {
         title: `Shashingo: Learn Japanese with Photography`,
         score: 6,
         year: 2024,
