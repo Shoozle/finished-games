@@ -18,6 +18,15 @@ const gamesData = [
         imgLoc: `/img/Balatro.jpg`
     },
     {
+        title: `Gorogoa`,
+        score: 8,
+        year: 2017,
+        beaten: 2,
+        lastPlayed: 2025,
+        comment: `One of Dara O'Briains favourite games and I kinda get it. Story with no dialogue but not pretentious. Beautiful art aided by a solid puzzle layout. Can be a bit tricky but it is not spoonfeeding solutions. `,
+        imgLoc: `/img/Gorogoa.jpg`
+    },
+    {
         title: `Nonogram 3D: Mega Puzzle`,
         score: 7,
         year: 2024,
