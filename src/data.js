@@ -18,6 +18,15 @@ const gamesData = [
         imgLoc: `/img/Balatro.jpg`
     },
     {
+        title: `Split Fiction`,
+        score: 7,
+        year: 2025,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `Final level saved it from being a 6. Mio and Zoe are boring and me playing as Zoe meant I got the worst abilities. The Capcha moment was funny, the hand drawn side story was cool too. Loved the food side story with a great dentist boss!`,
+        imgLoc: `/img/Split Fiction.jpg`
+    },
+    {
         title: `Gorogoa`,
         score: 8,
         year: 2017,
