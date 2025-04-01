@@ -18,6 +18,15 @@ const gamesData = [
         imgLoc: `/img/Balatro.jpg`
     },
     {
+        title: `The Pedestrian`,
+        score: 6,
+        year: 2020,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `Neat puzzle game but I expected something different to what I got. I was not into the whole rearrangement of small rooms, I expected instead more interactivity with the world. The ending was super cool though and if it was more of that, I'd have been happier.`,
+        imgLoc: `/img/The Pedestrian.jpg`
+    },
+    {
         title: `Split Fiction`,
         score: 7,
         year: 2025,
