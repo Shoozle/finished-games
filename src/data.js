@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Clair Obscur: Expedition 33`,
+        score: 9,
+        year: 2025,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `The French have made a brilliant J'RPG. Lovely art direction, beautiful music, and a great premise that hooks you in fast. UI is a bit cumbersome and wish it had more QOL features. Damage numbers become very unbalanced. Swimsuits! Lune best waifu!`,
+        imgLoc: `/img/Clair Obscur Expedition 33.jpg`
+    },
+    {
         title: `Balatro`,
         score: 6,
         year: 2024,
@@ -352,11 +361,11 @@ const gamesData = [
     },
     {
         title: `It Takes Two`,
-        score: 9,
+        score: 8,
         year: 2021,
-        beaten: 1,
-        lastPlayed: 2021,
-        comment: `Josef Fares might be one of the best directors who can drastically change the tone of each of his games. A wonderful creative and colourful co-op experience with plenty of side activities to do but a rather weak ending.`,
+        beaten: 2,
+        lastPlayed: 2025,
+        comment: `Josef Fares might be one of the best directors who can drastically change the tone of each of his games. A wonderful creative and colourful co-op experience with plenty of side activities to do but a rather weak ending. Don't play with someone who moans about divorce and takes the joy out of it.`,
         imgLoc: `/img/It Takes Two.jpg`
     },
     {
