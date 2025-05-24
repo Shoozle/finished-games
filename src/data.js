@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Super Mario Bros Wonder`,
+        score: 7,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `People forgot about this quickly and I can see why. It's great but not very exciting. The water levels suck ass, why do we need a high pitched squeak each time you swim dash! That said, some levels are great and Wonder segments are often fun too but sometimes boring or too short.`,
+        imgLoc: `/img/Super Mario Bros Wonder.jpg`
+    },
+    {
         title: `Clair Obscur: Expedition 33`,
         score: 9,
         year: 2025,
