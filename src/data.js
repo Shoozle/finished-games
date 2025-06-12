@@ -8,6 +8,15 @@ const gamesData = [
         comment: `An inoffensively boring game. Part fishing & part Resident Evil 4 Attach Case Tetris game. Could've been a pretty good cosmic horror game but it was far too on the nose. A lot of crabs!`,
         imgLoc: `/img/Dredge.jpg`
     },
+        {
+        title: `Elden Ring: Nightreign`,
+        score: 5,
+        year: 2025,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `Exemplifies the worst elements of Elden Ring. Awful performance. Only ever won when I was playing as the archer which shows I suck. RNG is piss poor and even for a roguelite, the variations are not good enough and you barely see the benefits of passives.`,
+        imgLoc: `/img/Elden Ring Nightreign.jpg`
+    },
     {
         title: `Super Mario Bros Wonder`,
         score: 7,
