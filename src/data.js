@@ -8,7 +8,16 @@ const gamesData = [
         comment: `An inoffensively boring game. Part fishing & part Resident Evil 4 Attach Case Tetris game. Could've been a pretty good cosmic horror game but it was far too on the nose. A lot of crabs!`,
         imgLoc: `/img/Dredge.jpg`
     },
-        {
+    {
+        title: `Mario Kart World`,
+        score: 6,
+        year: 2025,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `I think I've come to the conclusion I don't like Mario Kart. The roster is alright, music is incredible but heard to hear over the kart engines and no sound settings! Some beautiful tracks. Still has the dumb babies but the inclusion of nobodies from Mario was great. Playable crab!`,
+        imgLoc: `/img/Mario Kart World.jpg`
+    },
+    {
         title: `Elden Ring: Nightreign`,
         score: 5,
         year: 2025,
@@ -4265,7 +4274,7 @@ const gamesData = [
         comment: `One of my absolute favourite games from one of my favourite game directors. A beautiful stylized Japanese game which started my love for Yokai. A unique combat system with a great story, funny side characters and a deeply interactive world.`,
         imgLoc: `/img/Okami HD.jpg`
     },
-        {
+    {
         title: `Viva Pinata`,
         score: 8,
         year: 2006,
@@ -4274,7 +4283,7 @@ const gamesData = [
         comment: `Don't know what made me buy this but glad I did. Incredible soulful game with such odd requirements to unlock new pinatas.`,
         imgLoc: `/img/Viva Pinata.jpg`
     },
-        {
+    {
         title: `Bully`,
         score: 8,
         year: 2006,
@@ -4283,7 +4292,7 @@ const gamesData = [
         comment: `I really wish Rockstar would make smaller scale games like this as it was enjoyable to do the mini-game classes, especially English which was basically Countdow.`,
         imgLoc: `/img/Bully.jpg`
     },
-        {
+    {
         title: `God Hand`,
         score: 8,
         year: 2006,
@@ -4292,7 +4301,7 @@ const gamesData = [
         comment: `A game that's too bloody hard but also incredible. Good humour, unique combat system and makes me wish Mikami would move away from horror games.`,
         imgLoc: `/img/God Hand.jpg`
     },
-        {
+    {
         title: `Persona 3 FES`,
         score: 6,
         year: 2006,
@@ -4301,7 +4310,7 @@ const gamesData = [
         comment: `BABY BABY BABY BABY BABYYYY! A good game but the lack of party control can be a hindrance. One social link really stands out to me about a guy dealing with cancer while writing a childrens book about a pink elephant. Not a happy ending sadly.`,
         imgLoc: `/img/Persona 3 FES.jpg`
     },
-        {
+    {
         title: `Black`,
         score: 6,
         year: 2006,
@@ -4310,7 +4319,7 @@ const gamesData = [
         comment: `Played much later but even here, Criterion makes an FPS on the PS2 with a punch. Some excellent sound design for a ps2 shooter but other than that, it was pretty ordinary.`,
         imgLoc: `/img/Black.jpg`
     },
-        {
+    {
         title: `Pokemon Diamond & Pearl`,
         score: 5,
         year: 2006,
@@ -4319,7 +4328,7 @@ const gamesData = [
         comment: `A game I used to love and now kinda hate. The pokemon variety in Gen IV is abysmal with only one other fire type. Very slow with mad HM usage and not very memorable routes. The safari zone sucks too.`,
         imgLoc: `/img/Pokemon Diamond & Pearl.jpg`
     },
-        {
+    {
         title: `Dead Rising`,
         score: 5,
         year: 2006,
@@ -4328,7 +4337,7 @@ const gamesData = [
         comment: `Finished on the night of Eurovision. Starts off frustrating but once you get into the groove of understanding the UI and map, it gets better. Fun easter eggs but not a lot of useful items.`,
         imgLoc: `/img/Dead Rising.jpg`
     },
-        {
+    {
         title: `Thrillville`,
         score: 5,
         year: 2006,
@@ -4337,7 +4346,7 @@ const gamesData = [
         comment: `A great title for a roller coaster game BUT, this has too much of a focus on interacting with visitors on the ground level. It had some charm for sure such as the ability to flirt with guests with pick up lines such as: 'You're all curves with no breaks.`,
         imgLoc: `/img/Thrillville.jpg`
     },
-        {
+    {
         title: `Need for Speed Carbon`,
         score: 5,
         year: 2006,
