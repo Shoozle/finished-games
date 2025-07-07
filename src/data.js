@@ -381,9 +381,9 @@ const gamesData = [
         title: `Pokemon Scarlet & Violet`,
         score: 7,
         year: 2022,
-        beaten: 2,
-        lastPlayed: 2022,
-        comment: `Strong character development, neat final fight gimmick, great exploration and fair difficulty. Performance issues are aplenty and the new Pokemon designs as a whole are weak but I loved the world. Praise Larry, the best Gym Leader!`,
+        beaten: 3,
+        lastPlayed: 2025,
+        comment: `Switch 2 update somehow makes it... better and also a little bit worse. Lack of budget shows. Really needs less text boxes. Got a shiny guitar boy who got one shot by any ground move. Larry still the best. DLC expansion is kinda ass.`,
         imgLoc: `/img/Pokemon Scarlet & Violet.jpg`
     },
     {
