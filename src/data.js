@@ -24,7 +24,7 @@ const gamesData = [
         beaten: 1,
         lastPlayed: 2025,
         comment: `Personally felt like a downgrade. Some very hard to see interactive items made it hard to progress. Went a bit too in on the horror which made for flashing visual images appearing too often. The FMV stuff was really cool though.`,
-        imgLoc: `/img/The Room.jpg`
+        imgLoc: `/img/The Room Two.jpg`
     },
     {
         title: `Mario Kart World`,
