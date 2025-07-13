@@ -8,6 +8,24 @@ const gamesData = [
         comment: `An inoffensively boring game. Part fishing & part Resident Evil 4 Attach Case Tetris game. Could've been a pretty good cosmic horror game but it was far too on the nose. A lot of crabs!`,
         imgLoc: `/img/Dredge.jpg`
     },
+        {
+        title: `The Room`,
+        score: 7,
+        year: 2012,
+        beaten: 2,
+        lastPlayed: 2025,
+        comment: `Neat puzzle game with nice visuals for a mobile game. Interesting story but not too in your face. Interactive items are easily visible.`,
+        imgLoc: `/img/The Room.jpg`
+    },
+            {
+        title: `The Room Two`,
+        score: 6,
+        year: 2013,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `Personally felt like a downgrade. Some very hard to see interactive items made it hard to progress. Went a bit too in on the horror which made for flashing visual images appearing too often. The FMV stuff was really cool though.`,
+        imgLoc: `/img/The Room.jpg`
+    },
     {
         title: `Mario Kart World`,
         score: 6,
