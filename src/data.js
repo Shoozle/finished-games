@@ -8,7 +8,7 @@ const gamesData = [
         comment: `An inoffensively boring game. Part fishing & part Resident Evil 4 Attach Case Tetris game. Could've been a pretty good cosmic horror game but it was far too on the nose. A lot of crabs!`,
         imgLoc: `/img/Dredge.jpg`
     },
-        {
+    {
         title: `The Room`,
         score: 7,
         year: 2012,
@@ -17,7 +17,7 @@ const gamesData = [
         comment: `Neat puzzle game with nice visuals for a mobile game. Interesting story but not too in your face. Interactive items are easily visible.`,
         imgLoc: `/img/The Room.jpg`
     },
-            {
+    {
         title: `The Room Two`,
         score: 6,
         year: 2013,
@@ -25,6 +25,24 @@ const gamesData = [
         lastPlayed: 2025,
         comment: `Personally felt like a downgrade. Some very hard to see interactive items made it hard to progress. Went a bit too in on the horror which made for flashing visual images appearing too often. The FMV stuff was really cool though.`,
         imgLoc: `/img/The Room Two.jpg`
+    },
+    {
+        title: `The Room Three`,
+        score: 7,
+        year: 2015,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `Some great environments, and big improvement on 2. Loved the lighthouse, clocktower and the 3d geographical map section. It was right up my alley and the multiple endings was cool.`,
+        imgLoc: `/img/The Room Three.jpg`
+    },
+    {
+        title: `Donkey Kong Bananza`,
+        score: 7,
+        year: 2025,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `Incredible final hour that reminds me that old DK is better. Music was a bummer overall apart from the Bananza themes and classic tracks. The environments were drab, themes were boring and level design almost didn't exist. Smashing was always fun though and inflammonnite was a cool boss.`,
+        imgLoc: `/img/Donkey Kong Bananza.jpg`
     },
     {
         title: `Mario Kart World`,
