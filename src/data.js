@@ -35,6 +35,15 @@ const gamesData = [
         comment: `Some great environments, and big improvement on 2. Loved the lighthouse, clocktower and the 3d geographical map section. It was right up my alley and the multiple endings was cool.`,
         imgLoc: `/img/The Room Three.jpg`
     },
+        {
+        title: `The Room 4`,
+        score: 7,
+        year: 2018,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `At last I finished all four games! This one is great, might be the best. Loved the way the rooms blended in together with pipes, music and walls. Liked Abigail and Edward. And the final puzzle reminded me of The 7th Guest VR.`,
+        imgLoc: `/img/The Room Four.jpg`
+    },
     {
         title: `Donkey Kong Bananza`,
         score: 7,
