@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Bakeru`,
+        score: 5,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `A game that should be funner to play for how it looks and sounds. Character is too slow, the shmup and racing levels suck, the story is kinda ass too but the level design can be cool. Too many invisible walls which got me killed a lot as did dodge and sprint being the same button. The poo facts guy was fun.`,
+        imgLoc: `/img/Bakeru.jpg`
+    },
+    {
         title: `The Room`,
         score: 7,
         year: 2012,
@@ -35,7 +44,7 @@ const gamesData = [
         comment: `Some great environments, and big improvement on 2. Loved the lighthouse, clocktower and the 3d geographical map section. It was right up my alley and the multiple endings was cool.`,
         imgLoc: `/img/The Room Three.jpg`
     },
-        {
+    {
         title: `The Room 4`,
         score: 7,
         year: 2018,
