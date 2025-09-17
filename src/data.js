@@ -8,6 +8,15 @@ const gamesData = [
         comment: `An inoffensively boring game. Part fishing & part Resident Evil 4 Attach Case Tetris game. Could've been a pretty good cosmic horror game but it was far too on the nose. A lot of crabs!`,
         imgLoc: `/img/Dredge.jpg`
     },
+        {
+        title: `Hollow Knight: Silksong`,
+        score: 7,
+        year: 2025,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `It's no wonder this "DLC" took so long, but it's too big. And I found it frustrating. But the content is meaty. Cogwork Dancers and First Sinner bosses were wonderful but too many gang fights. Protect Sherma! Shard currency sucks ass making my favourite crest awful.`,
+        imgLoc: `/img/Silksong.jpg`
+    },
     {
         title: `Bakeru`,
         score: 5,
