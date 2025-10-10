@@ -77,7 +77,7 @@ const gamesData = [
         year: 2025,
         beaten: 1,
         lastPlayed: 2025,
-        comment: `I think I've come to the conclusion I don't like Mario Kart. The roster is alright, music is incredible but heard to hear over the kart engines and no sound settings! Some beautiful tracks. Still has the dumb babies but the inclusion of nobodies from Mario was great. Playable crab!`,
+        comment: `I think I've come to the conclusion I don't like Mario Kart. The roster is alright, music is incredible but hard to hear over the kart engines and no sound settings! Some beautiful tracks. Still has the dumb babies but the inclusion of nobodies from Mario was great. Playable crab!`,
         imgLoc: `/img/Mario Kart World.jpg`
     },
     {
@@ -4341,10 +4341,20 @@ const gamesData = [
         title: `Viva Pinata`,
         score: 8,
         year: 2006,
-        beaten: 3,
-        lastPlayed: 2021,
-        comment: `Don't know what made me buy this but glad I did. Incredible soulful game with such odd requirements to unlock new pinatas.`,
+        beaten: 4,
+        lastPlayed: 2025,
+        comment: `Don't know what made me buy this but glad I did. Incredible soulful game with such odd requirements to unlock new pinatas. God bless PinataIsland.info. `,
         imgLoc: `/img/Viva Pinata.jpg`
+    },
+    
+        {
+        title: `Digimon Story Time Stranger`,
+        score: 7,
+        year: 2025,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `A lot of walking through the same area. Repeated dialogue. Hated the time travel aspect overall. Lilithmon is best waifu. Good animations and designs but wish it had newer Digimon. Liked it overall!`,
+        imgLoc: `/img/Digimon Story Time Stranger.jpg`
     },
     {
         title: `Bully`,
