@@ -8,7 +8,7 @@ const gamesData = [
         comment: `An inoffensively boring game. Part fishing & part Resident Evil 4 Attach Case Tetris game. Could've been a pretty good cosmic horror game but it was far too on the nose. A lot of crabs!`,
         imgLoc: `/img/Dredge.jpg`
     },
-        {
+    {
         title: `Hollow Knight: Silksong`,
         score: 7,
         year: 2025,
@@ -4346,8 +4346,7 @@ const gamesData = [
         comment: `Don't know what made me buy this but glad I did. Incredible soulful game with such odd requirements to unlock new pinatas. God bless PinataIsland.info. `,
         imgLoc: `/img/Viva Pinata.jpg`
     },
-    
-        {
+    {
         title: `Digimon Story Time Stranger`,
         score: 7,
         year: 2025,
@@ -4355,6 +4354,15 @@ const gamesData = [
         lastPlayed: 2025,
         comment: `A lot of walking through the same area. Repeated dialogue. Hated the time travel aspect overall. Lilithmon is best waifu. Good animations and designs but wish it had newer Digimon. Liked it overall!`,
         imgLoc: `/img/Digimon Story Time Stranger.jpg`
+    },
+    {
+        title: `Pokemon Legends Z-A`,
+        score: 6,
+        year: 2025,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `A boring empty city but a funnish system for Pokemon due to fast battles. Full of cute babes. Nice music. Dumb plot. Some good mega designs though. I enjoyed finding the non-wild Pokemon but it needed more secret spots. The museum was a highlight.`,
+        imgLoc: `/img/Pokemon Legends Z-A.jpg`
     },
     {
         title: `Bully`,
