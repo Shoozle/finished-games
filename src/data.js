@@ -4370,8 +4370,17 @@ const gamesData = [
         year: 2006,
         beaten: 1,
         lastPlayed: 2019,
-        comment: `I really wish Rockstar would make smaller scale games like this as it was enjoyable to do the mini-game classes, especially English which was basically Countdow.`,
+        comment: `I really wish Rockstar would make smaller scale games like this as it was enjoyable to do the mini-game classes, especially English which was basically Countdown.`,
         imgLoc: `/img/Bully.jpg`
+    },
+        {
+        title: `Alba: A Wildlife Adventure`,
+        score: 5,
+        year: 2020,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `Boring but short. Cute skipping animation though. Liked the birds but didn't get attached to any of them in a meaningful way.`,
+        imgLoc: `/img/Alba.jpg`
     },
     {
         title: `God Hand`,
