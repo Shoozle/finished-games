@@ -4374,6 +4374,15 @@ const gamesData = [
         imgLoc: `/img/Bully.jpg`
     },
         {
+        title: `Herdling`,
+        score: 7,
+        year: 2025,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `This game is cute but lacks the special quality of something like Journey or Brothers. It's a bit too UI controller heavy instead of being natural. Music was beautiful, environments were nice and the monster naming was cute.`,
+        imgLoc: `/img/Herdling.jpg`
+    },
+        {
         title: `Alba: A Wildlife Adventure`,
         score: 5,
         year: 2020,
