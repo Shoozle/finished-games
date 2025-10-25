@@ -4374,6 +4374,15 @@ const gamesData = [
         imgLoc: `/img/Bully.jpg`
     },
         {
+        title: `Keeper`,
+        score: 7,
+        year: 2025,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `The puzzles are boring but I love the art direction and creature designs. Also just a weird concept in general. Very trippy at points. I thought the birds were wasted potential. Lovely cinematic shots too! Similar ending to Herdling which I played right before.`,
+        imgLoc: `/img/Keeper.jpg`
+    },
+        {
         title: `Herdling`,
         score: 7,
         year: 2025,
