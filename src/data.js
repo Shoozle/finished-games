@@ -4373,7 +4373,7 @@ const gamesData = [
         comment: `I really wish Rockstar would make smaller scale games like this as it was enjoyable to do the mini-game classes, especially English which was basically Countdown.`,
         imgLoc: `/img/Bully.jpg`
     },
-        {
+    {
         title: `Keeper`,
         score: 7,
         year: 2025,
@@ -4382,7 +4382,7 @@ const gamesData = [
         comment: `The puzzles are boring but I love the art direction and creature designs. Also just a weird concept in general. Very trippy at points. I thought the birds were wasted potential. Lovely cinematic shots too! Similar ending to Herdling which I played right before.`,
         imgLoc: `/img/Keeper.jpg`
     },
-        {
+    {
         title: `Herdling`,
         score: 7,
         year: 2025,
@@ -4391,7 +4391,16 @@ const gamesData = [
         comment: `This game is cute but lacks the special quality of something like Journey or Brothers. It's a bit too UI controller heavy instead of being natural. Music was beautiful, environments were nice and the monster naming was cute.`,
         imgLoc: `/img/Herdling.jpg`
     },
-        {
+    {
+        title: `Resident Evil 6`,
+        score: 5,
+        year: 2012,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `Needs an editor to trim it down to 1 campaign. No horror. Often felt like Call of Duty with 100x more explosions. All the women showed cleavage. Piers was cool. Simmons' transformations were really funny and he did a Monster Hunter move.`,
+        imgLoc: `/img/Resident Evil 6.jpg`
+    },
+    {
         title: `Alba: A Wildlife Adventure`,
         score: 5,
         year: 2020,
