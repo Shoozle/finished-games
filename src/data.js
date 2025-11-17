@@ -2953,11 +2953,11 @@ const gamesData = [
     },
     {
         title: `Journey`,
-        score: 8,
+        score: 6,
         year: 2012,
-        beaten: 1,
-        lastPlayed: 2012,
-        comment: `Beautiful music and scenery and creative online implemenations but I had played it solo, maybe something was lost there. The story presented is nothing meaningful and I would prefer it without cutscenes.`,
+        beaten: 2,
+        lastPlayed: 2025,
+        comment: `Beautiful music and scenery and creative online implemenations but I had played it solo, maybe something was lost there. The story presented is nothing meaningful and I would prefer it without cutscenes. Too slow when I replayed it in 2026`,
         imgLoc: `/img/Journey.jpg`
     },
     {
