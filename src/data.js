@@ -3911,7 +3911,7 @@ const gamesData = [
         year: 2025,
         beaten: 1,
         lastPlayed: 2025,
-        comment: `Chapter 2 throws everything at you that it kinda grinds to a half. Fantastic substories and lovely post credits scene. "Live long and well enough to pass your dreams onto someone else". I love Saejima. Navy stuff was a bit boring.`,
+        comment: `Chapter 2 throws everything at you that it kinda grinds to a halt. Fantastic substories and lovely post credits scene. "Live long and well enough to pass your dreams onto someone else". I love Saejima. Navy stuff was a bit boring.`,
         imgLoc: `/img/Pirate Yakuza.jpg`
     },
     {
@@ -3949,6 +3949,15 @@ const gamesData = [
         lastPlayed: 2011,
         comment: `One of the first games I bought DLC for. I liked to play new music I got for a while on this game but it didn't vary the game all that much and most of the time you were shooting at junk in space.`,
         imgLoc: `/img/Beat Hazard.jpg`
+    },
+        {
+        title: `Tick Tock: A Tale for Two`,
+        score: 5,
+        year: 2019,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `A co-op game that can be finished completely offline but not split-screen is funny and interesting. It's short enough to get done in 1 sitting and is sometimes clever, sometimes annoying.`,
+        imgLoc: `/img/Tick Tock.jpg`
     },
     {
         title: `New Super Mario Bros Wii`,
