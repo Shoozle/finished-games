@@ -3957,7 +3957,7 @@ const gamesData = [
         beaten: 1,
         lastPlayed: 2025,
         comment: `A co-op game that can be finished completely offline but not split-screen is funny and interesting. It's short enough to get done in 1 sitting and is sometimes clever, sometimes annoying.`,
-        imgLoc: `/img/Tick Tock.jpg`
+        imgLoc: `/img/Tick-Tock.jpg`
     },
     {
         title: `New Super Mario Bros Wii`,
