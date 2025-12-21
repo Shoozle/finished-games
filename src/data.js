@@ -773,6 +773,15 @@ const gamesData = [
         comment: `5 years it took since the reveal, and this is both the best and worst SMT I have played. Great visual design for UE, best exploration, great music but no real standouts. Story and characters are awful and going back to the Nocturne storytelling was bad.`,
         imgLoc: `/img/Shin Megami Tensei V.jpg`
     },
+        {
+        title: `Shin Megami Tensei V Vengeance`,
+        score: 7,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `An improvement over V but the first half is still a bore. Took 4 months to finish. Final area is great, still hate the characters and UI. Some good waifu demons though in the late game and my boy Dagda returns.`,
+        imgLoc: `/img/Shin Megami Tensei V Vengeance.jpg`
+    },
     {
         title: `Liblade`,
         score: 6,
