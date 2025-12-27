@@ -773,7 +773,7 @@ const gamesData = [
         comment: `5 years it took since the reveal, and this is both the best and worst SMT I have played. Great visual design for UE, best exploration, great music but no real standouts. Story and characters are awful and going back to the Nocturne storytelling was bad.`,
         imgLoc: `/img/Shin Megami Tensei V.jpg`
     },
-        {
+    {
         title: `Shin Megami Tensei V Vengeance`,
         score: 7,
         year: 2024,
@@ -2333,7 +2333,7 @@ const gamesData = [
     {
         title: `Yakuza 6`,
         score: 7,
-        year: 2015,
+        year: 2016,
         beaten: 1,
         lastPlayed: 2025,
         comment: `Felt fast paced compared to 4 and 5 thanks to being 1 character. Plot was easy-ish to follow. Onomichi as an area kinda sucks and both areas ended up feeling underutilized. Side quests needed more humour too. Loved flirting with Anri Okita and baby throw was very funny.`,
@@ -3968,7 +3968,7 @@ const gamesData = [
         comment: `One of the first games I bought DLC for. I liked to play new music I got for a while on this game but it didn't vary the game all that much and most of the time you were shooting at junk in space.`,
         imgLoc: `/img/Beat Hazard.jpg`
     },
-        {
+    {
         title: `Tick Tock: A Tale for Two`,
         score: 5,
         year: 2019,
