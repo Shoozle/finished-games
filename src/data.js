@@ -2477,9 +2477,9 @@ const gamesData = [
         {
         title: `Lil Gator Game`,
         score: 5,
-        year: 2015,
+        year: 2022,
         beaten: 1,
-        lastPlayed: 2019,
+        lastPlayed: 2025,
         comment: `Quite a sad ending but the writing was so awful that I had to mash buttons to skip it. Every second line could've been scrapped. Enviroment was a bit too samey and the camera was too closed in, barely got a sense of the environment. It was a worse 'A Short Hike'.`,
         imgLoc: `/img/Lil Gator Game.jpg`
     },
