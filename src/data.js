@@ -2354,7 +2354,7 @@ const gamesData = [
         year: 2015,
         beaten: 1,
         lastPlayed: 2015,
-        comment: `I remember being disappointed by no new story content and the rcreation tools were worse than what rom hack creators could use, but it was still great for the Wii U tablet and had a fun community.`,
+        comment: `I remember being disappointed by no new story content and the creation tools were worse than what rom hack creators could use, but it was still great for the Wii U tablet and had a fun community.`,
         imgLoc: `/img/Super Mario Maker.jpg`
     },
     {
@@ -2473,6 +2473,15 @@ const gamesData = [
         lastPlayed: 2019,
         comment: `I hated the humour and characters but the combat system is quite unique for a one-man team. It also has really good music and I am quite jealous Toby Fox got to visit Sakurai's house in Japan.`,
         imgLoc: `/img/Undertale.jpg`
+    },
+        {
+        title: `Lil Gator Game`,
+        score: 5,
+        year: 2015,
+        beaten: 1,
+        lastPlayed: 2019,
+        comment: `Quite a sad ending but the writing was so awful that I had to mash buttons to skip it. Every second line could've been scrapped. Enviroment was a bit too samey and the camera was too closed in, barely got a sense of the environment. It was a worse 'A Short Hike'.`,
+        imgLoc: `/img/Lil Gator Game.jpg`
     },
     {
         title: `Wasteland 2`,
