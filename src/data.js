@@ -2331,6 +2331,15 @@ const gamesData = [
         imgLoc: `/img/Yakuza 0.jpg`
     },
     {
+        title: `Yakuza 6`,
+        score: 7,
+        year: 2015,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `Felt fast paced compared to 4 and 5 thanks to being 1 character. Plot was easy-ish to follow. Onomichi as an area kinda sucks and both areas ended up feeling underutilized. Side quests needed more humour too. Loved flirting with Anri Okita and baby throw was very funny.`,
+        imgLoc: `/img/Yakuza 6.jpg`
+    },
+    {
         title: `Life is Strange`,
         score: 7,
         year: 2015,
