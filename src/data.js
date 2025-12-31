@@ -8,6 +8,15 @@ const gamesData = [
         comment: `An inoffensively boring game. Part fishing & part Resident Evil 4 Attach Case Tetris game. Could've been a pretty good cosmic horror game but it was far too on the nose. A lot of crabs!`,
         imgLoc: `/img/Dredge.jpg`
     },
+        {
+        title: `Lego City Undercover`,
+        score: 6,
+        year: 2013,
+        beaten: 1,
+        lastPlayed: 2025,
+        comment: `A charming city adventure game. Wish it was quicker to change between the abilities or did it for you. Some good music and humour but some of it is very dated. The mega build animations were super cool! Final game to finish in 2025.`,
+        imgLoc: `/img/Lego City Undercover.jpg`
+    },
     {
         title: `Hollow Knight: Silksong`,
         score: 7,
