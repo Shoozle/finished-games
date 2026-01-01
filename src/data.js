@@ -517,7 +517,7 @@ const gamesData = [
         score: 10,
         year: 2015,
         beaten: `5+`,
-        lastPlayed: 2025,
+        lastPlayed: 2026,
         comment: `10 years later, still a 10, and Sony didn't bother to acknowledge it! I love this world, the vibes, the music, the design, art style, weapons, writing, voice acting. It's just the absolute best. I just wish it ran better!`,
         imgLoc: `/img/Bloodborne.jpg`
     },
