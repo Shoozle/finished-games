@@ -3491,6 +3491,15 @@ const gamesData = [
         comment: `Played with a buddy and while an improvement over 2 I still didn't care for the tone of the franchise now being action heavy instead of the somewhat spooky vibe of the first game.`,
         imgLoc: `/img/Gears of War 3.jpg`
     },
+        {
+        title: `Gears of War: Ultimate Edition`,
+        score: 6,
+        year: 2015,
+        beaten: 1,
+        lastPlayed: 2017,
+        comment: `Some of the horror elements were cool and it is quite an iconic franchise. Neat cover system, shotgun was powerful. Played it in co-op and I think it was okay! I forgot to add this game to my site so I hope I did finish it, I don't remember!`,
+        imgLoc: `/img/Gears of War.jpg`
+    },
     {
         title: `Portal 2`,
         score: 5,
