@@ -8,7 +8,34 @@ const gamesData = [
         comment: `An inoffensively boring game. Part fishing & part Resident Evil 4 Attach Case Tetris game. Could've been a pretty good cosmic horror game but it was far too on the nose. A lot of crabs!`,
         imgLoc: `/img/Dredge.jpg`
     },
-        {
+    {
+        title: `Boxes: Lost Fragments`,
+        score: 7,
+        year: 2024,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `Unbashedly a clone of The Room games but it's surprisingly good! Neat visual themes but repeats some mechanics too much. Bit easier than The Room games too but it only cost me 49p.`,
+        imgLoc: `/img/Boxes Lost Fragments.jpg`
+    },
+    {
+        title: `Mika and the Witch's Mountain`,
+        score: 6,
+        year: 2025,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `Cute game, played it during work! Quite short and found navigating the world pretty boring but the side quests were neat like getting all the fishes. Birds being on signposts indicating something new was there was a neat idea.`,
+        imgLoc: `/img/Mika and the Witch's Mountain.jpg`
+    },
+    {
+        title: `Lords of the Fallen`,
+        score: 5,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `Starts off strong but the over reliance on the umbral world sucks! Might as well just stay in that world. Some great boss designs but generic enemies were reused too often and some bosses became regular enemies just 2 minutes later. Winterberry is cute!`,
+        imgLoc: `/img/Lords of the Fallen.jpg`
+    },
+    {
         title: `Lego City Undercover`,
         score: 6,
         year: 2013,
@@ -3491,7 +3518,7 @@ const gamesData = [
         comment: `Played with a buddy and while an improvement over 2 I still didn't care for the tone of the franchise now being action heavy instead of the somewhat spooky vibe of the first game.`,
         imgLoc: `/img/Gears of War 3.jpg`
     },
-        {
+    {
         title: `Gears of War: Ultimate Edition`,
         score: 6,
         year: 2015,
