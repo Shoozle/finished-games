@@ -8,6 +8,15 @@ const gamesData = [
         comment: `An inoffensively boring game. Part fishing & part Resident Evil 4 Attach Case Tetris game. Could've been a pretty good cosmic horror game but it was far too on the nose. A lot of crabs!`,
         imgLoc: `/img/Dredge.jpg`
     },
+        {
+        title: `Nioh 3`,
+        score: 6,
+        year: 2026,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `I am conflicted. The writing, dub and characters are bad which saddens me cos I loved William and Hide. The split of Samurai and Ninja sucks for cosmetic and I played Samurai for 90% of it. Some boring bosses, but some great ones. Technical issues too!`,
+        imgLoc: `/img/Nioh 3.jpg`
+    },
     {
         title: `Boxes: Lost Fragments`,
         score: 7,
