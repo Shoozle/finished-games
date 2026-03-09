@@ -8,7 +8,16 @@ const gamesData = [
         comment: `An inoffensively boring game. Part fishing & part Resident Evil 4 Attach Case Tetris game. Could've been a pretty good cosmic horror game but it was far too on the nose. A lot of crabs!`,
         imgLoc: `/img/Dredge.jpg`
     },
-        {
+    {
+        title: `Pokemon Pokopia`,
+        score: 8,
+        year: 2026,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `I should've had more faith in the DQ Builders team. Not a fan of the roster but some inclusions did shock me. Comfy game but inventory management was a chore due to the region split. Moving Pokemon was a pain but I loved the melancholy story.`,
+        imgLoc: `/img/Pokemon Pokopia.jpg`
+    },
+    {
         title: `Nioh 3`,
         score: 6,
         year: 2026,
