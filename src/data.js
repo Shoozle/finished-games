@@ -8,6 +8,24 @@ const gamesData = [
         comment: `An inoffensively boring game. Part fishing & part Resident Evil 4 Attach Case Tetris game. Could've been a pretty good cosmic horror game but it was far too on the nose. A lot of crabs!`,
         imgLoc: `/img/Dredge.jpg`
     },
+        {
+        title: `Haven Park`,
+        score: 3,
+        year: 2021,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `I think I hated this game. Used Square as X which made me think my controller was broken for a while. Annoying writing, barebones building mechanics. Camera was too zoomed in which cost a skill point to use. I really hated it.`,
+        imgLoc: `/img/Haven Park.jpg`
+    },
+            {
+        title: `Monster Hunter Stories 3`,
+        score: 7,
+        year: 2026,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `A really fun combat system that evolved from MHS2 well. Loved the Rise/Sunbreak representation. Story was a bit wank and wish new characters joined as it went on. The demo was neat but never beat Namielle, sad!`,
+        imgLoc: `/img/Monster Hunter Stories 3.jpg`
+    },
     {
         title: `Pokemon Pokopia`,
         score: 8,
