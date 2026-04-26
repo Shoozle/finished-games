@@ -8,7 +8,16 @@ const gamesData = [
         comment: `An inoffensively boring game. Part fishing & part Resident Evil 4 Attach Case Tetris game. Could've been a pretty good cosmic horror game but it was far too on the nose. A lot of crabs!`,
         imgLoc: `/img/Dredge.jpg`
     },
-        {
+    {
+        title: `OPUS: Prism Peak`,
+        score: 7,
+        year: 2026,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `Some fun momenets in first person, found it a bit too repetitive with poor pacing. I quite like games with death as a central theme but didn't enjoy taking photos all that much. Some great music and scenery.`,
+        imgLoc: `/img/Opus Prism Peak.jpg`
+    },
+    {
         title: `Haven Park`,
         score: 3,
         year: 2021,
@@ -17,7 +26,7 @@ const gamesData = [
         comment: `I think I hated this game. Used Square as X which made me think my controller was broken for a while. Annoying writing, barebones building mechanics. Camera was too zoomed in which cost a skill point to use. I really hated it.`,
         imgLoc: `/img/Haven Park.jpg`
     },
-            {
+    {
         title: `Monster Hunter Stories 3`,
         score: 7,
         year: 2026,
