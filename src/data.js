@@ -8,6 +8,15 @@ const gamesData = [
         comment: `An inoffensively boring game. Part fishing & part Resident Evil 4 Attach Case Tetris game. Could've been a pretty good cosmic horror game but it was far too on the nose. A lot of crabs!`,
         imgLoc: `/img/Dredge.jpg`
     },
+        {
+        title: `Moomintroll: Winter's Warmth`,
+        score: 6,
+        year: 2026,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `A simple adventure game, bit too basic and not a lot fun things to do when walking but I liked the vibe. Weird to not release in Winter... Liked the cast and glad it was different from Snufkin's game but a bit too repetitive gameplay and area wise.`,
+        imgLoc: `/img/Moomintroll Winter's Warmth.jpg`
+    },
     {
         title: `OPUS: Prism Peak`,
         score: 7,
