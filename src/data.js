@@ -829,11 +829,11 @@ const gamesData = [
     },
     {
         title: `Monster Hunter Rise`,
-        score: 8,
+        score: 7,
         year: 2021,
-        beaten: 2,
-        lastPlayed: 2022,
-        comment: `Monster Hunter goes full Japan mode and it's great. The new monsters are the best set so far but I still miss many older ones not seen in a long time like Qurupeco.`,
+        beaten: 3,
+        lastPlayed: 2026,
+        comment: `Monster Hunter goes full Japan mode and it's great. The new monsters are the best set so far but I still miss many older ones not seen in a long time like Qurupeco. Short main game and the rampage mode is quite boring.`,
         imgLoc: `/img/Monster Hunter Rise.jpg`
     },
     {
