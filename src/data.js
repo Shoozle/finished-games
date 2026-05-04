@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
         {
+        title: `Like a Dragon: Ishin`,
+        score: 7,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `A pretty good game but I played it over the course of a year so I forgot a lot of things. Funny side stories, but a lot of the main game was "hey, it's that guy". Liked the amount of mini-games and combat styles were good. Solid spin-off!`,
+        imgLoc: `/img/Like a Dragon Ishin.jpg`
+    },
+        {
         title: `Moomintroll: Winter's Warmth`,
         score: 6,
         year: 2026,
