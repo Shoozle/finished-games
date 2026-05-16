@@ -14,7 +14,7 @@ const gamesData = [
         year: 2026,
         beaten: 1,
         lastPlayed: 2026,
-        comment: `A nostalgic musical adventure. Can't relate to a lot of it, my life is quite pathetic but the amount of gameplay variety, detail and how weird it all is, was wonderful. Potishead is a plus, good music overall. Main protag being a bitch is wonderful to see. Fuck Jenny Goodspeed!`,
+        comment: `A nostalgic musical adventure. Can't relate to a lot of it, my life is quite pathetic but the amount of gameplay variety, detail and how weird it all is, was wonderful. Portishead is a plus, good music throughout. Main protag being a bitch is wonderful to see. Fuck Jenny Goodspeed!`,
         imgLoc: `/img/Mixtape.jpg`
     },
     {
