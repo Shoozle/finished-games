@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
         {
+        title: `Mixtape`,
+        score: 8,
+        year: 2026,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `A nostalgic musical adventure. Can't relate to a lot of it, my life is quite pathetic but the amount of gameplay variety, detail and how weird it all is, was wonderful. Potishead is a plus, good music overall. Main protag being a bitch is wonderful to see. Fuck Jenny Goodspeed!`,
+        imgLoc: `/img/Mixtape.jpg`
+    },
+    {
         title: `Like a Dragon: Ishin`,
         score: 7,
         year: 2023,
@@ -17,7 +26,7 @@ const gamesData = [
         comment: `A pretty good game but I played it over the course of a year so I forgot a lot of things. Funny side stories, but a lot of the main game was "hey, it's that guy". Liked the amount of mini-games and combat styles were good. Solid spin-off!`,
         imgLoc: `/img/Like a Dragon Ishin.jpg`
     },
-        {
+    {
         title: `Moomintroll: Winter's Warmth`,
         score: 6,
         year: 2026,
