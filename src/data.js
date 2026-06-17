@@ -8,7 +8,16 @@ const gamesData = [
         comment: `An inoffensively boring game. Part fishing & part Resident Evil 4 Attach Case Tetris game. Could've been a pretty good cosmic horror game but it was far too on the nose. A lot of crabs!`,
         imgLoc: `/img/Dredge.jpg`
     },
-        {
+    {
+        title: `Lumines Arise`,
+        score: 7,
+        year: 2025,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `Really good music but again like Tetris Effect, some awful ones. The Luumi designs can be cute. Some gorgeous visuals. Too hard for a dum-dum like me but forgiving enough to still enjoy it and get in a groove.`,
+        imgLoc: `/img/Lumines Arise.jpg`
+    },
+    {
         title: `Mixtape`,
         score: 8,
         year: 2026,
