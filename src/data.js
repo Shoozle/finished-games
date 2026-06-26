@@ -1063,11 +1063,11 @@ const gamesData = [
     },
     {
         title: `Xenoblade Chronicles: Definitive Edition`,
-        score: 7,
+        score: 9,
         year: 2020,
-        beaten: 1,
-        lastPlayed: 2021,
-        comment: `The levels feel very wide and flat but I blame the Wii for that. Still, it's got such good music and the QoL related to quests is a 10. I got filtered and turned on casual mode after taking a 1 year break mid-way through.`,
+        beaten: 2,
+        lastPlayed: 2026,
+        comment: `The signs of the Wii limitations are still present but my word, what a world. Switch 2 upgrade improved it a lot but fps fluctuates. Ether jet speeds it up and quests are still a chore but the music is still great. I love it as much as the original.`,
         imgLoc: `/img/Xenoblade Chronicles DE.jpg`
     },
     {
