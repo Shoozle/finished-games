@@ -597,9 +597,9 @@ const gamesData = [
         title: `Pokemon Black 2 & White 2`,
         score: 8,
         year: 2012,
-        beaten: 3,
-        lastPlayed: 2022,
-        comment: `The most packed Pokemon game. Retreading past areas was a bit of a chore but plenty of changes were made to the environments. Absurd amount of side content, the ties to N were great. A shame the online died so quickly. I wish the "third" versions of each Gen were this good.`,
+        beaten: 4,
+        lastPlayed: 2026,
+        comment: `In 2026, I completed my Professor Oak challenge which first began in November 2024 and it took over 202 hours until I hit the credits. Still a great game but it made me hate grottos. Some really good guides out there for people who want to suffer alongside me.`,
         imgLoc: `/img/Pokemon Black 2 & White 2.jpg`
     },
     {
@@ -2399,7 +2399,7 @@ const gamesData = [
         year: 2015,
         beaten: 2,
         lastPlayed: 2019,
-        comment: `What a step up from Witcher 2 is such a short time that set 'next-gen' in motion. Really brought back the slavic vibe that was present in 1 in such a wide scale beautiful game. And Shani came back for the DLC.`,
+        comment: `What a step up from Witcher 2 in such a short time that set 'next-gen' in motion. Really brought back the slavic vibe that was present in 1 in such a wide scale beautiful game. And Shani came back for the DLC.`,
         imgLoc: `/img/The Witcher 3.jpg`
     },
     {
@@ -3998,7 +3998,7 @@ const gamesData = [
     {
         title: `Mirror's Edge`,
         score: 6,
-        year: 2009,
+        year: 2008,
         beaten: 1,
         lastPlayed: 2012,
         comment: `Really enjoyed the style of the city and parkour controls were great. Quite expensive for a short game but that Still Alive song is something I still love to this day. One of my friends favourite games. Story was boring.`,
