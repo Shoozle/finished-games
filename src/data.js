@@ -586,11 +586,11 @@ const gamesData = [
     },
     {
         title: `Grim Dawn`,
-        score: 8,
+        score: 9,
         year: 2016,
         beaten: `5+`,
-        lastPlayed: 2024,
-        comment: `The APRG that feels "most right" to me even if a bit slow. Excellent lore, dark tone, wonderful Dual-class system, active modding community, build variety. It was a great Birthday gift with 1700+ hours spent.`,
+        lastPlayed: 2026,
+        comment: `With the release of the final expansion, I bumped this to a 9, mainly for the hours invested. I am a bit tired of the campaign after over 2000 hours but now I can be a big bird with a pet bird, that looked evil cos I specced in Chaos damage.`,
         imgLoc: `/img/Grim Dawn.jpg`
     },
     {
