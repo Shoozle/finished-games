@@ -1972,11 +1972,11 @@ const gamesData = [
     },
     {
         title: `Xenoblade Chronicles 2`,
-        score: 7,
+        score: 8,
         year: 2017,
-        beaten: 1,
-        lastPlayed: 2019,
-        comment: `Somehow released in December 2017 despite me saying it will be delayed but it did need more time in the oven. Regardless that music is super underappreciated and patches did come out to fix a lot of minor issues.`,
+        beaten: 3,
+        lastPlayed: 2026,
+        comment: `The Switch 2 update is great for smoothing the field skill crap that made me cry back in 2017. Music still gets me emotional, I'm more aware of combat mechanics but it's still a flawed game. Too much menuing! Poppi best Blade.`,
         imgLoc: `/img/Xenoblade Chronicles 2.jpg`
     },
     {
