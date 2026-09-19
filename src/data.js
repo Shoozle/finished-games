@@ -1836,6 +1836,15 @@ const gamesData = [
         imgLoc: `/img/The Legend of Zelda Breath of the Wild.jpg`
     },
     {
+        title: `The Legend of Zelda Tears of the Kingdom`,
+        score: 7,
+        year: 2023,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `Why do I love BOTW so much but feel almost nothing for this. Perhaps it's due to retreading same areas, characters, story beats. But the ending is great. Building anything made me want to cry.`,
+        imgLoc: `/img/The Legend of Zelda Tears of the Kingdom.jpg`
+    },
+    {
         title: `Nier Automata`,
         score: 9,
         year: 2017,
