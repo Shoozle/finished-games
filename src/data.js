@@ -2322,6 +2322,15 @@ const gamesData = [
         imgLoc: `/img/Planet Coaster.jpg`
     },
     {
+        title: `Planet Zoo`,
+        score: 7,
+        year: 2019,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `A game I took far too long to play but did thanks to YouTubers, my newfound love of birds, and frequent visits to Chester Zoo. The story was quite dark/funny. Pathing annoyed me endlessly. A lot of paid DLC!`,
+        imgLoc: `/img/Planet Zoo.jpg`
+    },
+    {
         title: `Gears of War 4`,
         score: 5,
         year: 2016,
