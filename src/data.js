@@ -559,11 +559,11 @@ const gamesData = [
     },
     {
         title: `Pokemon Scarlet & Violet`,
-        score: 7,
+        score: 6,
         year: 2022,
-        beaten: 3,
-        lastPlayed: 2025,
-        comment: `Switch 2 update somehow makes it... better and also a little bit worse. Lack of budget shows. Really needs less text boxes. Got a shiny guitar boy who got one shot by any ground move. Larry still the best. DLC expansion is kinda ass.`,
+        beaten: 4,
+        lastPlayed: 2026,
+        comment: `Switch 2 update somehow makes it... better and also a little bit worse. Lack of budget shows. Really needs less text boxes. Got a shiny guitar boy who got one shot by any ground move. Larry still the best. DLC expansion is kinda ass. Did a bird only playthrough which made me like Senshu style Oricorio.`,
         imgLoc: `/img/Pokemon Scarlet & Violet.jpg`
     },
     {
