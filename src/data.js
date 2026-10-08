@@ -621,6 +621,15 @@ const gamesData = [
         imgLoc: `/img/Dynasty Warriors 3.jpg`
     },
     {
+        title: `Dynasty Warriors 3 Remastered`,
+        score: 8,
+        year: 2026,
+        beaten: "5+",
+        lastPlayed: 2026,
+        comment: `Childhood favourite restored! And I mostly love. It kicks my ass, hard. The menus are fast, music is great, and they went all in on recreating classic gameplay with plenty of options for modern controls. Morale needs improving so my allies are less crap. Guan Yu still rules!`,
+        imgLoc: `/img/Dynasty Warriors 3 Remastered.jpg`
+    },
+    {
         title: `Bloodborne`,
         score: 10,
         year: 2015,
