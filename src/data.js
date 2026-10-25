@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Planet Zoo 2`,
+        score: 5,
+        year: 2026,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `Utter disappointment. The career mode is very plain with no obstacles or interesting scenarios. Too full of NPCs praising you without a good story. Too many bugs. Not enough birds. But the models are still lovely but animations can be a bit crap.`,
+        imgLoc: `/img/Planet Zoo 2.jpg`
+    },
+    {
         title: `Lumines Arise`,
         score: 7,
         year: 2025,
