@@ -9,6 +9,15 @@ const gamesData = [
         imgLoc: `/img/Dredge.jpg`
     },
     {
+        title: `Hades 2`,
+        score: 8,
+        year: 2025,
+        beaten: 1,
+        lastPlayed: 2026,
+        comment: `An early-ish Christmas present and I got absolutely hooked to it for a week, I think I played it from midnight to 12pm on two occassions. The weapons were disappointing compared to the first game, but the music, the sirens, the storybuilding of Olympus especially, were really good.`,
+        imgLoc: `/img/Hades 2.jpg`
+    },
+    {
         title: `Planet Zoo 2`,
         score: 5,
         year: 2026,
